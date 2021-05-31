@@ -11,7 +11,7 @@ permalink: /publications/wosc-saaf
 Robert Cordingly, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, David Foster, David Perez, Rashad Hatchett, Wes Lloyd  
 *Proceedings of the Sixth International Workshop on Serverless Computing* ***(WoSC 2021)***
 
-[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9251194)[\[Code\]](https://github.com/wlloyduw/FaaSProgLangComp)
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9251194) [\[Code\]](https://github.com/wlloyduw/FaaSProgLangComp)
 
 ## Abstract
 

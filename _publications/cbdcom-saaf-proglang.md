@@ -11,7 +11,7 @@ permalink: /publications/cbdcom-saaf-proglang
 Robert Cordingly, **Hanfei Yu**, Varik Hoang, David Perez, David Foster, Zohreh Sadeghi, Rashad Hatchett, Wes J Lloyd  
 *IEEE International Conference on Cloud and Big Data Computing* ***(CBDCom 2020)***
 
-[\[Paper\]](https://arxiv.org/abs/2012.13400)[\[Code\]](https://github.com/airesearchuwt/spamGAN)
+[\[Paper\]](https://arxiv.org/abs/2012.13400) [\[Code\]](https://github.com/airesearchuwt/spamGAN)
 
 ## Abstract
 

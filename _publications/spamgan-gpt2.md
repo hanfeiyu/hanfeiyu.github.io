@@ -11,7 +11,7 @@ permalink: /publications/spamgan-gpt2
 Athirai A. Irissappane, **Hanfei Yu**, Yankun Shen, Anubha Agrawal, Gray Stanton  
 *arXiv preprint*
 
-[[Paper]](https://arxiv.org/abs/2012.13400)[[Code]](https://github.com/airesearchuwt/spamGAN)
+[[Paper]](https://arxiv.org/abs/2012.13400) [[Code]](https://github.com/airesearchuwt/spamGAN)
 
 ## Abstract
 
