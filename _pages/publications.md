@@ -15,22 +15,22 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-[**FaaSRank: A Reinforcement Learning Scheduler for Serverless Function-as-a-Service Platforms**](http://hanfeiyu.github.io/publications/master-thesis)  
+[**FaaSRank: A Reinforcement Learning Scheduler for Serverless Function-as-a-Service Platforms**](https://hanfeiyu.github.io/publications/master-thesis)  
 **Hanfei Yu**  
 *University of Washington, ProQuest Dissertations Publishing*
 
-[**Enhancing Observability of Serverless Computing with the Serverless Application Analytics Framework**](http://hanfeiyu.github.io/publications/icpe-tutorial-saaf)  
+[**Enhancing Observability of Serverless Computing with the Serverless Application Analytics Framework**](https://hanfeiyu.github.io/publications/icpe-tutorial-saaf)  
 Robert Cordingly, Navid Heydari, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, Wes Lloyd  
 *Companion of the ACM/SPEC International Conference on Performance Engineering* ***(ICPE 2021)***
 
-[**The Serverless Application Analytics Framework: Enabling Design Trade-off Evaluation for Serverless Software**](http://hanfeiyu.github.io/publications/wosc-saaf)  
+[**The Serverless Application Analytics Framework: Enabling Design Trade-off Evaluation for Serverless Software**](https://hanfeiyu.github.io/publications/wosc-saaf)  
 Robert Cordingly, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, David Foster, David Perez, Rashad Hatchett, Wes Lloyd  
 *Proceedings of the Sixth International Workshop on Serverless Computing* ***(WoSC 2021)***
 
-[**Leveraging GPT-2 for Classifying Spam Reviews with Limited Labeled Data via Adversarial Training**](http://hanfeiyu.github.io/publications/spamgan-gpt2)  
+[**Leveraging GPT-2 for Classifying Spam Reviews with Limited Labeled Data via Adversarial Training**](https://hanfeiyu.github.io/publications/spamgan-gpt2)  
 Athirai A. Irissappane, **Hanfei Yu**, Yankun Shen, Anubha Agrawal, Gray Stanton  
 *arXiv preprint*
 
-[**Implications of Programming Language Selection for Serverless Data Processing Pipelines**](http://hanfeiyu.github.io/publications/cbdcom-saaf-proglang)  
+[**Implications of Programming Language Selection for Serverless Data Processing Pipelines**](https://hanfeiyu.github.io/publications/cbdcom-saaf-proglang)  
 Robert Cordingly, **Hanfei Yu**, Varik Hoang, David Perez, David Foster, Zohreh Sadeghi, Rashad Hatchett, Wes J Lloyd  
 *IEEE International Conference on Cloud and Big Data Computing* ***(CBDCom 2020)***
