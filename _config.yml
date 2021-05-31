@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Hanfei Yu"
 title_separator          : "-"
 name                     : &name "Hanfei Yu"
-description              : &description "Ph.D. student in the Division of Computer Science and Engineering, at Louisiana State University"
-url                      : https://github.com/hanfeiyu/hanfeiyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Ph.D. student, Division of Computer Science and Engineering, Louisiana State University"
+url                      : https://hanfeiyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hanfeiyu/hanfeiyu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hanfei Yu"
-  avatar           : "profile.png"
+  avatar           : "me.jpeg"
   bio              : "Ph.D. student, Division of Computer Science and Engineering, Louisiana State University"
   location         : "Baton Rouge, LA, USA"
   employer         :
