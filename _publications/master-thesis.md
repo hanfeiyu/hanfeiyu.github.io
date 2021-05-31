@@ -4,12 +4,14 @@ collection: publications
 permalink: /publications/master-thesis
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 # date: 2015-10-01
-venue: 'University of Washington, ProQuest Dissertations Publishing.'
+# venue: 'University of Washington, ProQuest Dissertations Publishing'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: '**Hanfei Yu**'
+# citation: '**Hanfei Yu**'
 ---
+**Hanfei Yu**  
+*University of Washington, ProQuest Dissertations Publishing*
 
-[PDF](https://www.proquest.com/openview/cb0b594bcb6061a2f70964d0ddeff212/1?pq-origsite=gscholar&cbl=18750&diss=y)[Code]
+[\[Paper\]](https://www.proquest.com/openview/cb0b594bcb6061a2f70964d0ddeff212/1?pq-origsite=gscholar&cbl=18750&diss=y)[Code]
 
 ## Abstract
 

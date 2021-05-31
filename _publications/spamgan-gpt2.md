@@ -4,12 +4,14 @@ collection: publications
 permalink: /publications/spamgan-gpt2
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # date: 2020-12-24
-venue: 'arXiv preprint'
+# venue: 'arXiv preprint'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Athirai A. Irissappane, **Hanfei Yu**, Yankun Shen, Anubha Agrawal, Gray Stanton'
+# citation: 'Athirai A. Irissappane, **Hanfei Yu**, Yankun Shen, Anubha Agrawal, Gray Stanton'
 ---
+Athirai A. Irissappane, **Hanfei Yu**, Yankun Shen, Anubha Agrawal, Gray Stanton  
+*arXiv preprint*
 
-[PDF](https://arxiv.org/abs/2012.13400)[Code](https://github.com/airesearchuwt/spamGAN)
+[[Paper]](https://arxiv.org/abs/2012.13400)[[Code]](https://github.com/airesearchuwt/spamGAN)
 
 ## Abstract
 

@@ -4,12 +4,14 @@ collection: publications
 permalink: /publications/wosc-saaf
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 # date: 2010-10-01
-venue: 'Proceedings of the Sixth International Workshop on Serverless Computing (WoSC 2021)'
+# venue: 'Proceedings of the Sixth International Workshop on Serverless Computing (WoSC 2021)'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Robert Cordingly, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, David Foster, David Perez, Rashad Hatchett, Wes Lloyd'
+# citation: 'Robert Cordingly, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, David Foster, David Perez, Rashad Hatchett, Wes Lloyd'
 ---
+Robert Cordingly, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, David Foster, David Perez, Rashad Hatchett, Wes Lloyd  
+*Proceedings of the Sixth International Workshop on Serverless Computing* ***(WoSC 2021)***
 
-[PDF](https://ieeexplore.ieee.org/abstract/document/9251194)[Code](https://github.com/wlloyduw/FaaSProgLangComp)
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9251194)[\[Code\]](https://github.com/wlloyduw/FaaSProgLangComp)
 
 ## Abstract
 

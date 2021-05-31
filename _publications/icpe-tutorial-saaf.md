@@ -4,12 +4,14 @@ collection: publications
 permalink: /publications/icpe-tutorial-saaf
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 # date: 2015-10-01
-venue: 'Companion of the ACM/SPEC International Conference on Performance Engineering (ICPE 2021)'
+# venue: 'Companion of the ACM/SPEC International Conference on Performance Engineering (ICPE 2021)'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Robert Cordingly, Navid Heydari, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, Wes Lloyd'
+# citation: 'Robert Cordingly, Navid Heydari, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, Wes Lloyd'
 ---
+Robert Cordingly, Navid Heydari, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, Wes Lloyd  
+*Companion of the ACM/SPEC International Conference on Performance Engineering* ***(ICPE 2021)***
 
-[PDF](https://dl.acm.org/doi/abs/10.1145/3447545.3451173)[Code](https://github.com/wlloyduw/SAAF)
+[\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3447545.3451173)[\[Code\]](https://github.com/wlloyduw/SAAF)
 
 ## Abstract
 
