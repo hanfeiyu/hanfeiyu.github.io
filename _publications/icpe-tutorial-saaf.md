@@ -6,7 +6,7 @@ permalink: /publication/icpe-tutorial-saaf
 # date: 2015-10-01
 venue: 'Companion of the ACM/SPEC International Conference on Performance Engineering (ICPE 2021)'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Robert Cordingly, Navid Heydari, <b>Hanfei Yu</b>, Varik Hoang, Zohreh Sadeghi, Wes Lloyd'
+citation: 'Robert Cordingly, Navid Heydari, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, Wes Lloyd'
 ---
 
 [PDF](https://dl.acm.org/doi/abs/10.1145/3447545.3451173)[Code](https://github.com/wlloyduw/SAAF)

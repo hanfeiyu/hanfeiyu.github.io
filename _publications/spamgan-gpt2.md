@@ -6,7 +6,7 @@ permalink: /publication/spamgan-gpt2
 # date: 2020-12-24
 venue: 'arXiv preprint'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Athirai A. Irissappane, <b>Hanfei Yu</b>, Yankun Shen, Anubha Agrawal, Gray Stanton'
+citation: 'Athirai A. Irissappane, **Hanfei Yu**, Yankun Shen, Anubha Agrawal, Gray Stanton'
 ---
 
 [PDF](https://arxiv.org/abs/2012.13400)[Code](https://github.com/airesearchuwt/spamGAN)

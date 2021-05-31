@@ -6,7 +6,7 @@ permalink: /publication/master-thesis
 # date: 2015-10-01
 venue: 'University of Washington, ProQuest Dissertations Publishing.'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: '<b>Hanfei Yu</b>'
+citation: '**Hanfei Yu**'
 ---
 
 [PDF](https://www.proquest.com/openview/cb0b594bcb6061a2f70964d0ddeff212/1?pq-origsite=gscholar&cbl=18750&diss=y)[Code]
