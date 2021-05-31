@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. student, Division of Computer Science and Engineering, Louisiana State University"
   location         : "Baton Rouge, LA, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=T6TVaZEAAAAJ"
   email            : "hyu25@lsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
