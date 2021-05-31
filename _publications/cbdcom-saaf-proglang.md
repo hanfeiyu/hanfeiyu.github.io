@@ -1,7 +1,7 @@
 ---
 title: "Implications of Programming Language Selection for Serverless Data Processing Pipelines"
 collection: publications
-permalink: /publication/cbdcom-saaf-proglang
+permalink: /publications/cbdcom-saaf-proglang
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 # date: 2015-10-01
 venue: 'IEEE International Conference on Cloud and Big Data Computing (CBDCom 2020)'

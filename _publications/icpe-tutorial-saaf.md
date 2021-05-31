@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Observability of Serverless Computing with the Serverless Application Analytics Framework"
 collection: publications
-permalink: /publication/icpe-tutorial-saaf
+permalink: /publications/icpe-tutorial-saaf
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 # date: 2015-10-01
 venue: 'Companion of the ACM/SPEC International Conference on Performance Engineering (ICPE 2021)'

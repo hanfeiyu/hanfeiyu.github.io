@@ -1,7 +1,7 @@
 ---
 title: "FaaSRank: A Reinforcement Learning Scheduler for Serverless Function-as-a-Service Platforms"
 collection: publications
-permalink: /publication/master-thesis
+permalink: /publications/master-thesis
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 # date: 2015-10-01
 venue: 'University of Washington, ProQuest Dissertations Publishing.'

@@ -1,7 +1,7 @@
 ---
 title: "Leveraging GPT-2 for Classifying Spam Reviews with Limited Labeled Data via Adversarial Training"
 collection: publications
-permalink: /publication/spamgan-gpt2
+permalink: /publications/spamgan-gpt2
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # date: 2020-12-24
 venue: 'arXiv preprint'

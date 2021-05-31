@@ -1,7 +1,7 @@
 ---
 title: "The Serverless Application Analytics Framework: Enabling Design Trade-off Evaluation for Serverless Software"
 collection: publications
-permalink: /publication/wosc-saaf
+permalink: /publications/wosc-saaf
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 # date: 2010-10-01
 venue: 'Proceedings of the Sixth International Workshop on Serverless Computing (WoSC 2021)'
