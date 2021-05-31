@@ -15,10 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-[**FaaSRank: A Reinforcement Learning Scheduler for Serverless Function-as-a-Service Platforms**](https://hanfeiyu.github.io/publications/master-thesis.md)  
+[**FaaSRank: A Reinforcement Learning Scheduler for Serverless Function-as-a-Service Platforms**](http://hanfeiyu.github.io/publications/master-thesis)  
 **Hanfei Yu**  
-*University of Washington, ProQuest Dissertations Publishing.*
+*University of Washington, ProQuest Dissertations Publishing*
 
-[**Enhancing Observability of Serverless Computing with the Serverless Application Analytics Framework**](https://hanfeiyu.github.io/publications/icpe-tutorial-saaf.md)  
+[**Enhancing Observability of Serverless Computing with the Serverless Application Analytics Framework**](http://hanfeiyu.github.io/publications/icpe-tutorial-saaf)  
 Robert Cordingly, Navid Heydari, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, Wes Lloyd  
-*Companion of the ACM/SPEC International Conference on Performance Engineering (ICPE 2021)*
+*Companion of the ACM/SPEC International Conference on Performance Engineering* ***(ICPE 2021)***
