@@ -15,7 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-<br>
-<b>[Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model](http://lantaoyu.com/publications/RAL21)</b> <br>
-Jiankai Sun, <b>Lantao Yu</b>, Pinqian Dong, Bo Lu, Bolei Zhou.
-<i>IEEE Robotics and Automation Letters</i>. <b>RA-L 2021</b> and <b>ICRA 2021</b>.
+[**FaaSRank: A Reinforcement Learning Scheduler for Serverless Function-as-a-Service Platforms**](https://hanfeiyu.github.io/publications/master-thesis)
+**Hanfei Yu**
+*University of Washington, ProQuest Dissertations Publishing.*
+
+[**Enhancing Observability of Serverless Computing with the Serverless Application Analytics Framework**](https://hanfeiyu.github.io/publications/icpe-tutorial-saaf)
+Robert Cordingly, Navid Heydari, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, Wes Lloyd
+*Companion of the ACM/SPEC International Conference on Performance Engineering (ICPE 2021)*
