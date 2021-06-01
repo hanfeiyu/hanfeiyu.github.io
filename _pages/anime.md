@@ -9,7 +9,6 @@ author_profile: true
 
 ### Slice of Life
 
-* [氷菓](https://en.wikipedia.org/wiki/Hyouka), Kyoto Animation
 * [日常](https://en.wikipedia.org/wiki/Nichijou), Kyoto Animation
 * [男子高校生の日常](https://en.wikipedia.org/wiki/Daily_Lives_of_High_School_Boys), Sunrise
 * [女子高生の無駄づかい](https://en.wikipedia.org/wiki/Wasteful_Days_of_High_School_Girls), Passione
@@ -20,6 +19,7 @@ author_profile: true
 
 ### Coming-of-Age
 
+* [氷菓](https://en.wikipedia.org/wiki/Hyouka), Kyoto Animation
 * [響け! ユーフォニアム](https://en.wikipedia.org/wiki/Sound!_Euphonium), Kyoto Animation
 * [ヴァイオレット・エヴァーガーデン](https://en.wikipedia.org/wiki/Violet_Evergarden), Kyoto Animation
 * [花咲くいろは](https://en.wikipedia.org/wiki/Hanasaku_Iroha), P.A.Works
