@@ -5,7 +5,7 @@ permalink: /anime/
 author_profile: true
 ---
 
-## List of Animes Recommended by Hanfei
+## Recommended List of Animes
 
 ### Slice of Life
 
