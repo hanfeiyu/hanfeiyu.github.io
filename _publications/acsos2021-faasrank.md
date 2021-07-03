@@ -1,5 +1,5 @@
 ---
-title: "FaaSRank: A Reinforcement Learning Scheduler for Serverless Function-as-a-Service Platforms"
+title: "FaaSRank: Learning to Schedule Functions in Serverless Platforms"
 collection: publications
 permalink: /publications/acsos2021-faasrank
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
