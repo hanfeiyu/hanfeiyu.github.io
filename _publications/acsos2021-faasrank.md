@@ -8,7 +8,7 @@ permalink: /publications/acsos2021-faasrank
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: '**Hanfei Yu**'
 ---
-**Hanfei Yu** , Athirai A. Irissappane, Hao Wang, Wes J. Lloyd
+**Hanfei Yu** , Athirai A. Irissappane, Hao Wang, Wes J. Lloyd  
 *IEEE International Conference on Autonomic Computing and Self-Organizing Systems* ***(ACSOS 2021)***
 
 <!---[\[Paper\]](https://hanfeiyu.github.io/publications/acsos2021-faasrank) [\[Code\]](https://hanfeiyu.github.io/publications/acsos2021-faasrank)-->
