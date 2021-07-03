@@ -18,7 +18,7 @@ author_profile: true
 ## 2021
 
 [FaaSRank: Learning to Schedule Functions in Serverless Platforms](https://hanfeiyu.github.io/publications/acsos2021-faasrank)  
-**Hanfei Yu** , Athirai A. Irissappane, Hao Wang, Wes J. Lloyd
+**Hanfei Yu** , Athirai A. Irissappane, Hao Wang, Wes J. Lloyd  
 *IEEE International Conference on Autonomic Computing and Self-Organizing Systems* ***(ACSOS 2021)***
 
 [FaaSRank: A Reinforcement Learning Scheduler for Serverless Function-as-a-Service Platforms](https://hanfeiyu.github.io/publications/master-thesis)  
