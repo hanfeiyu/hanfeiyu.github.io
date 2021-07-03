@@ -17,4 +17,5 @@ redirect_from:
 
 # News
 
-* (05/31/2021) Hello world from Hanfei's personal website!
+* **07/02/2021** One paper accepted to [ACSOS 2021](https://conf.researchr.org/home/acsos-2021).
+* **05/31/2021** Hello world from Hanfei's personal website!

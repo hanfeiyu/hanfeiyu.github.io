@@ -11,7 +11,7 @@ permalink: /publications/master-thesis
 **Hanfei Yu**  
 *University of Washington, ProQuest Dissertations Publishing*
 
-[\[Paper\]](https://www.proquest.com/openview/cb0b594bcb6061a2f70964d0ddeff212/1?pq-origsite=gscholar&cbl=18750&diss=y) [Code]
+[\[Paper\]](https://www.proquest.com/openview/cb0b594bcb6061a2f70964d0ddeff212/1?pq-origsite=gscholar&cbl=18750&diss=y) [\[Code\]](https://hanfeiyu.github.io/publications/master-thesis)
 
 ## Abstract
 

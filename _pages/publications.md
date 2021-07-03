@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## 2021
+
+[**FaaSRank: A Reinforcement Learning Scheduler for Serverless Function-as-a-Service Platforms**](https://hanfeiyu.github.io/publications/acsos2021-faasrank)  
+**Hanfei Yu** , Athirai A. Irissappane, Hao Wang, Wes J. Lloyd
+*IEEE International Conference on Autonomic Computing and Self-Organizing Systems* ***(ACSOS 2021)***
+
 [**FaaSRank: A Reinforcement Learning Scheduler for Serverless Function-as-a-Service Platforms**](https://hanfeiyu.github.io/publications/master-thesis)  
 **Hanfei Yu**  
 *University of Washington, ProQuest Dissertations Publishing*
@@ -30,6 +36,8 @@ Robert Cordingly, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, David Foster, Davi
 [**Leveraging GPT-2 for Classifying Spam Reviews with Limited Labeled Data via Adversarial Training**](https://hanfeiyu.github.io/publications/spamgan-gpt2)  
 Athirai A. Irissappane, **Hanfei Yu**, Yankun Shen, Anubha Agrawal, Gray Stanton  
 *arXiv preprint*
+
+## 2020
 
 [**Implications of Programming Language Selection for Serverless Data Processing Pipelines**](https://hanfeiyu.github.io/publications/cbdcom-saaf-proglang)  
 Robert Cordingly, **Hanfei Yu**, Varik Hoang, David Perez, David Foster, Zohreh Sadeghi, Rashad Hatchett, Wes J Lloyd  
