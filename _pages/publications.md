@@ -15,7 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## 2021
+## Ph.D.
+
+======
+
+## Master
+
+### 2021
 
 [FaaSRank: Learning to Schedule Functions in Serverless Platforms](https://hanfeiyu.github.io/publications/acsos2021-faasrank)  
 **Hanfei Yu** , Athirai A. Irissappane, Hao Wang, Wes J. Lloyd  
@@ -23,7 +29,7 @@ author_profile: true
 
 [FaaSRank: A Reinforcement Learning Scheduler for Serverless Function-as-a-Service Platforms](https://hanfeiyu.github.io/publications/master-thesis)  
 **Hanfei Yu**  
-*University of Washington, ProQuest Dissertations Publishing*
+*Master Thesis, University of Washington, ProQuest Dissertations Publishing*
 
 [Enhancing Observability of Serverless Computing with the Serverless Application Analytics Framework](https://hanfeiyu.github.io/publications/icpe-tutorial-saaf)  
 Robert Cordingly, Navid Heydari, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, Wes Lloyd  
