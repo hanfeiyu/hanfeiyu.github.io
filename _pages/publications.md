@@ -17,7 +17,7 @@ author_profile: true
 
 ## Ph.D.
 
-======
+---
 
 ## Master
 
@@ -43,7 +43,7 @@ Robert Cordingly, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, David Foster, Davi
 Athirai A. Irissappane, **Hanfei Yu**, Yankun Shen, Anubha Agrawal, Gray Stanton  
 *arXiv preprint*
 
-## 2020
+### 2020
 
 [Implications of Programming Language Selection for Serverless Data Processing Pipelines](https://hanfeiyu.github.io/publications/cbdcom-saaf-proglang)  
 Robert Cordingly, **Hanfei Yu**, Varik Hoang, David Perez, David Foster, Zohreh Sadeghi, Rashad Hatchett, Wes J Lloyd  
