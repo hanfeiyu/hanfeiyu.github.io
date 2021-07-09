@@ -17,5 +17,5 @@ redirect_from:
 
 # News
 
-* **07/02/2021** Paper "FaaSRank: Learning to Schedule Functions in Serverless Platforms" accepted to [ACSOS 2021](https://conf.researchr.org/home/acsos-2021).
+* **07/02/2021** "FaaSRank: Learning to Schedule Functions in Serverless Platforms" accepted to [ACSOS 2021](https://conf.researchr.org/home/acsos-2021).
 * **05/31/2021** Hello world from Hanfei's personal website!
