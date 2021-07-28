@@ -34,7 +34,7 @@ author_profile: true
 * [Re:ゼロから始める異世界生活](https://en.wikipedia.org/wiki/Re:Zero_%E2%88%92_Starting_Life_in_Another_World), White Fox
 * [乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…](https://en.wikipedia.org/wiki/My_Next_Life_as_a_Villainess:_All_Routes_Lead_to_Doom!), Silver Link
 
-### Hot Blooded
+### Shōnen
 
 * [ジョジョの奇妙な冒険](https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure), David Production
 * [モブサイコ100](https://en.wikipedia.org/wiki/Mob_Psycho_100), Bones
