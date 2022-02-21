@@ -3,11 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Services"
+    url: /services/    
+
   - title: "Education"
     url: /education/    
 
-  - title: "Experience"
-    url: /experience/    
+  - title: "Work"
+    url: /Work/    
 
   - title: "Contact"
     url: /contact/
@@ -15,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Anime"
-    url: /anime/
+  - title: "Story"
+    url: /story/
