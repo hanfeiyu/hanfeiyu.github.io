@@ -16,6 +16,5 @@ redirect_from:
 
 # News
 
-* **01/13/2022** "Accelerating Serverless Computing by Harvesting Idle Resources" accepted to [WWW 2022](https://www2022.thewebconf.org/).
-* **07/02/2021** "FaaSRank: Learning to Schedule Functions in Serverless Platforms" accepted to [ACSOS 2021](https://conf.researchr.org/home/acsos-2021).
-* **05/31/2021** Hello world from Hanfei's personal website!
+* **01/13/2022** "Accelerating Serverless Computing by Harvesting Idle Resources" accepted to [WWW 2022](https://www2022.thewebconf.org/)  
+* **07/02/2021** "FaaSRank: Learning to Schedule Functions in Serverless Platforms" accepted to [ACSOS 2021](https://conf.researchr.org/home/acsos-2021)  
