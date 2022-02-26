@@ -14,5 +14,5 @@ author_profile: true
 # Games
 
 * I love video games in the broad area of PC, mobile, and console games.
-* I played [DOTA](https://www.dota2.com/home) and [StarCraft](https://starcraft2.com/en-us/) for over 7 years. For DOTA, I'm good at mid and safe lanes. For StarCraft, I'm a [Terran](https://starcraft.fandom.com/wiki/Terran) player.
+* I played [DOTA](https://www.dota2.com/home) and [StarCraft](https://starcraft2.com/en-us/) for over 7 years. For DOTA, I'm good at mid and safe lanes. For StarCraft, I'm a [Terran](https://starcraft.fandom.com/wiki/Terran) player (TIMBA!).
 * Recently, I became a fan of [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) and got an Animal Crossing Edition of it.
