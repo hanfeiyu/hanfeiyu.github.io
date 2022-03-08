@@ -5,11 +5,15 @@ permalink: /services/
 author_profile: true
 ---
 
-# Reviewer
+# Academic Services
+ 
+2022, IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer   
+2022, IEEE/ACM Transactions on Networking **(ToN)**, Reviewer   
+2022, ACM The Web Conference **(WWW)**, Reviewer   
+2021, IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer  
+2021, IEEE/ACM Transactions on Networking **(ToN)**, Reviewer  
+2021, EAI International Conference on Ad Hoc Networks **(AdHocNets)**, Reviewer  
 
-IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, 2022  
-IEEE/ACM Transactions on Networking **(ToN)**, 2022  
-ACM The Web Conference **(WWW)**, 2022  
-IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, 2021  
-IEEE/ACM Transactions on Networking **(ToN)**, 2021  
-EAI International Conference on Ad Hoc Networks **(AdHocNets)**, 2021  
+# Awards
+
+2021, IEEE ACSOS, Student Scholarship

@@ -43,7 +43,7 @@ Robert Cordingly, Navid Heydari, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, Wes
 
 [The Serverless Application Analytics Framework: Enabling Design Trade-off Evaluation for Serverless Software](https://dl.acm.org/doi/10.1145/3429880.3430103)  
 Robert Cordingly, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, David Foster, David Perez, Rashad Hatchett, Wes Lloyd  
-*Proceedings of the Sixth International Workshop on Serverless Computing* ***(WoSC 2021)***
+*Proceedings of the Sixth International Workshop on Serverless Computing* ***(WoSC 2020)***
 
 [Leveraging GPT-2 for Classifying Spam Reviews with Limited Labeled Data via Adversarial Training](https://arxiv.org/abs/2012.13400)  
 Athirai A. Irissappane, **Hanfei Yu**, Yankun Shen, Anubha Agrawal, Gray Stanton  
