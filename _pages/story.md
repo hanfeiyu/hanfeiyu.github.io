@@ -13,7 +13,7 @@ author_profile: true
 
 # Music
 
-* My favorite singer is [Hatsune Miku (初音ミク)](https://en.wikipedia.org/wiki/Hatsune_Miku), who is a virtual singer developed from [Vocaloid](https://en.wikipedia.org/wiki/Vocaloid). My favorite song of Hatsune Miku is [愛言葉III](files/aikotoba3.mp4), check the song if you are interested.
+* My favorite singer is [Hatsune Miku (初音ミク)](https://en.wikipedia.org/wiki/Hatsune_Miku), who is a virtual singer developed from [Vocaloid](https://en.wikipedia.org/wiki/Vocaloid). My favorite song of Hatsune Miku is [愛言葉III](https://www.youtube.com/watch?v=WptXk39wiIQ), check the song if you are interested.
 
 # Game
 
