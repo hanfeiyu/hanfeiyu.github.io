@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Hanfei Yu"
 title_separator          : "-"
-name                     : &name "Hanfei Yu"
+name                     : &name "Hanfei Yu (余涵非)"
 description              : &description "Ph.D. student, Division of Computer Science and Engineering, Louisiana State University"
 url                      : https://hanfeiyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
