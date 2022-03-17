@@ -16,4 +16,5 @@ author_profile: true
 
 # Awards
 
-2021, IEEE ACSOS, Student Scholarship
+2022, ACM WWW, Student Scholarship (€300)
+2021, IEEE ACSOS, Student Scholarship ($390)
