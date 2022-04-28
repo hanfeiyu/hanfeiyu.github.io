@@ -9,6 +9,7 @@ author_profile: true
  
 2022, IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer   
 2022, IEEE/ACM Transactions on Networking **(ToN)**, Reviewer   
+2022, IEEE Transactions on Network Science and Engineering **(TNSE)**, Reviewer   
 2022, ACM The Web Conference **(WWW)**, Reviewer   
 2021, IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer  
 2021, IEEE/ACM Transactions on Networking **(ToN)**, Reviewer  

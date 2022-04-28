@@ -16,5 +16,5 @@ redirect_from:
 
 # News
 
-* **01/13/2022** "[Accelerating Serverless Computing by Harvesting Idle Resources](https://arxiv.org/abs/2108.12717)" accepted to [WWW 2022](https://www2022.thewebconf.org/)  
+* **01/13/2022** "[Accelerating Serverless Computing by Harvesting Idle Resources](https://doi.org/10.1145/3485447.3511979)" accepted to [WWW 2022](https://www2022.thewebconf.org/)  
 * **07/02/2021** "[FaaSRank: Learning to Schedule Functions in Serverless Platforms](https://ieeexplore.ieee.org/document/9659513)" accepted to [ACSOS 2021](https://conf.researchr.org/home/acsos-2021)  
