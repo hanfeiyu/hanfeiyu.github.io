@@ -18,5 +18,5 @@ redirect_from:
 * **09/05/2022** Two papers rejected by [SoCC 2022](https://acmsocc.org/2022/)  
 * **06/13/2022** One paper rejected by [SC 2022](https://sc22.supercomputing.org/)  
 * **01/13/2022** "[Accelerating Serverless Computing by Harvesting Idle Resources](https://doi.org/10.1145/3485447.3511979)" accepted by [WWW 2022](https://www2022.thewebconf.org/)  
-* **08/27/2022** One paper rejected by [SoCC 2021](https://acmsocc.org/2021/)  
+* **08/27/2021** One paper rejected by [SoCC 2021](https://acmsocc.org/2021/)  
 * **07/02/2021** "[FaaSRank: Learning to Schedule Functions in Serverless Platforms](https://ieeexplore.ieee.org/document/9659513)" accepted by [ACSOS 2021](https://conf.researchr.org/home/acsos-2021)  
