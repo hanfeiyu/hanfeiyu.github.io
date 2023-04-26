@@ -11,7 +11,7 @@ author_profile: true
 
 IEEE International Conference on Computer Communications and Networks **(ICCCN)**, External reviewer  
 IEEE International Conference on Distributed Computing Systems **(ICDCS)**, External reviewer  
-IEEE International Conference on Computer Communications **(INFOCOM)**, External reviewer  
+IEEE International Conference on Computer Communications **(INFOCOM)**, External reviewer
 
 ## 2022
 
@@ -22,7 +22,7 @@ IEEE/ACM Transactions on Networking **(ToN)**, External reviewer
 IEEE Transactions on Network Science and Engineering **(TNSE)**, External reviewer   
 IEEE Transactions on Cloud Computing **(TCC)**, External reviewer  
 IEEE Transactions on Mobile Computing **(TMC)**, External reviewer   
-IEEE Access **(Access)**, External reviewer  
+IEEE Access **(Access)**, External reviewer
 
 ## 2021
 

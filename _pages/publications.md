@@ -21,7 +21,7 @@ author_profile: true
 
 [Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters](https://hanfeiyu.github.io/)  
 **Hanfei Yu**, Christian Fontenot, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park
-*Proceedings of the International Symposium on High-Performance Parallel and Distributed Computing* ***(HPDC 2023)***  
+*Proceedings of the International Symposium on High-Performance Parallel and Distributed Computing* ***(HPDC 2023)***
 
 ## 2022
 
