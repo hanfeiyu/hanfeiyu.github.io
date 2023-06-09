@@ -15,7 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Ph.D.
 
 ## 2023
 
@@ -28,10 +27,6 @@ author_profile: true
 [Accelerating Serverless Computing by Harvesting Idle Resources](https://doi.org/10.1145/3485447.3511979)  
 **Hanfei Yu**, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park  
 *Proceedings of the ACM Web Conference 2022* ***(WWW 2022)***
-
----
-
-# Master
 
 ## 2021
 
