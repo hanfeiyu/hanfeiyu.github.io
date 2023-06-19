@@ -19,6 +19,6 @@ Research Assistant, Cloud and Distributed Systems Research Lab, Sep 2020 - Dec 2
 Teaching Assistant, TCSS 422 Computer Operating Systems, Spring 2020  
 Teaching Assistant, TCSS 305 Programming Practicum, Winter 2019  
 
-# Intel Asia-Pacific Research & Development Ltd, Shanghai, China
+# Intel Asia-Pacific Research & Development Corporation, Shanghai, China
 
 Software Developer Intern, UEFI-BIOS Development, Aug 2018 - Feb 2019
