@@ -9,6 +9,8 @@ author_profile: true
 
 ## 2023
 
+IEEE Global Communications Conference **(GLOBECOM)**, Reviewer  
+European Conference on Artificial Intelligence **(ECAI)**, Reviewer   
 European Conference on Artificial Intelligence **(ECAI)**, Reviewer   
 IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer   
 IEEE International Conference on Computer Communications and Networks **(ICCCN)**, External reviewer  
