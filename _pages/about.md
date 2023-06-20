@@ -15,6 +15,6 @@ redirect_from:
 * My research interests lie in **Cloud Computing** and **Machine Learning**. Specifically, I'm focusing on applying learning techniques to improve serverless computing and building better systems for serving machine learning. I'm also interested in **Natural Language Processing**.
 
 # News
-* **April 2023** "[Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters](https://hanfeiyu.github.io/)" accepted by [HPDC 2023](https://www.hpdc.org/2023/) 
+* **April 2023** "[Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters](https://intellisys.haow.ca/assets/pdf/Libra_Hanfei_HPDC23.pdf)" accepted by [HPDC 2023](https://www.hpdc.org/2023/) 
 * **Jan 2022** "[Accelerating Serverless Computing by Harvesting Idle Resources](https://doi.org/10.1145/3485447.3511979)" accepted by [WWW 2022](https://www2022.thewebconf.org/)  
 * **July 2021** "[FaaSRank: Learning to Schedule Functions in Serverless Platforms](https://ieeexplore.ieee.org/document/9659513)" accepted by [ACSOS 2021](https://conf.researchr.org/home/acsos-2021)  
