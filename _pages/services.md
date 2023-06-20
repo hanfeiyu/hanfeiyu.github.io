@@ -9,10 +9,10 @@ author_profile: true
 
 ## 2023
 
+IEEE Transactions on Cloud Computing **(TCC)**, Reviewer  
 IEEE Global Communications Conference **(GLOBECOM)**, Reviewer  
-European Conference on Artificial Intelligence **(ECAI)**, Reviewer   
-European Conference on Artificial Intelligence **(ECAI)**, Reviewer   
-IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer   
+European Conference on Artificial Intelligence **(ECAI)**, Reviewer  
+IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer  
 IEEE International Conference on Computer Communications and Networks **(ICCCN)**, External reviewer  
 IEEE International Conference on Distributed Computing Systems **(ICDCS)**, External reviewer  
 IEEE International Conference on Computer Communications **(INFOCOM)**, External reviewer
