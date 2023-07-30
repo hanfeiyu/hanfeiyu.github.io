@@ -18,40 +18,43 @@ author_profile: true
 
 # 2023
 
-[Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters](https://intellisys.haow.ca/assets/pdf/Libra_Hanfei_HPDC23.pdf)  
+**ASPLOS 2024** [RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing](https://hanfeiyu.github.io/)  
 **Hanfei Yu**, Christian Fontenot, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park  
-*Proceedings of the International Symposium on High-Performance Parallel and Distributed Computing* ***(HPDC 2023)***
+*ACM International Conference on Architectural Support for Programming Languages and Operating Systems* 
+
+**HPDC 2023** [Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters](https://intellisys.haow.ca/assets/pdf/Libra_Hanfei_HPDC23.pdf)  
+**Hanfei Yu**, Christian Fontenot, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park  
+*ACM International Symposium on High-Performance Parallel and Distributed Computing* 
 
 # 2022
 
-[Accelerating Serverless Computing by Harvesting Idle Resources](https://doi.org/10.1145/3485447.3511979)  
+**WWW 2022** [Accelerating Serverless Computing by Harvesting Idle Resources](https://doi.org/10.1145/3485447.3511979)  
 **Hanfei Yu**, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park  
-*Proceedings of the ACM Web Conference 2022* ***(WWW 2022)***
+*ACM Web Conference 2022* 
 
 # 2021
 
-[FaaSRank: Learning to Schedule Functions in Serverless Platforms](https://ieeexplore.ieee.org/document/9659513)  
+**ACSOS 2021** [FaaSRank: Learning to Schedule Functions in Serverless Platforms](https://ieeexplore.ieee.org/document/9659513)  
 **Hanfei Yu** , Athirai A. Irissappane, Hao Wang, Wes J. Lloyd  
-*IEEE International Conference on Autonomic Computing and Self-Organizing Systems* ***(ACSOS 2021)***
+*IEEE International Conference on Autonomic Computing and Self-Organizing Systems* 
 
-[FaaSRank: A Reinforcement Learning Scheduler for Serverless Function-as-a-Service Platforms](https://www.proquest.com/docview/2528821952?pq-origsite=gscholar&fromopenview=true)  
+**Master Thesis** [FaaSRank: A Reinforcement Learning Scheduler for Serverless Function-as-a-Service Platforms](https://www.proquest.com/docview/2528821952?pq-origsite=gscholar&fromopenview=true)  
 **Hanfei Yu**  
-*Master Thesis, University of Washington, ProQuest Dissertations Publishing*
+*University of Washington, ProQuest Dissertations Publishing*
 
-[Enhancing Observability of Serverless Computing with the Serverless Application Analytics Framework](https://dl.acm.org/doi/10.1145/3447545.3451173)  
+**ICPE 2021** [Enhancing Observability of Serverless Computing with the Serverless Application Analytics Framework](https://dl.acm.org/doi/10.1145/3447545.3451173)  
 Robert Cordingly, Navid Heydari, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, Wes Lloyd  
-*Companion of the ACM/SPEC International Conference on Performance Engineering* ***(ICPE 2021)***
+*ACM/SPEC International Conference on Performance Engineering* 
 
-[The Serverless Application Analytics Framework: Enabling Design Trade-off Evaluation for Serverless Software](https://dl.acm.org/doi/10.1145/3429880.3430103)  
+**WoSC 2020** [The Serverless Application Analytics Framework: Enabling Design Trade-off Evaluation for Serverless Software](https://dl.acm.org/doi/10.1145/3429880.3430103)  
 Robert Cordingly, **Hanfei Yu**, Varik Hoang, Zohreh Sadeghi, David Foster, David Perez, Rashad Hatchett, Wes Lloyd  
-*Proceedings of the Sixth International Workshop on Serverless Computing* ***(WoSC 2020)***
+*International Workshop on Serverless Computing* 
 
-[Leveraging GPT-2 for Classifying Spam Reviews with Limited Labeled Data via Adversarial Training](https://arxiv.org/abs/2012.13400)  
+**arXiv preprint** [Leveraging GPT-2 for Classifying Spam Reviews with Limited Labeled Data via Adversarial Training](https://arxiv.org/abs/2012.13400)  
 Athirai A. Irissappane, **Hanfei Yu**, Yankun Shen, Anubha Agrawal, Gray Stanton  
-*arXiv preprint*
 
 # 2020
 
-[Implications of Programming Language Selection for Serverless Data Processing Pipelines](https://ieeexplore.ieee.org/document/9251194)  
+**CBDCom 2020** [Implications of Programming Language Selection for Serverless Data Processing Pipelines](https://ieeexplore.ieee.org/document/9251194)  
 Robert Cordingly, **Hanfei Yu**, Varik Hoang, David Perez, David Foster, Zohreh Sadeghi, Rashad Hatchett, Wes J Lloyd  
-*IEEE International Conference on Cloud and Big Data Computing* ***(CBDCom 2020)***
+*IEEE International Conference on Cloud and Big Data Computing* 
