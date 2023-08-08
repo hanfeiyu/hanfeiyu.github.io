@@ -19,7 +19,7 @@ author_profile: true
 # 2023
 
 **HPDC 2023**  
-[Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters](https://intellisys.haow.ca/assets/pdf/Libra_Hanfei_HPDC23.pdf)  
+[Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters](https://dl.acm.org/doi/10.1145/3588195.3592996)  
 <u>Hanfei Yu</u>, Christian Fontenot, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park  
 *ACM International Symposium on High-Performance Parallel and Distributed Computing* 
 
