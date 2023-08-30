@@ -15,22 +15,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-
-# 2023
-
 **HPDC 2023**  
 [Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters](https://dl.acm.org/doi/10.1145/3588195.3592996)  
 <u>Hanfei Yu</u>, Christian Fontenot, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park  
 *ACM International Symposium on High-Performance Parallel and Distributed Computing* 
 
-# 2022
-
 **WWW 2022**  
 [Accelerating Serverless Computing by Harvesting Idle Resources](https://doi.org/10.1145/3485447.3511979)  
 <u>Hanfei Yu</u>, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park  
 *ACM Web Conference* 
-
-# 2021
 
 **ACSOS 2021**  
 [FaaSRank: Learning to Schedule Functions in Serverless Platforms](https://ieeexplore.ieee.org/document/9659513)  
@@ -55,8 +48,6 @@ Robert Cordingly, <u>Hanfei Yu</u>, Varik Hoang, Zohreh Sadeghi, David Foster, D
 **arXiv preprint**  
 [Leveraging GPT-2 for Classifying Spam Reviews with Limited Labeled Data via Adversarial Training](https://arxiv.org/abs/2012.13400)  
 Athirai A. Irissappane, <u>Hanfei Yu</u>, Yankun Shen, Anubha Agrawal, Gray Stanton  
-
-# 2020
 
 **CBDCom 2020**  
 [Implications of Programming Language Selection for Serverless Data Processing Pipelines](https://ieeexplore.ieee.org/document/9251194)  
