@@ -6,11 +6,14 @@ main:
   - title: "Services/Awards"
     url: /services/    
 
+  - title: "Talks"
+    url: /talks/    
+
   - title: "Education"
     url: /education/    
 
-  - title: "Experience"
-    url: /experience/    
+  - title: "Experiences"
+    url: /experiences/    
 
   - title: "Contact"
     url: /contact/
