@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+**ASPLOS 2024**  
+[RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing](https://hanfeiyu.github.io/publications/)  
+<u>Hanfei Yu</u>, Rohan Basu Roy, Christian Fontenot, Devesh Tiwari, Jian Li, Hong Zhang, Hao Wang, Seung-Jong Park
+*ACM International Conference on Architectural Support for Programming Languages and Operating Systems* 
+
 **HPDC 2023**  
 [Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters](https://dl.acm.org/doi/10.1145/3588195.3592996)  
 <u>Hanfei Yu</u>, Christian Fontenot, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park  
