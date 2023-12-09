@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 **AAAI 2024**  
-[Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing](https://aaai.org/aaai-conference/)  
+[Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing](https://hanfeiyu.github.io/)  
 <u>Hanfei Yu</u>, Jian Li, Yang Hua, Xu Yuan, Hao Wang  
 *The Thirty-Eighth AAAI Conference on Artificial Intelligence* 
 
