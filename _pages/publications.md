@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+**AAAI 2024**  
+[Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing](https://aaai.org/aaai-conference/)  
+<u>Hanfei Yu</u>, Jian Li, Yang Hua, Xu Yuan, Hao Wang  
+*The Thirty-Eighth AAAI Conference on Artificial Intelligence* 
+
 **ASPLOS 2024**  
 [RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing](https://intellisys.haow.ca/assets/pdf/hanfei-asplos24spring.pdf)  
 <u>Hanfei Yu</u>, Rohan Basu Roy, Christian Fontenot, Devesh Tiwari, Jian Li, Hong Zhang, Hao Wang, Seung-Jong Park  
