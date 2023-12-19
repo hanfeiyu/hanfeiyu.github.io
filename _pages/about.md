@@ -21,4 +21,4 @@ redirect_from:
 * **Sep 2023 \[Paper\]** [*RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing*](https://intellisys.haow.ca/assets/pdf/hanfei-asplos24spring.pdf) accepted by [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)  
 * **April 2023 \[Paper\]** [*Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters*](https://dl.acm.org/doi/10.1145/3588195.3592996) accepted by [HPDC 2023](https://www.hpdc.org/2023/)  
 * **Jan 2022 \[Paper\]** [*Accelerating Serverless Computing by Harvesting Idle Resources*](https://doi.org/10.1145/3485447.3511979) accepted by [WWW 2022](https://www2022.thewebconf.org/)  
-* **July 2021 \[Paper\]** [*FaaSRank: Learning to Schedule Functions in Serverless Platforms*](https://ieeexplore.ieee.org/document/9659513) accepted by [ACSOS 2021](https://conf.researchr.org/home/acsos-2021)  
+<!-- * **July 2021 \[Paper\]** [*FaaSRank: Learning to Schedule Functions in Serverless Platforms*](https://ieeexplore.ieee.org/document/9659513) accepted by [ACSOS 2021](https://conf.researchr.org/home/acsos-2021)   -->
