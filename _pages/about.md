@@ -15,8 +15,8 @@ redirect_from:
 * My research interests lie in **Cloud Computing** and **Machine Learning**. Specifically, I'm focusing on applying learning techniques to improve serverless computing and building serverless systems for machine learning training & serving.
 
 # News
-* **Dec 2023 \[Award\]** Received $750 student scholarship from [AAAI 2024](https://aaai.org/aaai-conference/), thank you AAAI!  
-* **Dec 2023 \[Paper\]** [*Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing*](https://hanfeiyu.github.io/) accepted by [AAAI 2024](https://aaai.org/aaai-conference/)  
+* **Dec 2023 \[Award\]** Received $750 student scholarship from [AAAI 2024](https://aaai.org/aaai-conference/)  
+* **Dec 2023 \[Paper\]** [*Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing*](https://intellisys.haow.ca/assets/pdf/Hanfei_AAAI24_RL_serverless.pdf) accepted by [AAAI 2024](https://aaai.org/aaai-conference/)  
 * **Sep 2023 \[Talk\]** Invited to give a talk on "resource harvesting in serverless computing" at [HPCS Lab](https://hpcs.charlotte.edu/), UNC Charlotte  
 * **Sep 2023 \[Paper\]** [*RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing*](https://intellisys.haow.ca/assets/pdf/hanfei-asplos24spring.pdf) accepted by [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)  
 * **April 2023 \[Paper\]** [*Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters*](https://dl.acm.org/doi/10.1145/3588195.3592996) accepted by [HPDC 2023](https://www.hpdc.org/2023/)  
