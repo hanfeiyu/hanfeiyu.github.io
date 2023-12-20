@@ -17,7 +17,7 @@ redirect_from:
   - Machine Learning
   - ML for Systems
   - Systems for ML
-* Specifically, I'm focusing on applying learning techniques to improve **serverless computing** and building serverless systems for **machine learning training/serving**.
+* Specifically, I'm focusing on applying learning techniques to improve **serverless computing** and building serverless systems for **ML training/serving**.
 
 # News
 * **Dec 2023 \[Award\]** Received $750 student scholarship from [AAAI 2024](https://aaai.org/aaai-conference/)  
