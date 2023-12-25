@@ -9,6 +9,7 @@ author_profile: true
 
 ## 2023
 
+Journal of Systems Architecture **(JSA)**, Reviewer  
 IEEE Transactions on Cloud Computing **(TCC)**, Reviewer  
 IEEE Global Communications Conference **(GLOBECOM)**, Reviewer  
 European Conference on Artificial Intelligence **(ECAI)**, Reviewer  
