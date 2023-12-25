@@ -30,5 +30,5 @@ redirect_from:
 * **June 2023 \[Service\]** Serve as a reviewer for the 2023 IEEE Global Communications Conference (GLOBECOM)  
 <!--* **May 2023 \[Service\]** Serve as a reviewer for the IEEE Transactions on Cloud Computing (TCC)  -->
 * **April 2023 \[Paper\]** [*Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters*](https://dl.acm.org/doi/10.1145/3588195.3592996) accepted by [HPDC 2023](https://www.hpdc.org/2023/)  
-<!--* **Jan 2022 \[Paper\]** [*Accelerating Serverless Computing by Harvesting Idle Resources*](https://doi.org/10.1145/3485447.3511979) accepted by [WWW 2022](https://www2022.thewebconf.org/)  -->
+* **Jan 2022 \[Paper\]** [*Accelerating Serverless Computing by Harvesting Idle Resources*](https://doi.org/10.1145/3485447.3511979) accepted by [WWW 2022](https://www2022.thewebconf.org/)  
 <!--* **July 2021 \[Paper\]** [*FaaSRank: Learning to Schedule Functions in Serverless Platforms*](https://ieeexplore.ieee.org/document/9659513) accepted by [ACSOS 2021](https://conf.researchr.org/home/acsos-2021)  -->
