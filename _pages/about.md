@@ -25,9 +25,9 @@ redirect_from:
 * **Dec 2023 \[Paper\]** [*Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing*](https://intellisys.haow.ca/assets/pdf/Hanfei_AAAI24_RL_serverless.pdf) accepted by [AAAI 2024](https://aaai.org/aaai-conference/)  
 * **Sep 2023 \[Talk\]** Invited to give a talk on "resource harvesting in serverless computing" at [HPCS Lab](https://hpcs.charlotte.edu/), UNC Charlotte  
 * **Sep 2023 \[Paper\]** [*RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing*](https://intellisys.haow.ca/assets/pdf/hanfei-asplos24spring.pdf) accepted by [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)  
-* **June 2023 \[Service\]** Serve as a reviewer for the 2023 European Conference on Artificial Intelligence (ECAI)
+* **June 2023 \[Service\]** Serve as a reviewer for the 2023 European Conference on Artificial Intelligence (ECAI)  
 <!--* **June 2023 \[Service\]** Serve as a reviewer for the IEEE Transactions on Parallel and Distributed Systems (TPDS)  -->
-* **June 2023 \[Service\]** Serve as a reviewer for the 2023 IEEE Global Communications Conference (GLOBECOM)
+* **June 2023 \[Service\]** Serve as a reviewer for the 2023 IEEE Global Communications Conference (GLOBECOM)  
 <!--* **May 2023 \[Service\]** Serve as a reviewer for the IEEE Transactions on Cloud Computing (TCC)  -->
 * **April 2023 \[Paper\]** [*Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters*](https://dl.acm.org/doi/10.1145/3588195.3592996) accepted by [HPDC 2023](https://www.hpdc.org/2023/)  
 <!--* **Jan 2022 \[Paper\]** [*Accelerating Serverless Computing by Harvesting Idle Resources*](https://doi.org/10.1145/3485447.3511979) accepted by [WWW 2022](https://www2022.thewebconf.org/)  -->
