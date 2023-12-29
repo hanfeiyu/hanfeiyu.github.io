@@ -26,8 +26,8 @@ redirect_from:
 * **Sep 2023 \[Talk\]** Invited to give a talk on "resource harvesting in serverless computing" at [HPCS Lab](https://hpcs.charlotte.edu/), UNC Charlotte  
 * **Sep 2023 \[Paper\]** [*RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing*](https://intellisys.haow.ca/assets/pdf/hanfei-asplos24spring.pdf) accepted by [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)  
 * **June 2023 \[Service\]** Serve as a reviewer for the [ECAI 2023](https://ecai2023.eu/)  
-<!--* **June 2023 \[Service\]** Serve as a reviewer for the IEEE Transactions on Parallel and Distributed Systems (TPDS)  -->
-* **June 2023 \[Service\]** Serve as a reviewer for the [GLOBECOM 2023](https://globecom2023.ieee-globecom.org/)  
+<!--* **June 2023 \[Service\]** Serve as a reviewer for IEEE Transactions on Parallel and Distributed Systems (TPDS)  -->
+* **June 2023 \[Service\]** Serve as a reviewer for [GLOBECOM 2023](https://globecom2023.ieee-globecom.org/)  
 <!--* **May 2023 \[Service\]** Serve as a reviewer for the IEEE Transactions on Cloud Computing (TCC)  -->
 * **April 2023 \[Paper\]** [*Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters*](https://dl.acm.org/doi/10.1145/3588195.3592996) accepted by [HPDC 2023](https://www.hpdc.org/2023/)  
 * **Jan 2022 \[Paper\]** [*Accelerating Serverless Computing by Harvesting Idle Resources*](https://doi.org/10.1145/3485447.3511979) accepted by [WWW 2022](https://www2022.thewebconf.org/)  
