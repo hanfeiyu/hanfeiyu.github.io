@@ -5,6 +5,9 @@ permalink: /experiences/
 author_profile: true
 ---
 
+# Microsoft Azure Research, Seattle, USA
+Research Intern, [Azure System Group](https://www.microsoft.com/en-us/research/group/azure-research-systems/), May 2024 - Aug 2024  
+
 # Louisiana State University, Baton Rouge, USA
 
 Research Assistant, [IntelliSys Lab](https://intellisys.haow.ca/), June 2021 - Present  
