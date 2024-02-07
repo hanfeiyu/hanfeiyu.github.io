@@ -10,6 +10,7 @@ author_profile: true
 ## 2024
 
 IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer  
+ACM International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), External Reviewer  
 
 ## 2023
 
