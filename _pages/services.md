@@ -7,6 +7,10 @@ author_profile: true
 
 # Academic Services
 
+## 2024
+
+IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer  
+
 ## 2023
 
 Journal of Systems Architecture **(JSA)**, Reviewer  
