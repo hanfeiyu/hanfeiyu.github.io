@@ -21,7 +21,7 @@ redirect_from:
 
 # News
 <!--* **Dec 2023 \[Service\]** Serve as a reviewer for the Journal of Systems Architecture (JSA)  -->
-* **Feb 2024 \[Internship\]** I will be working as a research intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/) for the upcoming summer!  
+* **Feb 2024 \[Intern\]** I will be working as a research intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/) for the upcoming summer!  
 * **Dec 2023 \[Award\]** Received $750 student scholarship from [AAAI 2024](https://aaai.org/aaai-conference/)  
 * **Dec 2023 \[Paper\]** [*Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing*](https://intellisys.haow.ca/assets/pdf/Hanfei_AAAI24_RL_serverless.pdf) accepted by [AAAI 2024](https://aaai.org/aaai-conference/)  
 * **Sep 2023 \[Talk\]** Invited to give a talk on "resource harvesting in serverless computing" at [HPCS Lab](https://hpcs.charlotte.edu/), UNC Charlotte  
