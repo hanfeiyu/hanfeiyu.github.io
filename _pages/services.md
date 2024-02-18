@@ -9,6 +9,7 @@ author_profile: true
 
 ## 2024
 
+ACM The Web Conference **(WWW)**, Artifact Evaluation Program Committee  
 IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer  
 ACM International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), External Reviewer  
 
