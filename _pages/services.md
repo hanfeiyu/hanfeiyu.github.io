@@ -11,6 +11,7 @@ author_profile: true
 
 ACM The Web Conference **(WWW)**, Artifact Evaluation Program Committee  
 IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer  
+IEEE Internet of Things Journal **(IoTJ)**, Reviewer  
 ACM International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), External Reviewer  
 
 ## 2023
