@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 **SC 2024**  
-Coming soon
+Coming soon  
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis*
 
 **AAAI 2024**  
