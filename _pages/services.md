@@ -10,8 +10,14 @@ author_profile: true
 ## 2024
 
 ACM The Web Conference **(WWW)**, Artifact Evaluation Program Committee  
+Performance Evaluation **(PEVA)**, Reviewer  
+IEEE Transactions on Mobile Computing **(TMC)**, Reviewer  
 IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer  
 IEEE Internet of Things Journal **(IoTJ)**, Reviewer  
+IEEE/ACM Transactions on Networking **(ToN)**, External Reviewer  
+Annual Conference on Neural Information Processing Systems (**NeurIPS**), External Reviewer  
+International Conference on Machine Learning (**ICML**), External Reviewer  
+IEEE International Conference on Distributed Computing Systems (**ICDCS**), External Reviewer  
 ACM International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), External Reviewer  
 
 ## 2023
@@ -43,6 +49,9 @@ IEEE/ACM Transactions on Networking **(ToN)**, External reviewer
 EAI International Conference on Ad Hoc Networks **(AdHocNets)**, Reviewer  
 
 # Talks
+
+**RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing**  
+ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), La Jolla, CA, USA, April 2024
 
 **Accelerating Serverless Computing via Intelligent Resource Harvesting**  
 High Performance Computing and Systems (HPCS) lab, University of North Carolina at Charlotte, Online, Sep 2023
