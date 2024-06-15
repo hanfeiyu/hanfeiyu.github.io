@@ -25,9 +25,9 @@ redirect_from:
 * **Feb 2024 \[Service\]** Serve on the Artifact Evaluation Program Committee for [WWW 2024](https://www2024.thewebconf.org/)  
 * **Feb 2024 \[Intern\]** I will be working as a research intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/) for the upcoming summer!  
 * **Dec 2023 \[Award\]** Received $750 student scholarship from [AAAI 2024](https://aaai.org/aaai-conference/)  
-* **Dec 2023 \[Paper\]** [*Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing*](https://intellisys.haow.ca/assets/pdf/Hanfei_AAAI24_RL_serverless.pdf) accepted by [AAAI 2024](https://aaai.org/aaai-conference/)  
+* **Dec 2023 \[Paper\]** [*Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing*](https://ojs.aaai.org/index.php/AAAI/article/view/29592) accepted by [AAAI 2024](https://aaai.org/aaai-conference/)  
 * **Sep 2023 \[Talk\]** Invited to give a talk on "resource harvesting in serverless computing" at [HPCS Lab](https://hpcs.charlotte.edu/), UNC Charlotte  
-* **Sep 2023 \[Paper\]** [*RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing*](https://intellisys.haow.ca/assets/pdf/hanfei-asplos24spring.pdf) accepted by [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)  
+* **Sep 2023 \[Paper\]** [*RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing*](https://doi.org/10.1145/3617232.3624871) accepted by [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)  
 <!--- * **June 2023 \[Service\]** Serve as a reviewer for [ECAI 2023](https://ecai2023.eu/)   --->
 <!--- * **June 2023 \[Service\]** Serve as a reviewer for [GLOBECOM 2023](https://globecom2023.ieee-globecom.org/)   --->
 <!--- * **April 2023 \[Paper\]** [*Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters*](https://dl.acm.org/doi/10.1145/3588195.3592996) accepted by [HPDC 2023](https://www.hpdc.org/2023/)   --->
