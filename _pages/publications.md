@@ -15,8 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-**SC 2024**  
-Coming soon (Best Student Paper Nomination)  
+**SC 2024** (Best Student Paper Nomination)  
+Coming soon  
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis*
 
 **AAAI 2024**  
