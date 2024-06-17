@@ -21,7 +21,7 @@ redirect_from:
 
 # News
 
-* **June 2024 \[Paper\]** One paper accepted by [SC 2024](https://sc24.supercomputing.org/) and nominated Best Student Paper award!  
+* **June 2024 \[Paper\]** One paper accepted by [SC 2024](https://sc24.supercomputing.org/) and nominated for the Best Student Paper award!  
 * **Feb 2024 \[Service\]** Serve on the Artifact Evaluation Program Committee for [WWW 2024](https://www2024.thewebconf.org/)  
 * **Feb 2024 \[Intern\]** I will be working as a research intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/) for the upcoming summer!  
 * **Dec 2023 \[Award\]** Received $750 student scholarship from [AAAI 2024](https://aaai.org/aaai-conference/)  
