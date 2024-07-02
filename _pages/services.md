@@ -9,11 +9,13 @@ author_profile: true
 
 ## 2024
 
+IEEE International Conference on Parallel and Distributed Systems **(ICPADS)**, Reviewer  
 ACM The Web Conference **(WWW)**, Artifact Evaluation Program Committee  
 Performance Evaluation **(PEVA)**, Reviewer  
 IEEE Transactions on Mobile Computing **(TMC)**, Reviewer  
 IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer  
 IEEE Internet of Things Journal **(IoTJ)**, Reviewer  
+IEEE Transactions on Network Science and Engineering **(TNSE)**, Reviewer  
 IEEE/ACM Transactions on Networking **(ToN)**, External Reviewer  
 Annual Conference on Neural Information Processing Systems (**NeurIPS**), External Reviewer  
 International Conference on Machine Learning (**ICML**), External Reviewer  
