@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2024
 
-IEEE International Conference on Parallel and Distributed Systems **(ICPADS)**, Reviewer  
+IEEE International Conference on Parallel and Distributed Systems **(ICPADS)**, Technical Program Committee  
 ACM The Web Conference **(WWW)**, Artifact Evaluation Program Committee  
 Performance Evaluation **(PEVA)**, Reviewer  
 IEEE Transactions on Mobile Computing **(TMC)**, Reviewer  
