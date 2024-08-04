@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Microsoft Azure Research, Seattle, USA
-Research Intern, [Azure Systems Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/), May 2024 - Aug 2024  
+Research Intern, [Azure Research - Systems](https://www.microsoft.com/en-us/research/group/azure-research-systems/), May 2024 - Aug 2024  
 
 # Louisiana State University, Baton Rouge, USA
 
