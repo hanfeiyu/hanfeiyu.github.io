@@ -10,8 +10,8 @@ redirect_from:
 
 # About Me
 
-* Greetings! I'm a Ph.D. student in the [Division of Computer Science and Engineering](https://www.lsu.edu/eng/cse/), at [Louisiana State University](https://www.lsu.edu/), advised by Prof. [Hao Wang](https://intellisys.haow.ca/haowang/).
-* I received my Master's Degree in Computer Science and Systems at [University of Washington Tacoma](https://www.tacoma.uw.edu/), advised by Prof. [Wes J. Lloyd](http://faculty.washington.edu/wlloyd/index.html) and Prof. [Athirai A. Irissappane](https://sites.google.com/view/athirai/). I received my Bachelor’s Degree in Electronic Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
+* Greetings! I'm a Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering), at [Stevens Institute of Technology](https://www.stevens.edu/), advised by Prof. [Hao Wang](https://intellisys.haow.ca/haowang/).
+* I received my Master's Degree in Computer Science and Systems at [University of Washington Tacoma](https://www.tacoma.uw.edu/), advised by Prof. [Wes J. Lloyd](http://faculty.washington.edu/wlloyd/index.html) and Dr. [Athirai A. Irissappane](https://sites.google.com/view/athirai/). I received my Bachelor’s Degree in Electronic Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 * My research interests lie in
   - Cloud Computing
   - Machine Learning
@@ -24,7 +24,7 @@ redirect_from:
 * **July 2024 \[Service\]** Serve on the Technical Program Committee for [ICPADS 2024](https://attend.ieee.org/icpads/)  
 * **June 2024 \[Paper\]** One paper accepted by [SC 2024](https://sc24.supercomputing.org/) and nominated for the Best Student Paper award!  
 * **Feb 2024 \[Service\]** Serve on the Artifact Evaluation Program Committee for [WWW 2024](https://www2024.thewebconf.org/)  
-* **Feb 2024 \[Intern\]** I will be working as a research intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/) for the upcoming summer!  
+<!--- * **Feb 2024 \[Intern\]** I will be working as a research intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/) for the upcoming summer!   --->
 <!--- * **Dec 2023 \[Award\]** Received $750 student scholarship from [AAAI 2024](https://aaai.org/aaai-conference/)   --->
 <!--- * **Dec 2023 \[Paper\]** [*Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing*](https://ojs.aaai.org/index.php/AAAI/article/view/29592) accepted by [AAAI 2024](https://aaai.org/aaai-conference/)   --->
 <!--- * **Sep 2023 \[Talk\]** Invited to give a talk on "resource harvesting in serverless computing" at [HPCS Lab](https://hpcs.charlotte.edu/), UNC Charlotte   --->
