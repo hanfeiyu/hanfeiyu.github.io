@@ -5,6 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-Division of Computer Science and Engineering, Louisiana State University  
-3325 Patrick F. Taylor Hall, Louisiana State University, Baton Rouge, LA 70803  
-**Email**: hyu25 \[at\] lsu \[dot\] edu
+Department of Electrical and Computer Engineering, Stevens Institute of Technology  
+524 River St, Hoboken, NJ, 07030  
+**Email**: hyu42 \[at\] stevens \[dot\] edu
