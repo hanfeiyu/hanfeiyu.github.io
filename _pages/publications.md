@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-**SC 2024** (Best Student Paper Nomination)  
+**SC 2024 (Best Student Paper Finalist)**  
 [Coming soon...](https://hanfeiyu.github.io/publications/)  
 <u>Hanfei Yu</u>, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park  
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis*
