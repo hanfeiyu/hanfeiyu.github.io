@@ -67,7 +67,7 @@ IEEE International Conference on Autonomic Computing and Self-Organizing Systems
 
 # Awards
 
-2024, The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), *Best Student Paper* nomination  
+2024, The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), *Best Student Paper Finalist*    
 2024, The Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), Student Scholarship $750  
 2023, European Conference on Artificial Intelligence (ECAI), *Call to Arms* award  
 2022, ACM Web Conference (WWW), Student Scholarship €300  
