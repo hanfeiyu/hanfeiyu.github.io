@@ -21,10 +21,11 @@ redirect_from:
 
 # News
 
+* **Aug 2024 \[Paper\]** [*Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing*](https://hanfeiyu.github.io/publications/) accepted by [VLDB 2025](https://vldb.org/2025/)  
 * **July 2024 \[Service\]** Serve on the Technical Program Committee for [ICPADS 2024](https://attend.ieee.org/icpads/)  
-* **June 2024 \[Paper\]** One paper accepted by [SC 2024](https://sc24.supercomputing.org/) and got into the Best Student Paper Finalist!  
+* **June 2024 \[Paper\]** [*Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing*](https://hanfeiyu.github.io/publications/) accepted by [SC 2024](https://sc24.supercomputing.org/) and got into the Best Student Paper Finalist!  
 * **Feb 2024 \[Service\]** Serve on the Artifact Evaluation Program Committee for [WWW 2024](https://www2024.thewebconf.org/)  
-<!--- * **Feb 2024 \[Intern\]** I will be working as a research intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/) for the upcoming summer!   --->
+* **Feb 2024 \[Intern\]** I will be working as a research intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/) for the upcoming summer!  
 <!--- * **Dec 2023 \[Award\]** Received $750 student scholarship from [AAAI 2024](https://aaai.org/aaai-conference/)   --->
 <!--- * **Dec 2023 \[Paper\]** [*Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing*](https://ojs.aaai.org/index.php/AAAI/article/view/29592) accepted by [AAAI 2024](https://aaai.org/aaai-conference/)   --->
 <!--- * **Sep 2023 \[Talk\]** Invited to give a talk on "resource harvesting in serverless computing" at [HPCS Lab](https://hpcs.charlotte.edu/), UNC Charlotte   --->
