@@ -15,8 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+**VLDB 2025**  
+[Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing](https://hanfeiyu.github.io/publications/)  
+<u>Hanfei Yu</u>, Jacob Carter, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park  
+*The International Conference on Very Large Data Bases*
+
 **SC 2024 (Best Student Paper Finalist)**  
-[Coming soon...](https://hanfeiyu.github.io/publications/)  
+[Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing](https://hanfeiyu.github.io/publications/)  
 <u>Hanfei Yu</u>, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park  
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis*
 
