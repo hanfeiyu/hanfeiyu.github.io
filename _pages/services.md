@@ -12,6 +12,7 @@ author_profile: true
 IEEE International Conference on Parallel and Distributed Systems **(ICPADS)**, Technical Program Committee  
 ACM The Web Conference **(WWW)**, Artifact Evaluation Program Committee  
 Performance Evaluation **(PEVA)**, Reviewer  
+IEEE Transactions on Computers **(TC)**, Reviewer  
 IEEE Transactions on Mobile Computing **(TMC)**, Reviewer  
 IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer  
 IEEE Internet of Things Journal **(IoTJ)**, Reviewer  
