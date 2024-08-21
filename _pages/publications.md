@@ -20,7 +20,7 @@ author_profile: true
 <u>Hanfei Yu</u>, Jacob Carter, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park  
 *The International Conference on Very Large Data Bases*
 
-**SC 2024 (<span style="color:red">Best Student Paper Finalist!</span>)**  
+**SC 2024 <span style="color:red">(Best Student Paper Finalist)</span>**  
 [Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing](https://hanfeiyu.github.io/publications/)  
 <u>Hanfei Yu</u>, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park  
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis*
