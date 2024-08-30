@@ -15,8 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-* **Aug 2024 \[Paper\]** [**](https://hanfeiyu.github.io/publications/) accepted by [TPDS 2024](https://www.computer.org/csdl/journal/td)  
-
 **VLDB 2025**  
 [Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing](https://hanfeiyu.github.io/publications/)  
 <u>Hanfei Yu</u>, Jacob Carter, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park  
