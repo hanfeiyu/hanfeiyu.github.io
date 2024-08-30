@@ -21,6 +21,7 @@ redirect_from:
 
 # News
 
+* **Aug 2024 \[Paper\]** [*Freyr+: Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning*](https://hanfeiyu.github.io/publications/) accepted by [TPDS 2024](https://www.computer.org/csdl/journal/td)  
 * **Aug 2024 \[Paper\]** [*Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing*](https://hanfeiyu.github.io/publications/) accepted by [VLDB 2025](https://vldb.org/2025/)  
 * **July 2024 \[Service\]** Serve on the Technical Program Committee for [ICPADS 2024](https://attend.ieee.org/icpads/)  
 * **June 2024 \[Paper\]** [*Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing*](https://hanfeiyu.github.io/publications/) accepted by [SC 2024](https://sc24.supercomputing.org/) and got into the <span style="color:red">**Best Student Paper Finalist**</span>!  
