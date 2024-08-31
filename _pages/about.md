@@ -12,12 +12,7 @@ redirect_from:
 
 * Greetings! I'm a Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering), at [Stevens Institute of Technology](https://www.stevens.edu/), advised by Prof. [Hao Wang](https://intellisys.haow.ca/haowang/).
 * I received my Master's Degree in Computer Science and Systems at [University of Washington Tacoma](https://www.tacoma.uw.edu/), advised by Prof. [Wes J. Lloyd](http://faculty.washington.edu/wlloyd/index.html) and Dr. [Athirai A. Irissappane](https://sites.google.com/view/athirai/). I received my Bachelor’s Degree in Electronic Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
-* My research interests lie in
-  - Cloud Computing
-  - Machine Learning
-  - ML for Systems
-  - Systems for ML
-* Specifically, I'm focusing on applying learning techniques to improve **serverless computing** and building serverless systems for **ML training/serving**.
+* My research interests lie in **Cloud Computing** and **AI/ML systems**. Specifically, I focus on improving the resource efficiency of serverless computing systems with AI/ML-driven techniques and building efficient serverless systems for AI/ML training and serving.
 
 # News
 
