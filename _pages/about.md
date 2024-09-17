@@ -16,7 +16,7 @@ redirect_from:
 
 # News
 
-* **Sep 2023 \[Service\]** Serve as a reviewer for [ICLR 2025](https://iclr.cc/Conferences/2025)   
+* **Sep 2023 \[Service\]** Serve as a Reviewer for [ICLR 2025](https://iclr.cc/Conferences/2025)   
 * **Aug 2024 \[Paper\]** [*Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing*](https://hanfeiyu.github.io/publications/) accepted by [VLDB 2025](https://vldb.org/2025/)
 * **Aug 2024 \[Paper\]** [*Freyr+: Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning*](https://hanfeiyu.github.io/publications/) accepted by [TPDS 2024](https://www.computer.org/csdl/journal/td)  
 * **July 2024 \[Service\]** Serve on the Technical Program Committee for [ICPADS 2024](https://attend.ieee.org/icpads/)  
@@ -27,7 +27,7 @@ redirect_from:
 <!--- * **Dec 2023 \[Paper\]** [*Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing*](https://ojs.aaai.org/index.php/AAAI/article/view/29592) accepted by [AAAI 2024](https://aaai.org/aaai-conference/)   --->
 <!--- * **Sep 2023 \[Talk\]** Invited to give a talk on "resource harvesting in serverless computing" at [HPCS Lab](https://hpcs.charlotte.edu/), UNC Charlotte   --->
 <!--- * **Sep 2023 \[Paper\]** [*RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing*](https://doi.org/10.1145/3617232.3624871) accepted by [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)   --->
-<!--- * **June 2023 \[Service\]** Serve as a reviewer for [ECAI 2023](https://ecai2023.eu/)   --->
-<!--- * **June 2023 \[Service\]** Serve as a reviewer for [GLOBECOM 2023](https://globecom2023.ieee-globecom.org/)   --->
+<!--- * **June 2023 \[Service\]** Serve as a Reviewer for [ECAI 2023](https://ecai2023.eu/)   --->
+<!--- * **June 2023 \[Service\]** Serve as a Reviewer for [GLOBECOM 2023](https://globecom2023.ieee-globecom.org/)   --->
 <!--- * **April 2023 \[Paper\]** [*Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters*](https://dl.acm.org/doi/10.1145/3588195.3592996) accepted by [HPDC 2023](https://www.hpdc.org/2023/)   --->
 <!--- * **Jan 2022 \[Paper\]** [*Accelerating Serverless Computing by Harvesting Idle Resources*](https://doi.org/10.1145/3485447.3511979) accepted by [WWW 2022](https://www2022.thewebconf.org/)   --->
