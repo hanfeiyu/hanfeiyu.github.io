@@ -5,12 +5,12 @@ permalink: /experiences/
 author_profile: true
 ---
 
-# Microsoft Azure Research, Redmond, WA, USA
-Research Intern, [Azure Research - Systems](https://www.microsoft.com/en-us/research/group/azure-research-systems/), May 2024 - Aug 2024  
-
 # Stevens Institute of Technology, Hoboken, NJ, USA
 
-Research Assistant, [IntelliSys Lab](https://intellisys.haow.us/), June 2021 - Present
+Research Assistant, [IntelliSys Lab](https://intellisys.haow.us/), June 2021 - Present  
+
+# Microsoft Azure Research, Redmond, WA, USA
+Research Intern, [Azure Research - Systems](https://www.microsoft.com/en-us/research/group/azure-research-systems/), May 2024 - Aug 2024  
 
 # Louisiana State University, Baton Rouge, LA, USA
 
