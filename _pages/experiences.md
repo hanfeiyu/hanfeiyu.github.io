@@ -10,7 +10,7 @@ Research Intern, [Azure Research - Systems](https://www.microsoft.com/en-us/rese
 
 # Stevens Institute of Technology, Hoboken, NJ, USA
 
-Research Assistant, [IntelliSys Lab](https://intellisys.haow.us/), June 2021 - Aug 2024
+Research Assistant, [IntelliSys Lab](https://intellisys.haow.us/), June 2021 - Present
 
 # Louisiana State University, Baton Rouge, LA, USA
 
