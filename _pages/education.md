@@ -13,7 +13,7 @@ Stevens Institute of Technology, Hoboken, New Jersey, USA
 # Doctor of Philosophy in Computer Science
 
 Louisiana State University, Baton Rouge, Louisiana, USA  
-2021 - 2024
+2021 - 2024 (transferred out)
 
 # Master of Science in Computer Science
 
