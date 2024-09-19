@@ -26,7 +26,7 @@ author_profile: true
 *IEEE Transactions on Parallel and Distributed Systems*
 
 **SC 2024 <span style="color:red">(Best Student Paper Finalist)</span>**  
-[Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing](https://hanfeiyu.github.io/publications/)  
+[Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing](https://intellisys.haow.us/assets/pdf/Hanfei_SC24_SwiftRL.pdf)  
 <u>Hanfei Yu</u>, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park  
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis*
 
