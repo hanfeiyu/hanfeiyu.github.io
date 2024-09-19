@@ -21,7 +21,7 @@ author_profile: true
 *The International Conference on Very Large Data Bases*
 
 **TPDS 2024**  
-[Freyr+: Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning](https://hanfeiyu.github.io/publications/)  
+[Freyr+: Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10682062)  
 <u>Hanfei Yu</u>, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park  
 *IEEE Transactions on Parallel and Distributed Systems*
 
