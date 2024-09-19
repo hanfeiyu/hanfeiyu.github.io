@@ -18,7 +18,7 @@ redirect_from:
 
 * **Sep 2023 \[Service\]** Serve as a Reviewer for [ICLR 2025](https://iclr.cc/Conferences/2025)   
 * **Aug 2024 \[Paper\]** [*Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing*](https://hanfeiyu.github.io/publications/) accepted by [VLDB 2025](https://vldb.org/2025/)
-* **Aug 2024 \[Paper\]** [*Freyr+: Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning*](https://hanfeiyu.github.io/publications/) accepted by [TPDS 2024](https://www.computer.org/csdl/journal/td)  
+* **Aug 2024 \[Paper\]** [*Freyr+: Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning*](https://ieeexplore.ieee.org/document/10682062) accepted by [TPDS 2024](https://www.computer.org/csdl/journal/td)  
 * **July 2024 \[Service\]** Serve on the Technical Program Committee for [ICPADS 2024](https://attend.ieee.org/icpads/)  
 * **June 2024 \[Paper\]** [*Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing*](https://intellisys.haow.us/assets/pdf/Hanfei_SC24_SwiftRL.pdf) accepted by [SC 2024](https://sc24.supercomputing.org/) and got into the <span style="color:red">**Best Student Paper Finalist**</span>!  
 <!--- * **Feb 2024 \[Service\]** Serve on the Artifact Evaluation Program Committee for [WWW 2024](https://www2024.thewebconf.org/)   --->
