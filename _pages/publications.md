@@ -20,10 +20,15 @@ author_profile: true
 <u>Hanfei Yu</u>, Jacob Carter, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park  
 *The International Conference on Very Large Data Bases*
 
+**SoCC 2024**  
+[Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading](https://hanfeiyu.github.io/publications/)  
+Yifan Sui, <u>Hanfei Yu</u>, Yitao Hu, Jianxun Li, Hao Wang  
+*ACM Symposium on Cloud Computing*  
+
 **TPDS 2024**  
 [Freyr+: Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10682062)  
 <u>Hanfei Yu</u>, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park  
-*IEEE Transactions on Parallel and Distributed Systems*
+*IEEE Transactions on Parallel and Distributed Systems*  
 
 **SC 2024 <span style="color:red">(Best Student Paper Finalist)</span>**  
 [Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing](https://intellisys.haow.us/assets/pdf/Hanfei_SC24_SwiftRL.pdf)  
