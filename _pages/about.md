@@ -15,7 +15,7 @@ redirect_from:
 * My research interests lie in **Cloud Computing**, **Serverless Computing**, **Reinforcement Learning**, **AI/ML systems**, and **LLM serving systems**. Specifically, I focus on improving the resource efficiency of serverless computing systems with AI/ML-driven techniques and building efficient serverless systems for AI/ML training and serving:
   * \[[VLDB'25](https://hanfeiyu.github.io/publications/), [SC'24](https://intellisys.haow.us/assets/pdf/Hanfei_SC24_SwiftRL.pdf), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29592)\] Accelerated and cost-effective large-scale **distributed DRL systems** on serverless computing
   * \[[ASPLOS'24](https://doi.org/10.1145/3617232.3624871), [TPDS'24](https://ieeexplore.ieee.org/document/10682062), [HPDC'23](https://dl.acm.org/doi/10.1145/3588195.3592996), [WWW'22](https://doi.org/10.1145/3485447.3511979), [ACSOS'21](https://ieeexplore.ieee.org/document/9659513)\] Efficient resource management and function scheduling for **serverless computing systems**
-  * \[[SoCC'24](https://hanfeiyu.github.io/publications/), [In-submission-1](https://hanfeiyu.github.io/publications/)\] Accelerated serverless inference of **Deep Learning systems** and memory-efficient **LLM MoE serving systems**
+  * \[[SoCC'24](https://hanfeiyu.github.io/publications/), [In-progress-1](https://hanfeiyu.github.io/publications/)\] Accelerated serverless inference of **Deep Learning systems** and memory-efficient **LLM MoE serving systems**
 
 
 # News
