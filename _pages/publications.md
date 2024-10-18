@@ -21,7 +21,7 @@ author_profile: true
 *The International Conference on Very Large Data Bases*
 
 **SoCC 2024**  
-[Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading](https://hanfeiyu.github.io/publications/)  
+[Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading](https://intellisys.haow.us/assets/pdf/yifan-socc24.pdf)  
 Yifan Sui, <u>Hanfei Yu</u>, Yitao Hu, Jianxun Li, Hao Wang  
 *ACM Symposium on Cloud Computing*  
 
