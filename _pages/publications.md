@@ -16,12 +16,12 @@ author_profile: true
 {% endfor %} -->
 
 **VLDB 2025**  
-[Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing](https://hanfeiyu.github.io/publications/)  
+[Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing](https://intellisys.haow.us/assets/pdf/hanfei-vldb25.pdf)  
 <u>Hanfei Yu</u>, Jacob Carter, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park  
 *The International Conference on Very Large Data Bases*
 
 **SoCC 2024**  
-[Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading](https://intellisys.haow.us/assets/pdf/yifan-socc24.pdf)  
+[Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading](https://dl.acm.org/doi/10.1145/3698038.3698509)  
 Yifan Sui, <u>Hanfei Yu</u>, Yitao Hu, Jianxun Li, Hao Wang  
 *ACM Symposium on Cloud Computing*  
 
