@@ -13,17 +13,17 @@ redirect_from:
 * Greetings! I'm a fourth-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering), at [Stevens Institute of Technology](https://www.stevens.edu/), advised by Prof. [Hao Wang](https://intellisys.haow.us/haowang/).
 * I received my Master's Degree in Computer Science and Systems at [University of Washington Tacoma](https://www.tacoma.uw.edu/), advised by Prof. [Wes J. Lloyd](http://faculty.washington.edu/wlloyd/index.html) and Dr. [Athirai A. Irissappane](https://sites.google.com/view/athirai/). I received my Bachelor’s Degree in Electronic Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 * My research interests lie in **Large-Scale AI/ML Systems**, **LLM Serving Systems**, **Reinforcement Learning Systems**, **Serverless Computing**, and **Cloud Computing**. Specifically, I focus on improving the resource efficiency of serverless computing systems with AI/ML-driven techniques and building efficient serverless systems for AI/ML training and serving:
-  * \[[VLDB'25](https://hanfeiyu.github.io/publications/), [SC'24 (*Best Student Paper Finalist*)](https://intellisys.haow.us/assets/pdf/Hanfei_SC24_SwiftRL.pdf), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29592)\] Accelerated and cost-effective large-scale *distributed DRL systems* on serverless computing  
-  * \[[SoCC'24](https://hanfeiyu.github.io/publications/)\] Accelerated serverless inference of large-scale *Deep Learning systems*  
+  * \[[VLDB'25](https://intellisys.haow.us/assets/pdf/hanfei-vldb25.pdf), [SC'24 (*Best Student Paper Finalist*)](https://intellisys.haow.us/assets/pdf/Hanfei_SC24_SwiftRL.pdf), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29592)\] Accelerated and cost-effective large-scale *distributed DRL systems* on serverless computing  
+  * \[[SoCC'24](https://dl.acm.org/doi/10.1145/3698038.3698509)\] Accelerated serverless inference of large-scale *Deep Learning systems*  
   * \[[ASPLOS'24](https://doi.org/10.1145/3617232.3624871), [TPDS'24](https://ieeexplore.ieee.org/document/10682062), [HPDC'23](https://dl.acm.org/doi/10.1145/3588195.3592996), [WWW'22](https://doi.org/10.1145/3485447.3511979), [ACSOS'21](https://ieeexplore.ieee.org/document/9659513)\] Efficient resource management and function scheduling for *serverless computing systems*  
   * \[[In-progress](https://hanfeiyu.github.io/publications/)\] Memory-efficient *LLM inference of Mixture-of-Experts (MoE) architectures*  
 
 
 # News
 
-* **Sep 2024 \[Paper\]** [*Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading*](https://intellisys.haow.us/assets/pdf/yifan-socc24.pdf) accepted by [SoCC 2024](https://acmsocc.org/2024/)   
+* **Sep 2024 \[Paper\]** [*Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading*](https://dl.acm.org/doi/10.1145/3698038.3698509) accepted by [SoCC 2024](https://acmsocc.org/2024/)   
 * **Sep 2023 \[Service\]** Serve as a Reviewer for [ICLR 2025](https://iclr.cc/Conferences/2025)   
-* **Aug 2024 \[Paper\]** [*Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing*](https://hanfeiyu.github.io/publications/) accepted by [VLDB 2025](https://vldb.org/2025/)  
+* **Aug 2024 \[Paper\]** [*Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing*](https://intellisys.haow.us/assets/pdf/hanfei-vldb25.pdf) accepted by [VLDB 2025](https://vldb.org/2025/)  
 * **Aug 2024 \[Paper\]** [*Freyr+: Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning*](https://ieeexplore.ieee.org/document/10682062) accepted by [TPDS 2024](https://www.computer.org/csdl/journal/td)  
 * **July 2024 \[Service\]** Serve on the Technical Program Committee for [ICPADS 2024](https://attend.ieee.org/icpads/)  
 * **June 2024 \[Paper\]** [*Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing*](https://intellisys.haow.us/assets/pdf/Hanfei_SC24_SwiftRL.pdf) accepted by [SC 2024](https://sc24.supercomputing.org/) and got into the <span style="color:red">**Best Student Paper Finalist**</span>!  
