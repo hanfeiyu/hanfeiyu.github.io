@@ -21,6 +21,7 @@ redirect_from:
 
 # News
 
+* **Nov 2024 \[Service\]** Serve on the Artifact Evaluation Program Committee for [FAST 2025](https://www.usenix.org/conference/fast25)  
 * **Sep 2024 \[Paper\]** [*Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading*](https://dl.acm.org/doi/10.1145/3698038.3698509) accepted by [SoCC 2024](https://acmsocc.org/2024/)   
 * **Sep 2023 \[Service\]** Serve as a Reviewer for [ICLR 2025](https://iclr.cc/Conferences/2025)   
 * **Aug 2024 \[Paper\]** [*Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing*](https://intellisys.haow.us/assets/pdf/hanfei-vldb25.pdf) accepted by [VLDB 2025](https://vldb.org/2025/)  
