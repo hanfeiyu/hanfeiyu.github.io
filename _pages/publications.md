@@ -20,7 +20,7 @@ author_profile: true
 <u>Hanfei Yu</u>, Jacob Carter, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park  
 *The International Conference on Very Large Data Bases*
 
-**SoCC 2024 [<span style="color:red">(Best Paper Award)</span>](https://hanfeiyu.github.io/files/socc24-best-paper.pdf)**  
+**SoCC 2024 [<span style="color:red">(Best Paper Award)</span>](https://hanfeiyu.github.io/files/socc24-best-paper.jpg)**  
 [Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading](https://dl.acm.org/doi/10.1145/3698038.3698509)  
 Yifan Sui, <u>Hanfei Yu</u>, Yitao Hu, Jianxun Li, Hao Wang  
 *ACM Symposium on Cloud Computing*  
