@@ -56,6 +56,9 @@ EAI International Conference on Ad Hoc Networks **(AdHocNets)**, Reviewer
 
 # Talks
 
+**Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing**  
+The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), Atlanta, GA, USA, Nov 2024 
+
 **RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing**  
 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), La Jolla, CA, USA, April 2024
 
@@ -71,6 +74,7 @@ IEEE International Conference on Autonomic Computing and Self-Organizing Systems
 
 # Awards
 
+2024, ACM Symposium on Cloud Computing (SoCC), *Best Paper Award*    
 2024, The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), *Best Student Paper Finalist*    
 2024, The Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), Student Scholarship $750  
 2023, European Conference on Artificial Intelligence (ECAI), *Call to Arms* award  
