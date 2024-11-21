@@ -13,6 +13,7 @@ USENIX Conference on File and Storage Technologies **(FAST)**, Artifact Evaluati
 International Conference on Learning Representations **(ICLR)**, Reviewer  
 IEEE International Conference on Parallel and Distributed Systems **(ICPADS)**, Technical Program Committee  
 ACM The Web Conference **(WWW)**, Artifact Evaluation Program Committee  
+ACM Transactions on Autonomous and Adaptive Systems **(TAAS)**, Reviewer  
 Performance Evaluation **(PEVA)**, Reviewer  
 IEEE Transactions on Computers **(TC)**, Reviewer  
 IEEE Transactions on Mobile Computing **(TMC)**, Reviewer  
