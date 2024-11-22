@@ -16,7 +16,8 @@ redirect_from:
   * \[[VLDB'25](https://intellisys.haow.us/assets/pdf/hanfei-vldb25.pdf), [SC'24 (<span style="color:red">*Best Student Paper Finalist*</span>)](https://dl.acm.org/doi/10.1109/SC41406.2024.00045), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29592)\] Accelerated and cost-effective large-scale *distributed DRL systems* on serverless computing  
   * \[[SoCC'24 (<span style="color:red">*Best Paper Award*</span>)](https://dl.acm.org/doi/10.1145/3698038.3698509)\] Accelerated serverless inference of large-scale *Deep Learning systems*  
   * \[[ASPLOS'24](https://doi.org/10.1145/3617232.3624871), [TPDS'24](https://ieeexplore.ieee.org/document/10682062), [HPDC'23](https://dl.acm.org/doi/10.1145/3588195.3592996), [WWW'22](https://doi.org/10.1145/3485447.3511979), [ACSOS'21](https://ieeexplore.ieee.org/document/9659513)\] Efficient resource management and function scheduling for *serverless computing systems*  
-  * \[[In-progress](https://hanfeiyu.github.io/publications/)\] Memory-efficient *LLM inference of Mixture-of-Experts (MoE) architectures*  
+  * \[[In-progress](https://hanfeiyu.github.io/publications/)\] Memory-efficient *LLM inference of Mixture-of-Experts (MoE) architectures*
+* I received various academic awards, including SoCC'24 [Best Paper Award](https://hanfeiyu.github.io/files/socc24-best-paper.jpg), SC'24 Best Student Paper Finalist, and ECAI'23 Call to Arms Award.
 
 
 # News
