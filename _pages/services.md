@@ -76,8 +76,8 @@ IEEE International Conference on Autonomic Computing and Self-Organizing Systems
 # Awards
 
 2024, ACM Symposium on Cloud Computing (SoCC), [*Best Paper Award*](https://hanfeiyu.github.io/files/socc24-best-paper.jpg)    
-2024, The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), *Best Student Paper Finalist*    
+2024, The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), [*Best Student Paper Finalist*](https://sc24.conference-program.com/presentation/?id=pap594&sess=sess392)    
 2024, The Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), Student Scholarship $750  
-2023, European Conference on Artificial Intelligence (ECAI), *Call to Arms* award  
+2023, European Conference on Artificial Intelligence (ECAI), [*Call to Arms Award*](https://ecai2023.eu/pca)   
 2022, ACM Web Conference (WWW), Student Scholarship €300  
 2021, IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), Student Scholarship $390  
