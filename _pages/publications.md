@@ -30,7 +30,7 @@ Yifan Sui, <u>Hanfei Yu</u>, Yitao Hu, Jianxun Li, Hao Wang
 <u>Hanfei Yu</u>, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park  
 *IEEE Transactions on Parallel and Distributed Systems*  
 
-**SC 2024 <span style="color:red">(Best Student Paper Finalist)</span>**  
+**SC 2024 [<span style="color:red">(Best Student Paper Finalist)</span>](https://sc24.conference-program.com/presentation/?id=pap594&sess=sess392)**  
 [Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing](https://dl.acm.org/doi/10.1109/SC41406.2024.00045)  
 <u>Hanfei Yu</u>, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park  
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis*
