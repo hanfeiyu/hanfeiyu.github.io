@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 **VLDB 2025**  
-[Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing](https://intellisys.haow.us/assets/pdf/hanfei-vldb25.pdf)  
+[Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing](https://dl.acm.org/doi/abs/10.14778/3696435.3696441)  
 <u>Hanfei Yu</u>, Jacob Carter, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park  
 *The International Conference on Very Large Data Bases*
 
