@@ -7,12 +7,19 @@ author_profile: true
 
 # Academic Services
 
-## 2024
+## Conferences  
 
-USENIX Conference on File and Storage Technologies **(FAST)**, Artifact Evaluation Program Committee  
-International Conference on Learning Representations **(ICLR)**, Reviewer  
-IEEE International Conference on Parallel and Distributed Systems **(ICPADS)**, Technical Program Committee  
-ACM The Web Conference **(WWW)**, Artifact Evaluation Program Committee  
+2025 USENIX Conference on File and Storage Technologies **(FAST'25)**, Artifact Evaluation Program Committee  
+2025 International Conference on Learning Representations **(ICLR'25)**, Reviewer  
+2024 IEEE International Conference on Parallel and Distributed Systems **(ICPADS'24)**, Technical Program Committee  
+2024 ACM The Web Conference **(WWW'24)**, Artifact Evaluation Program Committee  
+2023 IEEE Global Communications Conference **(GLOBECOM'23)**, Reviewer  
+2023 European Conference on Artificial Intelligence **(ECAI'23)**, Reviewer  
+2021 EAI International Conference on Ad Hoc Networks **(AdHocNets'21)**, Reviewer  
+
+## Journals  
+
+Springer The Journal of Supercomputing **(TJSC)**, Reviewer  
 ACM Transactions on Autonomous and Adaptive Systems **(TAAS)**, Reviewer  
 Performance Evaluation **(PEVA)**, Reviewer  
 IEEE Transactions on Computers **(TC)**, Reviewer  
@@ -20,40 +27,9 @@ IEEE Transactions on Mobile Computing **(TMC)**, Reviewer
 IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer  
 IEEE Internet of Things Journal **(IoTJ)**, Reviewer  
 IEEE Transactions on Network Science and Engineering **(TNSE)**, Reviewer  
-IEEE International Conference on Computer Communications **(INFOCOM)**, External Reviewer  
-IEEE/ACM Transactions on Networking **(ToN)**, External Reviewer  
-Annual Conference on Neural Information Processing Systems **(NeurIPS)**, External Reviewer  
-International Conference on Machine Learning **(ICML)**, External Reviewer  
-IEEE International Conference on Distributed Computing Systems **(ICDCS)**, External Reviewer  
-ACM International Symposium on High-Performance Parallel and Distributed Computing **(HPDC)**, External Reviewer  
-
-## 2023
-
 Journal of Systems Architecture **(JSA)**, Reviewer  
 IEEE Transactions on Cloud Computing **(TCC)**, Reviewer  
-IEEE Global Communications Conference **(GLOBECOM)**, Reviewer  
-European Conference on Artificial Intelligence **(ECAI)**, Reviewer  
-IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer  
-IEEE International Conference on Computer Communications and Networks **(ICCCN)**, External reviewer  
-IEEE International Conference on Distributed Computing Systems **(ICDCS)**, External reviewer  
-IEEE International Conference on Computer Communications **(INFOCOM)**, External reviewer
 
-## 2022
-
-ACM Symposium on Cloud Computing **(SoCC)**, External reviewer   
-ACM The Web Conference **(WWW)**, External reviewer   
-IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, External reviewer   
-IEEE/ACM Transactions on Networking **(ToN)**, External reviewer   
-IEEE Transactions on Network Science and Engineering **(TNSE)**, External reviewer   
-IEEE Transactions on Cloud Computing **(TCC)**, External reviewer  
-IEEE Transactions on Mobile Computing **(TMC)**, External reviewer   
-IEEE Access **(Access)**, External reviewer
-
-## 2021
-
-IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, External reviewer   
-IEEE/ACM Transactions on Networking **(ToN)**, External reviewer   
-EAI International Conference on Ad Hoc Networks **(AdHocNets)**, Reviewer  
 
 # Talks
 
@@ -75,7 +51,7 @@ IEEE International Conference on Autonomic Computing and Self-Organizing Systems
 
 # Awards
 
-2024, ACM Symposium on Cloud Computing (SoCC), [*Best Paper Award*](https://hanfeiyu.github.io/files/socc24-best-paper.jpg)    
+2024, ACM Symposium on Cloud Computing (SoCC), [*Best Paper Award*](https://hanfeiyu.github.io/files/socc24-best-paper.pdf)    
 2024, The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), [*Best Student Paper Finalist*](https://sc24.conference-program.com/presentation/?id=pap594&sess=sess392)    
 2024, The Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), Student Scholarship $750  
 2023, European Conference on Artificial Intelligence (ECAI), [*Call to Arms Award*](https://ecai2023.eu/pca)   
