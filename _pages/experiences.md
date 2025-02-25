@@ -9,6 +9,9 @@ author_profile: true
 
 Research Assistant, [IntelliSys Lab](https://intellisys.haow.us/), June 2021 - Present  
 
+# Microsoft Research, Redmond, WA, USA
+Research Intern, [Systems Innovation Research Group](https://www.microsoft.com/en-us/research/group/systems-innovation/), May 2025 - Aug 2025  
+
 # Microsoft Azure Research, Redmond, WA, USA
 Research Intern, [Azure Research - Systems](https://www.microsoft.com/en-us/research/group/azure-research-systems/), May 2024 - Aug 2024  
 
