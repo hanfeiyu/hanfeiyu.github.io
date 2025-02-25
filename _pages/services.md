@@ -19,7 +19,8 @@ author_profile: true
 
 ## Journals  
 
-Springer The Journal of Supercomputing **(TJSC)**, Reviewer  
+IEEE Transactions on Services Computing **(TSC)**, Reviewer  
+The Journal of Supercomputing **(TJSC)**, Reviewer  
 ACM Transactions on Autonomous and Adaptive Systems **(TAAS)**, Reviewer  
 Performance Evaluation **(PEVA)**, Reviewer  
 IEEE Transactions on Computers **(TC)**, Reviewer  
