@@ -18,7 +18,7 @@ redirect_from:
   * \[[SoCC'24 (<span style="color:red">*Best Paper Award*</span>)](https://dl.acm.org/doi/10.1145/3698038.3698509)\] Accelerated serverless inference of large-scale *Deep Learning systems*  
   * \[[ASPLOS'24](https://doi.org/10.1145/3617232.3624871), [TPDS'24](https://ieeexplore.ieee.org/document/10682062), [HPDC'23](https://dl.acm.org/doi/10.1145/3588195.3592996), [WWW'22](https://doi.org/10.1145/3485447.3511979), [ACSOS'21](https://ieeexplore.ieee.org/document/9659513)\] Efficient resource management and function scheduling for *serverless computing systems*  
   * \[[In-submission](https://hanfeiyu.github.io/publications/)\] Memory-efficient *Mixture-of-Experts (MoE) based LLM inference*
-* I'm the recipient of various academic awards, including SoCC'24 [Best Paper Award](https://hanfeiyu.github.io/files/socc24-best-paper.pdf), SC'24 [Best Student Paper Finalist](https://sc24.conference-program.com/presentation/?id=pap594&sess=sess392), and ECAI'23 [Call to Arms Award](https://ecai2023.eu/pca). I was selected as [2025 ML and Systems Rising Stars](https://mlcommons.org/about-us/programs/).
+* I'm the recipient of various academic awards, including [**SoCC'24 Best Paper Award**](https://hanfeiyu.github.io/files/socc24-best-paper.pdf) and [**SC'24 Best Student Paper Finalist**](https://sc24.conference-program.com/presentation/?id=pap594&sess=sess392). I was selected as one of the [**2025 ML and Systems Rising Stars**](https://mlcommons.org/about-us/programs/).
 
 
 # News
