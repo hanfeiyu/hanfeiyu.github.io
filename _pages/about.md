@@ -23,7 +23,7 @@ redirect_from:
 
 # News
 
-* **March 2025 \[Talk\]** Invited to give a talk at [University of Pennsylvania DSL Seminar](https://dsl.cis.upenn.edu/seminar/)  
+* **March 2025 \[Talk\]** Invited to give a talk at the [University of Pennsylvania DSL Seminar](https://dsl.cis.upenn.edu/seminar/)  
 * **March 2025 \[Award\]** Selected by [MLCommons](https://mlcommons.org/) as one of the [2025 ML and Systems Rising Stars](https://mlcommons.org/about-us/programs/)!  
 * **Feb 2025 \[Intern\]** I will be working as a research intern at [Microsoft Systems Innovation Research Group](https://www.microsoft.com/en-us/research/group/systems-innovation/) for the upcoming summer!  
 * **Nov 2024 \[Service\]** Serve on the Artifact Evaluation Program Committee for [FAST 2025](https://www.usenix.org/conference/fast25)  
