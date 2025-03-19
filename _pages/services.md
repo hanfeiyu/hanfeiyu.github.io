@@ -9,6 +9,7 @@ author_profile: true
 
 ## Conferences  
 
+2025 IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC'25)**, Program Committee  
 2025 USENIX Conference on File and Storage Technologies **(FAST'25)**, Artifact Evaluation Program Committee  
 2025 International Conference on Learning Representations **(ICLR'25)**, Reviewer  
 2024 IEEE International Conference on Parallel and Distributed Systems **(ICPADS'24)**, Technical Program Committee  
