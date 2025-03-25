@@ -23,11 +23,12 @@ redirect_from:
 
 # News
 
+* **March 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [MobiSys 2025](https://sigmobile.org/mobisys/2025/)  
 * **March 2025 \[Service\]** Serve on the Program Committee for [HiPC 2025](https://www.hipc.org/)  
 * **March 2025 \[Talk\]** Invited to give a talk at the [University of Pennsylvania DSL Seminar](https://dsl.cis.upenn.edu/seminar/)  
 * **March 2025 \[Award\]** Selected by [MLCommons](https://mlcommons.org/) as one of the [2025 ML and Systems Rising Stars](https://mlcommons.org/about-us/programs/)!  
 * **Feb 2025 \[Intern\]** I will be working as a research intern at [Microsoft Systems Innovation Research Group](https://www.microsoft.com/en-us/research/group/systems-innovation/) for the upcoming summer!  
-* **Nov 2024 \[Service\]** Serve on the Artifact Evaluation Program Committee for [FAST 2025](https://www.usenix.org/conference/fast25)  
+<!--- * **Nov 2024 \[Service\]** Serve on the Artifact Evaluation Program Committee for [FAST 2025](https://www.usenix.org/conference/fast25)   --->
 <!--- * **Sep 2024 \[Paper\]** [*Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading*](https://dl.acm.org/doi/10.1145/3698038.3698509) accepted by [SoCC 2024](https://acmsocc.org/2024/) and got the <span style="color:red">**Best Paper Award**</span>!   --->
 <!--- * **Sep 2024 \[Service\]** Serve as a Reviewer for [ICLR 2025](https://iclr.cc/Conferences/2025)   --->
 <!--- * **Aug 2024 \[Paper\]** [*Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing*](https://dl.acm.org/doi/abs/10.14778/3696435.3696441) accepted by [VLDB 2025](https://vldb.org/2025/)   --->
