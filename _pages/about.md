@@ -23,6 +23,7 @@ redirect_from:
 
 # News
 
+* **May 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [FAST'26](https://www.usenix.org/conference/fast26)  
 * **April 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [CoNEXT'25](https://conferences.sigcomm.org/co-next/2025/)  
 * **April 2025 \[Talk\]** Invited to give a talk at the [University of Pennsylvania DSL Seminar](https://dsl.cis.upenn.edu/seminar/)  
 * **March 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [MobiSys'25](https://sigmobile.org/mobisys/2025/)  
