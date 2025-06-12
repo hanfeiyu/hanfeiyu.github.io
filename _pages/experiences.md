@@ -5,10 +5,6 @@ permalink: /experiences/
 author_profile: true
 ---
 
-## Stevens Institute of Technology, Hoboken, NJ, USA
-
-Research Assistant, [IntelliSys Lab](https://intellisys.haow.us/), Sep 2024 - Present  
-
 ## Microsoft M365 Research, Redmond, WA, USA
 
 Research Intern, [Systems Innovation Research Group](https://www.microsoft.com/en-us/research/group/systems-innovation/), May 2025 - Aug 2025  
@@ -16,6 +12,10 @@ Research Intern, [Systems Innovation Research Group](https://www.microsoft.com/e
 ## Microsoft Azure Research, Redmond, WA, USA
 
 Research Intern, [Azure Research Systems](https://www.microsoft.com/en-us/research/group/azure-research-systems/), May 2024 - Aug 2024  
+
+## Stevens Institute of Technology, Hoboken, NJ, USA
+
+Research Assistant, [IntelliSys Lab](https://intellisys.haow.us/), Sep 2024 - Present  
 
 ## Louisiana State University, Baton Rouge, LA, USA
 
