@@ -39,7 +39,7 @@ IEEE Transactions on Cloud Computing **(TCC)**, Reviewer
 
 # Talks
 
-**Serverless Computing for AI Systems**  
+**Optimizing Serverless Computing for AI Systems**  
 Distributed Systems Laboratory ([DSL Seminar](https://dsl.cis.upenn.edu/seminar/past/)), University of Pennsylvania, PA, April 2024
 
 **Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing**  
