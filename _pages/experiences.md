@@ -15,7 +15,7 @@ Research Intern, [Systems Innovation Research Group](https://www.microsoft.com/e
 
 ## Microsoft Azure Research, Redmond, WA, USA
 
-Research Intern, [Azure Research - Systems](https://www.microsoft.com/en-us/research/group/azure-research-systems/), May 2024 - Aug 2024  
+Research Intern, [Azure Research Systems](https://www.microsoft.com/en-us/research/group/azure-research-systems/), May 2024 - Aug 2024  
 
 ## Louisiana State University, Baton Rouge, LA, USA
 
