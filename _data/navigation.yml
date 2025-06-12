@@ -3,11 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Services & Talks & Awards"
+  - title: "Academic Services"
     url: /services/    
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Awards"
+    url: /awards/    
+
+  - title: "Invited Talks"
+    url: /talks/    
 
   - title: "Education"
     url: /education/    
