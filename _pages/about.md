@@ -23,6 +23,7 @@ redirect_from:
 
 # News
 
+* **June 2025 \[Service\]** Our work on serverless AI eco-systems has been featured on [News@Indiana University](https://news.iu.edu/it/live/news/45943-jetstream2-user-advances-serverless-computing)  
 * **June 2025 \[Service\]** Serve on the Shadow Program Committee for [EuroSys'26](https://2026.eurosys.org/)  
 * **May 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [FAST'26](https://www.usenix.org/conference/fast26)  
 * **April 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [CoNEXT'25](https://conferences.sigcomm.org/co-next/2025/)  
@@ -42,7 +43,7 @@ redirect_from:
 * **June 2024 \[Paper\]** [*Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing*](https://dl.acm.org/doi/10.1109/SC41406.2024.00045) accepted by [SC 2024](https://sc24.supercomputing.org/) and got into the <span style="color:red">**Best Student Paper Finalist**</span>!  
 * **Feb 2024 \[Service\]** Serve on the Artifact Evaluation Program Committee for [WWW 2024](https://www2024.thewebconf.org/)  
 * **Feb 2024 \[Intern\]** I will be working as a research intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/) for the upcoming summer!  
-* **Dec 2023 \[Award\]** Received $750 student scholarship from [AAAI 2024](https://aaai.org/aaai-conference/)   --->
+* **Dec 2023 \[Award\]** Received $750 student scholarship from [AAAI 2024](https://aaai.org/aaai-conference/)  
 * **Dec 2023 \[Paper\]** [*Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing*](https://ojs.aaai.org/index.php/AAAI/article/view/29592) accepted by [AAAI 2024](https://aaai.org/aaai-conference/)  
 * **Sep 2023 \[Talk\]** Invited to give a talk on "resource harvesting in serverless computing" at [HPCS Lab](https://hpcs.charlotte.edu/), UNC Charlotte  
 * **Sep 2023 \[Paper\]** [*RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing*](https://doi.org/10.1145/3617232.3624871) accepted by [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)  
