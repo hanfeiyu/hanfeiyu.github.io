@@ -33,21 +33,20 @@ redirect_from:
 * **March 2025 \[Service\]** Serve on the Program Committee for [HiPC 2025](https://www.hipc.org/)  
 * **March 2025 \[Award\]** Selected by [MLCommons](https://mlcommons.org/) as one of the [2025 ML and Systems Rising Stars](https://mlcommons.org/about-us/programs/)!  
 * **Feb 2025 \[Intern\]** I will be working as a research intern at [Microsoft Systems Innovation Research Group](https://www.microsoft.com/en-us/research/group/systems-innovation/) for the upcoming summer!  
-<!--- * **Nov 2024 \[Service\]** Serve on the Artifact Evaluation Program Committee for [FAST'25](https://www.usenix.org/conference/fast25)   --->
-<!--- * **Sep 2024 \[Paper\]** [*Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading*](https://dl.acm.org/doi/10.1145/3698038.3698509) accepted by [SoCC 2024](https://acmsocc.org/2024/) and got the <span style="color:red">**Best Paper Award**</span>!   --->
-<!--- * **Sep 2024 \[Service\]** Serve as a Reviewer for [ICLR 2025](https://iclr.cc/Conferences/2025)   --->
-<!--- * **Aug 2024 \[Paper\]** [*Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing*](https://dl.acm.org/doi/abs/10.14778/3696435.3696441) accepted by [VLDB 2025](https://vldb.org/2025/)   --->
-<!--- * **Aug 2024 \[Paper\]** [*Freyr+: Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning*](https://ieeexplore.ieee.org/document/10682062) accepted by [TPDS 2024](https://www.computer.org/csdl/journal/td)   --->
-<!--- * **July 2024 \[Service\]** Serve on the Technical Program Committee for [ICPADS 2024](https://attend.ieee.org/icpads/)   --->
-<!--- * **June 2024 \[Paper\]** [*Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing*](https://dl.acm.org/doi/10.1109/SC41406.2024.00045) accepted by [SC 2024](https://sc24.supercomputing.org/) and got into the <span style="color:red">**Best Student Paper Finalist**</span>!   --->
-<!--- * **Feb 2024 \[Service\]** Serve on the Artifact Evaluation Program Committee for [WWW 2024](https://www2024.thewebconf.org/)   --->
-<!--- * **Feb 2024 \[Intern\]** I will be working as a research intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/) for the upcoming summer!   --->
-<!--- * **Dec 2023 \[Award\]** Received $750 student scholarship from [AAAI 2024](https://aaai.org/aaai-conference/)   --->
-<!--- * **Dec 2023 \[Paper\]** [*Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing*](https://ojs.aaai.org/index.php/AAAI/article/view/29592) accepted by [AAAI 2024](https://aaai.org/aaai-conference/)   --->
-<!--- * **Sep 2023 \[Talk\]** Invited to give a talk on "resource harvesting in serverless computing" at [HPCS Lab](https://hpcs.charlotte.edu/), UNC Charlotte   --->
-<!--- * **Sep 2023 \[Paper\]** [*RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing*](https://doi.org/10.1145/3617232.3624871) accepted by [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)   --->
-<!--- * **June 2023 \[Service\]** Serve as a Reviewer for [ECAI 2023](https://ecai2023.eu/)   --->
-<!--- * **June 2023 \[Service\]** Serve as a Reviewer for [GLOBECOM 2023](https://globecom2023.ieee-globecom.org/)   --->
-<!--- * **April 2023 \[Paper\]** [*Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters*](https://dl.acm.org/doi/10.1145/3588195.3592996) accepted by [HPDC 2023](https://www.hpdc.org/2023/)   --->
-<!--- * **Jan 2022 \[Paper\]** [*Accelerating Serverless Computing by Harvesting Idle Resources*](https://doi.org/10.1145/3485447.3511979) accepted by [WWW 2022](https://www2022.thewebconf.org/)   --->
--->
+* **Nov 2024 \[Service\]** Serve on the Artifact Evaluation Program Committee for [FAST'25](https://www.usenix.org/conference/fast25)  
+* **Sep 2024 \[Paper\]** [*Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading*](https://dl.acm.org/doi/10.1145/3698038.3698509) accepted by [SoCC 2024](https://acmsocc.org/2024/) and got the <span style="color:red">**Best Paper Award**</span>!  
+* **Sep 2024 \[Service\]** Serve as a Reviewer for [ICLR 2025](https://iclr.cc/Conferences/2025)  
+* **Aug 2024 \[Paper\]** [*Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing*](https://dl.acm.org/doi/abs/10.14778/3696435.3696441) accepted by [VLDB 2025](https://vldb.org/2025/)  
+* **Aug 2024 \[Paper\]** [*Freyr+: Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning*](https://ieeexplore.ieee.org/document/10682062) accepted by [TPDS 2024](https://www.computer.org/csdl/journal/td)  
+* **July 2024 \[Service\]** Serve on the Technical Program Committee for [ICPADS 2024](https://attend.ieee.org/icpads/)  
+* **June 2024 \[Paper\]** [*Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing*](https://dl.acm.org/doi/10.1109/SC41406.2024.00045) accepted by [SC 2024](https://sc24.supercomputing.org/) and got into the <span style="color:red">**Best Student Paper Finalist**</span>!  
+* **Feb 2024 \[Service\]** Serve on the Artifact Evaluation Program Committee for [WWW 2024](https://www2024.thewebconf.org/)  
+* **Feb 2024 \[Intern\]** I will be working as a research intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/) for the upcoming summer!  
+* **Dec 2023 \[Award\]** Received $750 student scholarship from [AAAI 2024](https://aaai.org/aaai-conference/)   --->
+* **Dec 2023 \[Paper\]** [*Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing*](https://ojs.aaai.org/index.php/AAAI/article/view/29592) accepted by [AAAI 2024](https://aaai.org/aaai-conference/)  
+* **Sep 2023 \[Talk\]** Invited to give a talk on "resource harvesting in serverless computing" at [HPCS Lab](https://hpcs.charlotte.edu/), UNC Charlotte  
+* **Sep 2023 \[Paper\]** [*RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing*](https://doi.org/10.1145/3617232.3624871) accepted by [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)  
+* **June 2023 \[Service\]** Serve as a Reviewer for [ECAI 2023](https://ecai2023.eu/)  
+* **June 2023 \[Service\]** Serve as a Reviewer for [GLOBECOM 2023](https://globecom2023.ieee-globecom.org/)  
+* **April 2023 \[Paper\]** [*Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters*](https://dl.acm.org/doi/10.1145/3588195.3592996) accepted by [HPDC 2023](https://www.hpdc.org/2023/)  
+* **Jan 2022 \[Paper\]** [*Accelerating Serverless Computing by Harvesting Idle Resources*](https://doi.org/10.1145/3485447.3511979) accepted by [WWW 2022](https://www2022.thewebconf.org/)  
