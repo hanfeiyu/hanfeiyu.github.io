@@ -18,7 +18,7 @@ redirect_from:
   * \[[SoCC'24 (<span style="color:red">*Best Paper Award*</span>)](https://dl.acm.org/doi/10.1145/3698038.3698509), [In-submission-2](https://hanfeiyu.github.io/), [In-submission-3](https://hanfeiyu.github.io/)\] Accelerated serverless inference for *Deep Learning*, *Low-Rank Adaptation (LoRA)*, and *Mixture-of-Experts (MoE)* systems   
   * \[[ASPLOS'24](https://doi.org/10.1145/3617232.3624871), [TPDS'24](https://ieeexplore.ieee.org/document/10682062), [HPDC'23](https://dl.acm.org/doi/10.1145/3588195.3592996), [WWW'22](https://doi.org/10.1145/3485447.3511979), [ACSOS'21](https://ieeexplore.ieee.org/document/9659513)\] Efficient resource management and function scheduling for *serverless computing systems*  
   * \[[In-submission-4](https://hanfeiyu.github.io/)\] Memory-efficient *MoE-based LLM* serving systems  
-* I'm the recipient of various academic awards, including [**SoCC'24 Best Paper Award**](https://hanfeiyu.github.io/files/socc24-best-paper.pdf) and [**SC'24 Best Student Paper Finalist**](https://sc24.conference-program.com/presentation/?id=pap594&sess=sess392). I was selected as one of the [**2025 ML and Systems Rising Stars**](https://mlcommons.org/about-us/programs/).
+* I'm the recipient of various academic awards, including [**SoCC'24 Best Paper Award**](https://hanfeiyu.github.io/files/socc24-best-paper.pdf) and [**SC'24 Best Student Paper Finalist**](https://sc24.conference-program.com/presentation/?id=pap594&sess=sess392). I was selected as one of the [**2025 ML and Systems Rising Stars**](https://mlcommons.org/2025/06/2025-mlc-rising-stars/).
 
 
 # News
@@ -32,7 +32,7 @@ redirect_from:
 <!-- 
 * **March 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [MobiSys'25](https://sigmobile.org/mobisys/2025/)  
 * **March 2025 \[Service\]** Serve on the Program Committee for [HiPC 2025](https://www.hipc.org/)  
-* **March 2025 \[Award\]** Selected by [MLCommons](https://mlcommons.org/) as one of the [2025 ML and Systems Rising Stars](https://mlcommons.org/about-us/programs/)!  
+* **March 2025 \[Award\]** Selected by [MLCommons](https://mlcommons.org/) as one of the [2025 ML and Systems Rising Stars](https://mlcommons.org/2025/06/2025-mlc-rising-stars/)!  
 * **Feb 2025 \[Intern\]** I will be working as a research intern at [Microsoft Systems Innovation Research Group](https://www.microsoft.com/en-us/research/group/systems-innovation/) for the upcoming summer!  
 * **Nov 2024 \[Service\]** Serve on the Artifact Evaluation Program Committee for [FAST'25](https://www.usenix.org/conference/fast25)  
 * **Sep 2024 \[Paper\]** [*Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading*](https://dl.acm.org/doi/10.1145/3698038.3698509) accepted by [SoCC 2024](https://acmsocc.org/2024/) and got the <span style="color:red">**Best Paper Award**</span>!  
