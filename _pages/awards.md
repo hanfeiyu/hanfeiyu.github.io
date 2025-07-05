@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-2025, MLCommons, [**2025 ML and Systems Rising Stars**](https://mlcommons.org/about-us/programs/)
+2025, MLCommons, [**2025 ML and Systems Rising Stars**](https://mlcommons.org/2025/06/2025-mlc-rising-stars/)
 
 2024, ACM Symposium on Cloud Computing (SoCC), [**Best Paper Award**](https://hanfeiyu.github.io/files/socc24-best-paper.pdf)
 
