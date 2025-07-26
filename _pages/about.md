@@ -24,6 +24,7 @@ redirect_from:
 
 # News
 
+* **July 2025 \[Service\]** Serve on the Program Committee for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)  
 * **June 2025 \[Service\]** Our work on serverless AI eco-systems has been featured on [News@Indiana University](https://news.iu.edu/it/live/news/45943-jetstream2-user-advances-serverless-computing)  
 * **June 2025 \[Service\]** Serve on the Shadow Program Committee for [EuroSys'26](https://2026.eurosys.org/)  
 * **May 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [FAST'26](https://www.usenix.org/conference/fast26)  
@@ -31,7 +32,6 @@ redirect_from:
 * **April 2025 \[Talk\]** Invited to give a talk at the [University of Pennsylvania DSL Seminar](https://dsl.cis.upenn.edu/seminar/)  
 
 <!-- 
-* **July 2025 \[Service\]** Serve on the Program Committee for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)  
 * **March 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [MobiSys'25](https://sigmobile.org/mobisys/2025/)  
 * **March 2025 \[Service\]** Serve on the Program Committee for [HiPC 2025](https://www.hipc.org/)  
 * **March 2025 \[Award\]** Selected by [MLCommons](https://mlcommons.org/) as one of the [2025 ML and Systems Rising Stars](https://mlcommons.org/2025/06/2025-mlc-rising-stars/)!  
