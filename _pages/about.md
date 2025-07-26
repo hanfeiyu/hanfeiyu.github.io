@@ -31,6 +31,7 @@ redirect_from:
 * **April 2025 \[Talk\]** Invited to give a talk at the [University of Pennsylvania DSL Seminar](https://dsl.cis.upenn.edu/seminar/)  
 
 <!-- 
+* **July 2025 \[Service\]** Serve on the Program Committee for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)  
 * **March 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [MobiSys'25](https://sigmobile.org/mobisys/2025/)  
 * **March 2025 \[Service\]** Serve on the Program Committee for [HiPC 2025](https://www.hipc.org/)  
 * **March 2025 \[Award\]** Selected by [MLCommons](https://mlcommons.org/) as one of the [2025 ML and Systems Rising Stars](https://mlcommons.org/2025/06/2025-mlc-rising-stars/)!  
