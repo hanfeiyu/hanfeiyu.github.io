@@ -7,9 +7,10 @@ author_profile: true
 
 ## Conferences  
 
-2025 Fortieth AAAI Conference on Artificial Intelligence **(AAAI'26)**, Program Committee  
+2026 Fortieth AAAI Conference on Artificial Intelligence **(AAAI'26)**, Program Committee  
 2026 The European Conference on Computer Systems **(EuroSys'26)**, Shadow Program Committee  
 2026 USENIX Conference on File and Storage Technologies **(FAST'26)**, Artifact Evaluation Program Committee  
+2025 Symposium on Operating Systems Principles **(SOSP'25)**, Artifact Evaluation Program Committee  
 2025 ACM International Conference on emerging Networking EXperiments and Technologies **(CoNEXT'25)**, Artifact Evaluation Program Committee  
 2025 ACM International Conference on Mobile Systems, Applications, and Services **(MobiSys'25)**, Artifact Evaluation Program Committee  
 2025 IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC'25)**, Program Committee  
