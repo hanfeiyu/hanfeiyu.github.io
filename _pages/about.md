@@ -24,6 +24,7 @@ redirect_from:
 
 # News
 
+* **Aug 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [SOSP'25](https://sigops.org/s/conferences/sosp/2025/)  
 * **July 2025 \[Service\]** Serve on the Program Committee for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)  
 * **June 2025 \[Service\]** Our work on serverless AI eco-systems has been featured on [News@Indiana University](https://news.iu.edu/it/live/news/45943-jetstream2-user-advances-serverless-computing)  
 * **June 2025 \[Service\]** Serve on the Shadow Program Committee for [EuroSys'26](https://2026.eurosys.org/)  
