@@ -29,7 +29,8 @@ redirect_from:
 * **July 2025 \[Service\]** Serve on the Program Committee for [AAAI'26](https://aaai.org/conference/aaai/aaai-26/)  
 * **June 2025 \[Service\]** Our work on serverless AI eco-systems has been featured on [News@Indiana University](https://news.iu.edu/it/live/news/45943-jetstream2-user-advances-serverless-computing)  
 * **June 2025 \[Service\]** Serve on the Shadow Program Committee for [EuroSys'26](https://2026.eurosys.org/)  
-* **May 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [FAST'26](https://www.usenix.org/conference/fast26)  
+* **May 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [FAST'26](https://www.usenix.org/conference/fast26)
+
 <!-- 
 * **April 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [CoNEXT'25](https://conferences.sigcomm.org/co-next/2025/)  
 * **April 2025 \[Talk\]** Invited to give a talk at the [University of Pennsylvania DSL Seminar](https://dsl.cis.upenn.edu/seminar/)  
