@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+**EuroSys 2026**  
+[Taming Latency-Memory Trade-Off in MoE-Based LLM Serving via Fine-Grained Expert Offloading](https://hanfeiyu.github.io/)  
+<u>Hanfei Yu</u>, Xingqi Cui, Hong Zhang, Hao Wang, and Hao Wang
+*The European Conference on Computer Systems*
+
 **VLDB 2025**  
 [Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing](https://dl.acm.org/doi/abs/10.14778/3696435.3696441)  
 <u>Hanfei Yu</u>, Jacob Carter, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park  
