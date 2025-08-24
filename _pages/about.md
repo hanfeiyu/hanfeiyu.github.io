@@ -17,21 +17,22 @@ redirect_from:
   * \[[VLDB'25](https://dl.acm.org/doi/abs/10.14778/3696435.3696441), [SC'24 (<span style="color:red">*Best Student Paper Finalist*</span>)](https://dl.acm.org/doi/10.1109/SC41406.2024.00045), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29592), [In-submission-1](https://hanfeiyu.github.io/)\] Accelerated and cost-effective large-scale *distributed DRL systems* on serverless computing  
   * \[[SoCC'24 (<span style="color:red">*Best Paper Award*</span>)](https://dl.acm.org/doi/10.1145/3698038.3698509), [In-submission-2](https://hanfeiyu.github.io/), [In-submission-3](https://hanfeiyu.github.io/)\] Accelerated serverless inference for *Deep Learning*, *Low-Rank Adaptation (LoRA)*, and *Mixture-of-Experts (MoE)* systems   
   * \[[ASPLOS'24](https://doi.org/10.1145/3617232.3624871), [TPDS'24](https://ieeexplore.ieee.org/document/10682062), [HPDC'23](https://dl.acm.org/doi/10.1145/3588195.3592996), [WWW'22](https://doi.org/10.1145/3485447.3511979), [ACSOS'21](https://ieeexplore.ieee.org/document/9659513)\] Efficient resource management and function scheduling for *serverless computing systems*
-  * \[[In-submission-4](https://hanfeiyu.github.io/)\] Memory-efficient *MoE-based LLM* serving systems   
-  * \[[In-submission-5](https://hanfeiyu.github.io/)\] Novel *attacks* and *defenses* against serverless computing systems  
+  * \[[EuroSys'26](https://hanfeiyu.github.io/)\] Memory-efficient *MoE-based LLM* serving systems   
+  * \[[In-submission-4](https://hanfeiyu.github.io/)\] Novel *attacks* and *defenses* against serverless computing systems  
 * I'm the recipient of various academic awards, including [**SoCC'24 Best Paper Award**](https://hanfeiyu.github.io/files/socc24-best-paper.pdf) and [**SC'24 Best Student Paper Finalist**](https://sc24.conference-program.com/presentation/?id=pap594&sess=sess392). I was selected as one of the [**2025 ML and Systems Rising Stars**](https://mlcommons.org/2025/06/2025-mlc-rising-stars/).
 
 
 # News
 
+* **Aug 2025 \[Paper\]** [*Taming Latency-Memory Trade-Off in MoE-Based LLM Serving via Fine-Grained Expert Offloading*](https://hanfeiyu.github.io/) accepted by [EuroSys 2026](https://2026.eurosys.org/)  
 * **Aug 2025 \[Service\]** Serve on the Technical Program Committee for [ICPADS'25](http://icpads2025.ieee-icpads.org.cn/)  
 * **Aug 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [SOSP'25](https://sigops.org/s/conferences/sosp/2025/)  
 * **July 2025 \[Service\]** Serve on the Program Committee for [AAAI'26](https://aaai.org/conference/aaai/aaai-26/)  
 * **June 2025 \[Service\]** Our work on serverless AI eco-systems has been featured on [News@Indiana University](https://news.iu.edu/it/live/news/45943-jetstream2-user-advances-serverless-computing)  
 * **June 2025 \[Service\]** Serve on the Shadow Program Committee for [EuroSys'26](https://2026.eurosys.org/)  
-* **May 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [FAST'26](https://www.usenix.org/conference/fast26)
 
 <!-- 
+* **May 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [FAST'26](https://www.usenix.org/conference/fast26)  
 * **April 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [CoNEXT'25](https://conferences.sigcomm.org/co-next/2025/)  
 * **April 2025 \[Talk\]** Invited to give a talk at the [University of Pennsylvania DSL Seminar](https://dsl.cis.upenn.edu/seminar/)  
 * **March 2025 \[Service\]** Serve on the Artifact Evaluation Program Committee for [MobiSys'25](https://sigmobile.org/mobisys/2025/)  
