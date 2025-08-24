@@ -17,7 +17,7 @@ author_profile: true
 
 **EuroSys 2026**  
 [Taming Latency-Memory Trade-Off in MoE-Based LLM Serving via Fine-Grained Expert Offloading](https://hanfeiyu.github.io/)  
-<u>Hanfei Yu</u>, Xingqi Cui, Hong Zhang, Hao Wang, and Hao Wang
+<u>Hanfei Yu</u>, Xingqi Cui, Hong Zhang, Hao Wang, and Hao Wang  
 *The European Conference on Computer Systems*
 
 **VLDB 2025**  
