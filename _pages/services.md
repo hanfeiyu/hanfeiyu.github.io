@@ -7,6 +7,7 @@ author_profile: true
 
 ## Conferences  
 
+2026 International Conference on Learning Representations **(ICLR'26)**, Reviewer  
 2026 Fortieth AAAI Conference on Artificial Intelligence **(AAAI'26)**, Program Committee  
 2026 The European Conference on Computer Systems **(EuroSys'26)**, Shadow Program Committee  
 2026 USENIX Conference on File and Storage Technologies **(FAST'26)**, Artifact Evaluation Program Committee  
