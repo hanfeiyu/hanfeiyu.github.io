@@ -24,6 +24,7 @@ redirect_from:
 
 # News
 
+* **Sep 2025 \[Paper\]** [*Multi-Agent Reinforcement Learning with Serverless Computing*](https://hanfeiyu.github.io/) accepted by [SoCC 2025](https://acmsocc.org/2025/index.html)  
 * **Sep 2025 \[Service\]** Serve as a Reviewer for [ICLR 2026](https://iclr.cc/Conferences/2026)  
 * **Aug 2025 \[Paper\]** [*Taming Latency-Memory Trade-Off in MoE-Based LLM Serving via Fine-Grained Expert Offloading*](https://hanfeiyu.github.io/) accepted by [EuroSys 2026](https://2026.eurosys.org/)  
 * **Aug 2025 \[Service\]** Serve on the Technical Program Committee for [ICPADS'25](http://icpads2025.ieee-icpads.org.cn/)  
