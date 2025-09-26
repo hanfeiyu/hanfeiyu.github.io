@@ -20,6 +20,11 @@ author_profile: true
 <u>Hanfei Yu</u>, Xingqi Cui, Hong Zhang, Hao Wang, and Hao Wang  
 *The European Conference on Computer Systems*
 
+**SoCC 2025**  
+[Multi-Agent Reinforcement Learning with Serverless Computing](https://hanfeiyu.github.io/)  
+Rui Wei, <u>Hanfei Yu</u>, Xikang Song, Jian Li, Devesh Tiwari, Ying Mao, and Hao Wang  
+*ACM Symposium on Cloud Computing*
+
 **VLDB 2025**  
 [Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing](https://dl.acm.org/doi/abs/10.14778/3696435.3696441)  
 <u>Hanfei Yu</u>, Jacob Carter, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park  
