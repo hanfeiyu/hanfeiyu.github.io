@@ -24,6 +24,7 @@ redirect_from:
 
 # News
 
+* **Nov 2025 \[Paper\]** [*Accelerating ML Inference via Opportunistic Pre-Loading on Serverless Clusters*](https://hanfeiyu.github.io/) accepted by [TPDS](https://www.computer.org/csdl/journal/td)  
 * **Sep 2025 \[Paper\]** [*Multi-Agent Reinforcement Learning with Serverless Computing*](https://hanfeiyu.github.io/) accepted by [SoCC'25](https://acmsocc.org/2025/index.html)  
 * **Sep 2025 \[Service\]** Serve as a Reviewer for [ICLR'26](https://iclr.cc/Conferences/2026)  
 * **Aug 2025 \[Paper\]** [*Taming Latency-Memory Trade-Off in MoE-Based LLM Serving via Fine-Grained Expert Offloading*](https://hanfeiyu.github.io/) accepted by [EuroSys'26](https://2026.eurosys.org/)  
