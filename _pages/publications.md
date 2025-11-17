@@ -15,13 +15,20 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+
+
 **EuroSys 2026**  
-[Taming Latency-Memory Trade-Off in MoE-Based LLM Serving via Fine-Grained Expert Offloading](https://hanfeiyu.github.io/)  
+[Taming Latency-Memory Trade-Off in MoE-Based LLM Serving via Fine-Grained Expert Offloading](https://hanfeiyu.github.io/publications/)  
 <u>Hanfei Yu</u>, Xingqi Cui, Hong Zhang, Hao Wang, and Hao Wang  
 *The European Conference on Computer Systems*
 
+**TPDS 2025**  
+[Accelerating ML Inference via Opportunistic Pre-Loading on Serverless Clusters](https://hanfeiyu.github.io/publications/)  
+Yifan Sui, <u>Hanfei Yu</u>, Yitao Hu, Jianxun Li, and Hao Wang  
+*IEEE Transactions on Parallel and Distributed Systems*  
+
 **SoCC 2025**  
-[Multi-Agent Reinforcement Learning with Serverless Computing](https://hanfeiyu.github.io/)  
+[Multi-Agent Reinforcement Learning with Serverless Computing](https://hanfeiyu.github.io/publications/)  
 Rui Wei, <u>Hanfei Yu</u>, Xikang Song, Jian Li, Devesh Tiwari, Ying Mao, and Hao Wang  
 *ACM Symposium on Cloud Computing*
 
