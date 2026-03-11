@@ -13,7 +13,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: /assets/img/cropped-sky-airplane-32x32.png
+icon: cropped-sky-airplane-32x32.png
 
 url: https://hanfeiyu.github.io
 baseurl:
