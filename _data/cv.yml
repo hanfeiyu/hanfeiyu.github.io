@@ -23,8 +23,8 @@ cv:
 
   sections:
     Education:
-      - institution: '<i class="fa-solid fa-building-columns"></i> Stevens Institute of Technology'
-        location: Hoboken, NJ, USA
+      - institution: '<i class="fa-solid fa-building-columns"></i> Stevens Institute of Technology, Hoboken, NJ, USA'
+        # location:
         # url: https://www.uzh.ch/
         # area: Physics
         studyType: Doctor of Philosophy (Ph.D.) - Computer Engineering
@@ -36,8 +36,8 @@ cv:
           - 'Advisor: <a href="https://intellisys.haow.us/haowang/" target="_blank">Dr. Hao Wang</a>'
           - 'Dissertation: "From Infrastructure to LLM Serving: Towards Full-Stack AI Systems"'
 
-      - institution: '<i class="fa-solid fa-building-columns"></i> Louisiana State University'
-        location: Baton Rouge, LA, USA
+      - institution: '<i class="fa-solid fa-building-columns"></i> Louisiana State University, Baton Rouge, LA, USA'
+        # location:
         # area: Physics
         studyType: Doctor of Philosophy (Ph.D.) - Computer Science
         start_date: 2021
@@ -46,8 +46,8 @@ cv:
           - 'Advisor: <a href="https://intellisys.haow.us/haowang/" target="_blank">Dr. Hao Wang</a>'
           - Transferred to Stevens Institute of Technology in 2024
 
-      - institution: '<i class="fa-solid fa-building-columns"></i> University of Washington Tacoma'
-        location: Tacoma, WA, USA
+      - institution: '<i class="fa-solid fa-building-columns"></i> University of Washington Tacoma, Tacoma, WA, USA'
+        # location:
         # area: Physics
         studyType: Master of Science (M.S.) - Computer Science and Systems
         start_date: 2019
@@ -56,8 +56,8 @@ cv:
           - 'Advisor: <a href="https://faculty.washington.edu/wlloyd/" target="_blank">Dr. Wes J. Lloyd</a>'
           - 'Thesis: "FaaSRank: Learning to Schedule Functions in Serverless Platforms"' 
 
-      - institution: '<i class="fa-solid fa-building-columns"></i> Shanghai Jiao Tong University'
-        location: Shanghai, China
+      - institution: '<i class="fa-solid fa-building-columns"></i> Shanghai Jiao Tong University, Shanghai, China'
+        # location:
         # area: Physics
         studyType: Bachelor of Engineering (B.Eng.) - Electronics Engineering
         start_date: 2015
@@ -65,9 +65,9 @@ cv:
         # highlights:
 
     Experience:
-      - company: '<a href="https://www.microsoft.com/en-us/research/group/m365-research/" target="_blank">Microsoft 365 Research</a>'
+      - company: '<a href="https://www.microsoft.com/en-us/research/group/m365-research/" target="_blank">Microsoft 365 Research</a>, Redmond, WA, USA'
         position: Research Intern
-        location: Redmond, WA, USA
+        # location:
         start_date: May 2025
         end_date: Aug 2025
         summary: KV cache management for serving multimodal LLM workloads (Copilot) at scale
@@ -75,9 +75,9 @@ cv:
         #   - Relativity
         #   - Description 2.
 
-      - company: '<a href="https://www.microsoft.com/en-us/research/group/azure-research-systems/" target="_blank">Microsoft Azure Research</a>'
+      - company: '<a href="https://www.microsoft.com/en-us/research/group/azure-research-systems/" target="_blank">Microsoft Azure Research</a>, Redmond, WA, USA'
         position: Research Intern
-        location: Redmond, WA, USA
+        # location:
         start_date: May 2024
         end_date: Aug 2024
         summary: Resource efficiency optimization in multi-layer cloud systems
@@ -85,9 +85,9 @@ cv:
         #   - Relativity
         #   - Description 2.
 
-      - company: '<a href="https://www.intel.com/" target="_blank">Intel</a>'
+      - company: '<a href="https://www.intel.com/" target="_blank">Intel</a>, Shanghai, China'
         position: Software Development Engineer Intern
-        location: Shanghai, China
+        # location:
         start_date: Aug 2018
         end_date: Feb 2019
         summary: UEFI-BIOS Development
@@ -132,7 +132,7 @@ cv:
       - title: Student Travel Scholarships
         # authors:
         #   - "German Physical Society"
-        date: "Since 2021"
+        date: "From 2021"
         awarder: "AAAI'24, WWW'22, ACSOS'21"
         # summary: Awarded for outstanding scientific achievement
 
