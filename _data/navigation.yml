@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Services"
+    url: /services/    
+
+  - title: "Awards"
+    url: /awards/    
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Education"
+    url: /education/    
+
+  - title: "Experiences"
+    url: /experiences/    
+
+  - title: "Contact"
+    url: /contact/
+
+  - title: "CV"
+    url: /cv/
+
+  # - title: "Story"
+  #   url: /story/
