@@ -12,11 +12,11 @@
 
         {% if start_date != '' %}
           <div class="col-xs-2 col-sm-2 col-md-2 text-center">
-            <table class="table-cv">
+            <table class="table-cv" style="width: 100%;">
               <tbody>
                 <tr>
                   <td style="vertical-align: middle; text-align:center;">
-                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px; display: inline-block; text-align: center;">
                       {{- start_date | split: '-' | slice: 0, 1 | join: '' -}}
                     </span>
                   </td>

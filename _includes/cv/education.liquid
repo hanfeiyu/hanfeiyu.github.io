@@ -26,12 +26,14 @@
             {% assign date = null %}
           {% endif %}
 
-          <table class="table-cv">
+          <table class="table-cv" style="width: 100%;">
             <tbody>
               <tr>
                 <td style="vertical-align: middle; text-align:center;">
                   {% if date %}
-                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">{{ date }}</span>
+                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px; display: inline-block; text-align: center;"> 
+                      {{ date }} 
+                    </span>
                   {% endif %}
                 </td>
               </tr>
