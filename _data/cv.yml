@@ -44,7 +44,7 @@ cv:
         end_date: 2024
         highlights:
           - 'Advisor: <a href="https://intellisys.haow.us/haowang/" target="_blank">Dr. Hao Wang</a>'
-          - Transferred to Stevens Institute of Technology in 2024.
+          - Transferred to Stevens Institute of Technology in 2024
 
       - institution: '<i class="fa-solid fa-building-columns"></i> University of Washington Tacoma'
         # location: Zurich, Switzerland
@@ -115,7 +115,7 @@ cv:
         # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - title: '<a href="https://mlcommons.org/2025/06/2025-mlc-rising-stars/" target="_blank">ACM SoCC Best Paper Award</a>'
+      - title: '<a href="/assets/pdf/socc24-best-paper.pdf" target="_blank">ACM SoCC Best Paper Award</a>'
         # authors:
         #   - "German Physical Society"
         date: 2024
@@ -132,7 +132,7 @@ cv:
       - title: Student Scholarship
         # authors:
         #   - "German Physical Society"
-        # date: 2024
+        date: 2021 to 2026
         awarder: "AAAI'24, WWW'22, ACSOS'21"
         # summary: Awarded for outstanding scientific achievement
 
