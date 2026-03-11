@@ -33,6 +33,7 @@
                   <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">{{ date }}</span>
                 </td>
               </tr>
+              {% comment %}
               {% capture location %}
                 {% if entry.location %}{{ entry.location }}{% endif %}
               {% endcapture %}
@@ -46,6 +47,7 @@
                   </td>
                 </tr>
               {% endif %}
+              {% endcomment %}
             </tbody>
           </table>
         </div>

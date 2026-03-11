@@ -35,6 +35,7 @@
                   {% endif %}
                 </td>
               </tr>
+              {% comment %}
               {% capture location %}
                 {% if entry.location %}{{ entry.location }}{% endif %}
               {% endcapture %}
@@ -48,6 +49,7 @@
                   </td>
                 </tr>
               {% endif %}
+              {% endcomment %}
             </tbody>
           </table>
         </div>
