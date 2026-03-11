@@ -5,6 +5,11 @@ cv:
   # location:
   # image:
   # summary:
+  research_interests:
+    - AI Systems
+    - Large Language Model Serving
+    - Reinforcement Learning Systems
+    - Serverless Computing
 
   social_networks:
     # - network: X
