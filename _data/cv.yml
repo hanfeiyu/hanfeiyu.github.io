@@ -24,7 +24,7 @@ cv:
   sections:
     Education:
       - institution: '<i class="fa-solid fa-building-columns"></i> Stevens Institute of Technology'
-        # location: Zurich, Switzerland
+        location: Hoboken, NJ, USA
         # url: https://www.uzh.ch/
         # area: Physics
         studyType: Doctor of Philosophy (Ph.D.) - Computer Engineering
@@ -37,7 +37,7 @@ cv:
           - 'Dissertation: "From Infrastructure to LLM Serving: Towards Full-Stack AI Systems"'
 
       - institution: '<i class="fa-solid fa-building-columns"></i> Louisiana State University'
-        # location: Zurich, Switzerland
+        location: Baton Rouge, LA, USA
         # area: Physics
         studyType: Doctor of Philosophy (Ph.D.) - Computer Science
         start_date: 2021
@@ -47,7 +47,7 @@ cv:
           - Transferred to Stevens Institute of Technology in 2024
 
       - institution: '<i class="fa-solid fa-building-columns"></i> University of Washington Tacoma'
-        # location: Zurich, Switzerland
+        location: Tacoma, WA, USA
         # area: Physics
         studyType: Master of Science (M.S.) - Computer Science and Systems
         start_date: 2019
@@ -57,7 +57,7 @@ cv:
           - 'Thesis: "FaaSRank: Learning to Schedule Functions in Serverless Platforms"' 
 
       - institution: '<i class="fa-solid fa-building-columns"></i> Shanghai Jiao Tong University'
-        # location: Zurich, Switzerland
+        location: Shanghai, China
         # area: Physics
         studyType: Bachelor of Engineering (B.Eng.) - Electronics Engineering
         start_date: 2015
@@ -129,10 +129,10 @@ cv:
         # awarder: ACM Symposium on Cloud Computing (SoCC)
         # summary: Awarded for outstanding scientific achievement
 
-      - title: Student Scholarship
+      - title: Student Travel Scholarships
         # authors:
         #   - "German Physical Society"
-        date: 2021 to 2026
+        date: "Since 2021"
         awarder: "AAAI'24, WWW'22, ACSOS'21"
         # summary: Awarded for outstanding scientific achievement
 
