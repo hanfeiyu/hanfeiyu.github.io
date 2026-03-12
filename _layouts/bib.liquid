@@ -189,8 +189,15 @@
 
     <!-- Links/Buttons -->
     <div class="links">
+      {% if entry.link %}
+        {% if entry.link contains '://' %}
+          <a href="{{ entry.link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Link</a>
+        {% else %}
+          <a href="{{ entry.link | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Link</a>
+        {% endif %}
+      {% endif %}
       {% if entry.award %}
-        <a class="award btn btn-sm z-depth-0" role="button">
+        <a href="{{ entry.award }}" class="award btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
       {% endif %}
