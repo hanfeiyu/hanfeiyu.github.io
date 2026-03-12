@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: "<span style='color:#002676; font-weight:600;'>Email: hyu42 [at] stevens [dot] edu</span>"
 
