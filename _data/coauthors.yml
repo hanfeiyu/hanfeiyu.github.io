@@ -1,34 +1,51 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"haowang":
+  - firstname: ["Haow"]
+    url: https://intellisys.haow.us/haowang/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"hongzhang":
+  - firstname: ["Hong"]
+    url: https://hongzhangblaze.github.io/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"ruiwei":
+  - firstname: ["Rui"]
+    url: https://me.waynetech.site/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"yifansui":
+  - firstname: ["Yifan"]
+    url: https://scholar.google.com/citations?user=R0qcwAsAAAAJ&hl=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"yitaohu":
+  - firstname: ["Yitao"]
+    url: https://flashserve.org/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"jianli":
+  - firstname: ["Jian"]
+    url: https://sites.google.com/stonybrook.edu/jianli
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"devesh":
+  - firstname: ["Devesh"]
+    url: https://scholar.google.com/citations?user=rPntdmYAAAAJ&hl=en
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"yingmao":
+  - firstname: ["Ying"]
+    url: https://yingmao.github.io/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"seungjongpark":
+  - firstname: ["Seung-Jong"]
+    url: https://scholar.google.com/citations?user=AEJSH4UAAAAJ&hl=en
+
+"xuyuan":
+  - firstname: ["Xu"]
+    url: https://scholar.google.com/citations?user=R3XkwA8AAAAJ&hl=en
+
+"rohan":
+  - firstname: ["Rohan"]
+    url: https://rohanbasuroy.github.io/
+
+"athirai":
+  - firstname: ["Athirai A."]
+    url: https://sites.google.com/view/athirai/
+
+"wes":
+  - firstname: ["Wes J."]
+    url: https://faculty.washington.edu/wlloyd/
