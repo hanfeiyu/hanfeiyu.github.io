@@ -1,51 +1,51 @@
-"haowang":
-  - firstname: ["Haow"]
+"wang":
+  - firstname: ["Hao"]
     url: https://intellisys.haow.us/haowang/
 
-"hongzhang":
+"zhang":
   - firstname: ["Hong"]
     url: https://hongzhangblaze.github.io/
 
-"ruiwei":
+"wei":
   - firstname: ["Rui"]
     url: https://me.waynetech.site/
 
-"yifansui":
+"sui":
   - firstname: ["Yifan"]
     url: https://scholar.google.com/citations?user=R0qcwAsAAAAJ&hl=en
 
-"yitaohu":
+"hu":
   - firstname: ["Yitao"]
     url: https://flashserve.org/
 
-"jianli":
+"li":
   - firstname: ["Jian"]
     url: https://sites.google.com/stonybrook.edu/jianli
 
-"devesh":
+"tiwari":
   - firstname: ["Devesh"]
     url: https://scholar.google.com/citations?user=rPntdmYAAAAJ&hl=en
 
-"yingmao":
+"mao":
   - firstname: ["Ying"]
     url: https://yingmao.github.io/
 
-"seungjongpark":
+"park":
   - firstname: ["Seung-Jong"]
     url: https://scholar.google.com/citations?user=AEJSH4UAAAAJ&hl=en
 
-"xuyuan":
+"yuan":
   - firstname: ["Xu"]
     url: https://scholar.google.com/citations?user=R3XkwA8AAAAJ&hl=en
 
-"rohan":
-  - firstname: ["Rohan"]
+"roy":
+  - firstname: ["Rohan", "Rohan Basu"]
     url: https://rohanbasuroy.github.io/
 
-"athirai":
-  - firstname: ["Athirai A."]
+"irissappane":
+  - firstname: ["Athirai", "Athirai A."]
     url: https://sites.google.com/view/athirai/
 
-"wes":
-  - firstname: ["Wes J."]
+"lloyd":
+  - firstname: ["Wes", "Wes J."]
     url: https://faculty.washington.edu/wlloyd/

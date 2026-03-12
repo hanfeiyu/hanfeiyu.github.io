@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**\[Talk\]** Invited to give a talk at [Sky Computing Lab @ UC Berkeley](https://sky.cs.berkeley.edu/)
+**\[Talk\]**  Invited to give a talk at [Sky Computing Lab @ UC Berkeley](https://sky.cs.berkeley.edu/)

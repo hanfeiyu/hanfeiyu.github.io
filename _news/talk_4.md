@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**\[Talk\]** Invited to give a talk at [Computer Systems Seminar @ Rice University](https://jxing.me/teaching-comp620-26spring.html)
+**\[Talk\]**  Invited to give a talk at [Computer Systems Seminar @ Rice University](https://jxing.me/teaching-comp620-26spring.html)

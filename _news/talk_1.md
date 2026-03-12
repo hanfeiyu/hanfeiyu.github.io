@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**\[Talk\]** Invited to give a talk at [MSRA Vancouver](https://www.microsoft.com/en-us/research/group/microsoft-research-asia-vancouver/)
+**\[Talk\]**  Invited to give a talk at [MSRA Vancouver](https://www.microsoft.com/en-us/research/group/microsoft-research-asia-vancouver/)
