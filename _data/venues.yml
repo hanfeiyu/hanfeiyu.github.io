@@ -1,9 +1,41 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"EuroSys":
+  color: "#003262"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"SoCC":
+  color: "#003262"
 
-"Vision":
-  color: "#009f36"
+"TPDS":
+  color: "#003262"
+
+"VLDB":
+  color: "#003262"
+
+"SC":
+  color: "#003262"
+
+"AAAI":
+  color: "#003262"
+
+"ASPLOS":
+  color: "#003262"
+
+"HPDC":
+  color: "#003262"
+
+"WWW":
+  color: "#003262"
+
+"ACSOS":
+  color: "#003262"
+
+"ICPE":
+  color: "#003262"
+
+"WoSC":
+  color: "#003262"
+
+"arXiv":
+  color: "#003262"
+
+"CBDCom":
+  color: "#003262"
