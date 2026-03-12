@@ -12,7 +12,7 @@ profile:
     <p>Email: hyu42@stevens.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -31,7 +31,7 @@ I received my Master's Degree in Computer Science and Systems at [University of 
 
 I was a Research Intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/) and [Microsoft 365 Research](https://www.microsoft.com/en-us/research/group/systems-innovation/).
 
-My research interests lie in **Serverless Computing**, **Large-Scale AI/ML Systems**, **LLM Serving Systems**, **Reinforcement Learning Systems**, and **Cloud Computing**. I develop full-stack AI systems that integrate cloud and HPC infrastructures through algorithm–system co-design:
+My research interests lie in **AI Systems**, **LLM Serving**, **RL(HF) Systems**, and **Serverless Computing**. I develop full-stack AI systems that integrate cloud and HPC infrastructures through algorithm–system co-design:
   * \[[SoCC'25](https://hanfeiyu.github.io/), [VLDB'25](https://dl.acm.org/doi/abs/10.14778/3696435.3696441), [SC'24 (**Best Student Paper Finalist**)](https://dl.acm.org/doi/10.1109/SC41406.2024.00045), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29592), [In-submission-1](https://hanfeiyu.github.io/)\] Distributed RL(HF) systems 
   * \[[SoCC'24 (**Best Paper Award**)](https://dl.acm.org/doi/10.1145/3698038.3698509), [TPDS'25](https://hanfeiyu.github.io/), [In-submission-2](https://hanfeiyu.github.io/)\] Serverless inference for Deep Learning, Low-Rank Adaptation (LoRA), and Mixture-of-Experts (MoE) systems   
   * \[[EuroSys'26](https://hanfeiyu.github.io/), [In-submission-3](https://hanfeiyu.github.io/)\] Efficient MoE and Multimodal LLM serving systems   
