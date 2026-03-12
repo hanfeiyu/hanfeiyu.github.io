@@ -37,3 +37,8 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
