@@ -37,3 +37,11 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+/* Fix venue badge text color */
+abbr.badge,
+abbr.badge a,
+abbr.badge div {
+  color: white !important;
+  text-decoration: none !important;
+}
