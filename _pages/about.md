@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:
+subtitle: "Email: hyu42 [at] stevens [dot] edu"
 
 profile:
   align: right
