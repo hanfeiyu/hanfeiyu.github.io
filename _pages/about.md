@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Greetings! I'm a fifth-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering), at [Stevens Institute of Technology](https://www.stevens.edu/), advised by Dr. [Hao Wang](https://intellisys.haow.us/haowang/).
+Greetings! I am a fifth-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering), at [Stevens Institute of Technology](https://www.stevens.edu/), advised by Dr. [Hao Wang](https://intellisys.haow.us/haowang/).
 
 I received my Master's Degree in Computer Science and Systems at [University of Washington Tacoma](https://www.tacoma.uw.edu/), advised by Dr. [Wes J. Lloyd](http://faculty.washington.edu/wlloyd/index.html) and Dr. [Athirai A. Irissappane](https://sites.google.com/view/athirai/). I received my Bachelor’s Degree in Electronic Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
