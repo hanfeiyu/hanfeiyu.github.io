@@ -16,9 +16,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-professional-services",
+          title: "Professional Services",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/services/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -47,8 +54,8 @@ ninja.data = [{
           section: "News",},{id: "news-paper-accelerating-ml-inference-via-opportunistic-pre-loading-on-serverless-clusters-accepted-by-tpds",
           title: '[Paper] “Accelerating ML Inference via Opportunistic Pre-Loading on Serverless Clusters” accepted by TPDS...',
           description: "",
-          section: "News",},{id: "news-service-serve-on-the-program-committee-for-mlsys-26",
-          title: '[Service]  Serve on the Program Committee for MLSys’26',
+          section: "News",},{id: "news-service-serve-on-the-program-committee-and-artifact-evaluation-program-committee-for-mlsys-26",
+          title: '[Service] Serve on the Program Committee and Artifact Evaluation Program Committee for MLSys’26...',
           description: "",
           section: "News",},{id: "news-talk-invited-to-give-a-talk-at-utns-lab-ut-austin",
           title: '[Talk]  Invited to give a talk at UTNS Lab @ UT Austin',
