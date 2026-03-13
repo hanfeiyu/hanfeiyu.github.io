@@ -37,9 +37,3 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
-
-@media (min-width: 1200px) {
-  .container {
-    max-width: 1280px;
-  }
-}
