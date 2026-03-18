@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-18'
 papers:
   _ECL3GIAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -78,6 +78,6 @@ papers:
     title: Enhancing observability of serverless computing with the serverless application analytics framework
     year: '2021'
   _ECL3GIAAAAJ:zYLM7Y9cAGgC:
-    citations: 87
+    citations: 88
     title: 'Faasrank: Learning to schedule functions in serverless platforms'
     year: '2021'
