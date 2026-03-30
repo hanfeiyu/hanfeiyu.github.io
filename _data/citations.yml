@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-30'
 papers:
   _ECL3GIAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Accelerating ML Inference via Opportunistic Pre-Loading on Serverless Clusters
     year: '2025'
   _ECL3GIAAAAJ:2osOgNQ5qMEC:
-    citations: 10
+    citations: 11
     title: 'Cheaper and faster: Distributed deep reinforcement learning with serverless computing'
     year: '2024'
   _ECL3GIAAAAJ:5nxA0vEk-isC:
@@ -22,7 +22,7 @@ papers:
     title: Leveraging GPT-2 for classifying spam reviews with limited labeled data via adversarial training
     year: '2020'
   _ECL3GIAAAAJ:IjCSPb-OGe4C:
-    citations: 82
+    citations: 83
     title: 'Rainbowcake: Mitigating cold-starts in serverless with layer-wise container caching and sharing'
     year: '2024'
   _ECL3GIAAAAJ:MXK_kJrjxJIC:
@@ -38,7 +38,7 @@ papers:
     title: 'Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing'
     year: '2024'
   _ECL3GIAAAAJ:UebtZRa9Y70C:
-    citations: 12
+    citations: 13
     title: Taming Latency-Memory Trade-Off in MoE-Based LLM Serving via Fine-Grained Expert Offloading
     year: '2025'
   _ECL3GIAAAAJ:W7OEmFMy1HYC:
@@ -50,7 +50,7 @@ papers:
     title: 'Pre-warming is not enough: Accelerating serverless inference with opportunistic pre-loading'
     year: '2024'
   _ECL3GIAAAAJ:Y0pCki6q_DkC:
-    citations: 42
+    citations: 43
     title: 'The serverless application analytics framework: Enabling design trade-off evaluation for serverless software'
     year: '2020'
   _ECL3GIAAAAJ:_FxGoFyzp5QC:
