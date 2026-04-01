@@ -1,14 +1,18 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-01'
 papers:
   _ECL3GIAAAAJ:0EnyYjriUFMC:
-    citations: 0
+    citations: 1
     title: Accelerating ML Inference via Opportunistic Pre-Loading on Serverless Clusters
     year: '2025'
   _ECL3GIAAAAJ:2osOgNQ5qMEC:
     citations: 11
     title: 'Cheaper and faster: Distributed deep reinforcement learning with serverless computing'
     year: '2024'
+  _ECL3GIAAAAJ:3fE2CSJIrl8C:
+    citations: 0
+    title: The Diminishing Returns of Early-Exit Decoding in Modern LLMs
+    year: '2026'
   _ECL3GIAAAAJ:5nxA0vEk-isC:
     citations: 7
     title: "Implications of programming language selection for serverless data processing pipelines In: 2020 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on \u2026"
@@ -46,7 +50,7 @@ papers:
     title: 'Freyr : Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning'
     year: '2024'
   _ECL3GIAAAAJ:WF5omc3nYNoC:
-    citations: 21
+    citations: 22
     title: 'Pre-warming is not enough: Accelerating serverless inference with opportunistic pre-loading'
     year: '2024'
   _ECL3GIAAAAJ:Y0pCki6q_DkC:
