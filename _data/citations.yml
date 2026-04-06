@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-06'
 papers:
   _ECL3GIAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -22,7 +22,7 @@ papers:
     title: 'RLHFless: Serverless Computing for Efficient RLHF'
     year: '2026'
   _ECL3GIAAAAJ:9yKSN-GCB0IC:
-    citations: 22
+    citations: 23
     title: Leveraging GPT-2 for classifying spam reviews with limited labeled data via adversarial training
     year: '2020'
   _ECL3GIAAAAJ:IjCSPb-OGe4C:
@@ -82,6 +82,6 @@ papers:
     title: Enhancing observability of serverless computing with the serverless application analytics framework
     year: '2021'
   _ECL3GIAAAAJ:zYLM7Y9cAGgC:
-    citations: 88
+    citations: 89
     title: 'Faasrank: Learning to schedule functions in serverless platforms'
     year: '2021'
