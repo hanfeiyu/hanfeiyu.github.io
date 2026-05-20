@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-20'
 papers:
   _ECL3GIAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -22,11 +22,11 @@ papers:
     title: 'RLHFless: Serverless Computing for Efficient RLHF'
     year: '2026'
   _ECL3GIAAAAJ:9yKSN-GCB0IC:
-    citations: 25
+    citations: 26
     title: Leveraging GPT-2 for classifying spam reviews with limited labeled data via adversarial training
     year: '2020'
   _ECL3GIAAAAJ:IjCSPb-OGe4C:
-    citations: 87
+    citations: 89
     title: 'Rainbowcake: Mitigating cold-starts in serverless with layer-wise container caching and sharing'
     year: '2024'
   _ECL3GIAAAAJ:MXK_kJrjxJIC:
@@ -42,11 +42,11 @@ papers:
     title: 'Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing'
     year: '2024'
   _ECL3GIAAAAJ:UebtZRa9Y70C:
-    citations: 17
+    citations: 18
     title: Taming Latency-Memory Trade-Off in MoE-Based LLM Serving via Fine-Grained Expert Offloading
     year: '2026'
   _ECL3GIAAAAJ:W7OEmFMy1HYC:
-    citations: 8
+    citations: 9
     title: 'Freyr : Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning'
     year: '2024'
   _ECL3GIAAAAJ:WF5omc3nYNoC:
@@ -59,8 +59,8 @@ papers:
     year: '2020'
   _ECL3GIAAAAJ:_FxGoFyzp5QC:
     citations: 6
-    title: 'Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing'
-    year: '2024'
+    title: 'Nitro: Boosting distributed reinforcement learning with serverless computing'
+    year: '2025'
   _ECL3GIAAAAJ:eQOLeE2rZwMC:
     citations: 17
     title: 'Libra: Harvesting idle resources safely and timely in serverless clusters'
@@ -82,6 +82,6 @@ papers:
     title: Enhancing observability of serverless computing with the serverless application analytics framework
     year: '2021'
   _ECL3GIAAAAJ:zYLM7Y9cAGgC:
-    citations: 89
+    citations: 91
     title: 'Faasrank: Learning to schedule functions in serverless platforms'
     year: '2021'
