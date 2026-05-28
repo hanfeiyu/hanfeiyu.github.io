@@ -31,7 +31,7 @@ I received my Master's Degree in Computer Science and Systems at [University of 
 
 I was a Research Intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/) and [Microsoft 365 Research](https://www.microsoft.com/en-us/research/group/systems-innovation/).
 
-I am the recipient of various academic awards, including [**SoCC'24 Best Paper Award**](https://hanfeiyu.github.io/files/socc24-best-paper.pdf) and [**SC'24 Best Student Paper Finalist**](https://sc24.conference-program.com/presentation/?id=pap594&sess=sess392). I was selected as one of the [**2025 MLCommons ML and Systems Rising Stars**](https://mlcommons.org/2025/06/2025-mlc-rising-stars/).
+I am the recipient of various academic awards, including [**SoCC'24 Best Paper Award**](https://hanfeiyu.github.io/assets/pdf/socc24-best-paper.pdf) and [**SC'24 Best Student Paper Finalist**](https://sc24.conference-program.com/presentation/?id=pap594&sess=sess392). I was selected as one of the [**2025 MLCommons ML and Systems Rising Stars**](https://mlcommons.org/2025/06/2025-mlc-rising-stars/).
 
 My research interests lie in **AI Systems**, **LLM Serving**, **RL Infrastructures**, and **Serverless Computing**. I develop full-stack AI systems that integrate cloud and HPC infrastructures through algorithm–system co-design:
   * **RL infrastructures**: [SoCC'25](https://doi.org/10.1145/3772052.3772227), [VLDB'25](https://dl.acm.org/doi/abs/10.14778/3696435.3696441), [SC'24 (*Best Student Paper Finalist*)](https://dl.acm.org/doi/10.1109/SC41406.2024.00045), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29592)   
