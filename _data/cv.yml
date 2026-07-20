@@ -39,7 +39,7 @@ cv:
         # courses: "Theory of Relativity"
         highlights:
           - 'Advisor: <a href="https://intellisys.haow.us/haowang/" target="_blank">Dr. Hao Wang</a>'
-          - 'Dissertation: "From Infrastructure to LLM Serving: Towards Full-Stack AI Systems"'
+          - 'Dissertation: "Co-Designing Infrastructure, Runtime, and Model Serving for Efficient AI Systems"'
 
       - institution: '<i class="fa-solid fa-building-columns"></i> Louisiana State University, Baton Rouge, LA, USA'
         # location:
