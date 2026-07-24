@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-24'
 papers:
   _ECL3GIAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -42,7 +42,7 @@ papers:
     title: 'Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing'
     year: '2024'
   _ECL3GIAAAAJ:UebtZRa9Y70C:
-    citations: 23
+    citations: 24
     title: Taming latency-memory trade-off in MoE-based LLM serving via fine-grained expert offloading
     year: '2026'
   _ECL3GIAAAAJ:W7OEmFMy1HYC:
@@ -50,7 +50,7 @@ papers:
     title: 'Freyr : Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning'
     year: '2024'
   _ECL3GIAAAAJ:WF5omc3nYNoC:
-    citations: 31
+    citations: 32
     title: 'Pre-warming is not enough: Accelerating serverless inference with opportunistic pre-loading'
     year: '2024'
   _ECL3GIAAAAJ:Y0pCki6q_DkC:
