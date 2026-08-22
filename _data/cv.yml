@@ -38,7 +38,7 @@ cv:
         # score:
         # courses: "Theory of Relativity"
         highlights:
-          - 'Advisor: <a href="https://intellisys.haow.us/haowang/" target="_blank">Dr. Hao Wang</a>'
+          - 'Advisor: Prof. <a href="https://intellisys.haow.us/haowang/" target="_blank">Hao Wang</a>'
           - 'Dissertation: "Co-Designing Infrastructure, Runtime, and Model Serving for Efficient AI Systems"'
 
       - institution: '<i class="fa-solid fa-building-columns"></i> Louisiana State University, Baton Rouge, LA, USA'
@@ -48,7 +48,7 @@ cv:
         start_date: 2021
         end_date: 2024
         highlights:
-          - 'Advisor: <a href="https://intellisys.haow.us/haowang/" target="_blank">Dr. Hao Wang</a>'
+          - 'Advisor: Prof. <a href="https://intellisys.haow.us/haowang/" target="_blank">Hao Wang</a>'
           - Transferred to Stevens Institute of Technology in 2024
 
       - institution: '<i class="fa-solid fa-building-columns"></i> University of Washington Tacoma, Tacoma, WA, USA'
@@ -58,7 +58,7 @@ cv:
         start_date: 2019
         end_date: 2021
         highlights:
-          - 'Advisor: <a href="https://faculty.washington.edu/wlloyd/" target="_blank">Dr. Wes J. Lloyd</a>'
+          - 'Advisor: Prof. <a href="https://faculty.washington.edu/wlloyd/" target="_blank">Wes J. Lloyd</a>'
           - 'Thesis: "FaaSRank: Learning to Schedule Functions in Serverless Platforms"' 
 
       - institution: '<i class="fa-solid fa-building-columns"></i> Shanghai Jiao Tong University, Shanghai, China'
@@ -75,7 +75,7 @@ cv:
         # location:
         start_date: Sep 2026
         end_date: Present
-        summary: 'Working with <a href="https://people.eecs.berkeley.edu/~istoica/" target="_blank">Dr. Ion Stoica</a> on efficient AI systems and LLM infrastructure'
+        summary: 'Working with Prof. <a href="https://people.eecs.berkeley.edu/~istoica/" target="_blank">Ion Stoica</a> on efficient AI systems and LLM infrastructure'
         # highlights:
         #   - 'Advisor: <a href="https://people.eecs.berkeley.edu/~istoica/" target="_blank">Dr. Ion Stoica</a>'
         #   - Transferred to Stevens Institute of Technology in 2024
