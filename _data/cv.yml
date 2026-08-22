@@ -70,6 +70,26 @@ cv:
         # highlights:
 
     Experience:
+      - company: '<a href="https://sky.cs.berkeley.edu/" target="_blank">Sky Computing Lab, UC Berkeley</a>, Berkeley, CA, USA'
+        position: Postdoctoral Scholar
+        # location:
+        start_date: Sep 2026
+        end_date: Present
+        summary: Working with Prof. Ion Stoica on AI systems and LLM infrastructure
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
+        
+      - company: '<a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a>, Bellevue, WA, USA'
+        position: Student Researcher
+        # location:
+        start_date: June 2026
+        end_date: Aug 2026
+        summary: Sandbox snapshot optimization for agent serving and data feedback pipelines for LLM evaluation in agentic rollouts
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
+        
       - company: '<a href="https://www.microsoft.com/en-us/research/group/m365-research/" target="_blank">Microsoft 365 Research</a>, Redmond, WA, USA'
         position: Research Intern
         # location:
