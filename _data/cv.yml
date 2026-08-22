@@ -75,10 +75,10 @@ cv:
         # location:
         start_date: Sep 2026
         end_date: Present
-        summary: Working with Prof. Ion Stoica on AI systems and LLM infrastructure
+        summary: Working with <a href="https://people.eecs.berkeley.edu/~istoica/" target="_blank">Dr. Ion Stoica</a> on efficient AI systems and LLM infrastructure
         # highlights:
-        #   - Relativity
-        #   - Description 2.
+        #   - 'Advisor: <a href="https://people.eecs.berkeley.edu/~istoica/" target="_blank">Dr. Ion Stoica</a>'
+        #   - Transferred to Stevens Institute of Technology in 2024
         
       - company: '<a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a>, Bellevue, WA, USA'
         position: Student Researcher
