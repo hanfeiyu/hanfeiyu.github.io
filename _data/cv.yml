@@ -70,7 +70,7 @@ cv:
         # highlights:
 
     Experience:
-      - company: '<a href="https://sky.cs.berkeley.edu/" target="_blank">Sky Computing Lab, UC Berkeley</a>, Berkeley, CA, USA'
+      - company: '<a href="https://sky.cs.berkeley.edu/" target="_blank">Sky Computing Lab</a>, UC Berkeley, Berkeley, CA, USA'
         position: Postdoctoral Scholar
         # location:
         start_date: Sep 2026
