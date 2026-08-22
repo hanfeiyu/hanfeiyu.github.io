@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: "<span style='color:#002676; font-weight:600;'>Email: hyu42 [at] stevens [dot] edu</span>"
+subtitle: "<span style='color:#002676; font-weight:600;'>Email: hanfeiyu [at] berkeley [dot] edu</span>"
 
 profile:
   align: right
