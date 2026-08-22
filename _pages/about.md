@@ -25,11 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Greetings! I am a fifth-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering), at [Stevens Institute of Technology](https://www.stevens.edu/), advised by Dr. [Hao Wang](https://intellisys.haow.us/haowang/).
+Greetings! I am a Postdoctoral Scholar at the [Sky Computing Lab](https://sky.cs.berkeley.edu/) in the [Department of Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/), where I work with Prof. [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/).
 
-I received my Master's Degree in Computer Science and Systems at [University of Washington Tacoma](https://www.tacoma.uw.edu/), advised by Dr. [Wes J. Lloyd](http://faculty.washington.edu/wlloyd/index.html) and Dr. [Athirai A. Irissappane](https://sites.google.com/view/athirai/). I received my Bachelor’s Degree in Electronic Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
+I received my Ph.D. degree in Computer Engineering at [Stevens Institute of Technology](https://www.stevens.edu/), advised by Prof. [Hao Wang](https://intellisys.haow.us/haowang/).
+I received my Master's Degree in Computer Science and Systems at [University of Washington Tacoma](https://www.tacoma.uw.edu/), advised by Prof. [Wes J. Lloyd](http://faculty.washington.edu/wlloyd/index.html) and Dr. [Athirai A. Irissappane](https://sites.google.com/view/athirai/). 
+I received my Bachelor’s Degree in Electronic Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
-I was a Research Intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/) and [Microsoft 365 Research](https://www.microsoft.com/en-us/research/group/systems-innovation/).
+I was a Research Intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/), [Microsoft 365 Research](https://www.microsoft.com/en-us/research/group/systems-innovation/), and [ByteDance Seed](https://seed.bytedance.com/en/).
 
 I am the recipient of various academic awards, including [**SoCC'24 Best Paper Award**](https://hanfeiyu.github.io/assets/pdf/socc24-best-paper.pdf) and [**SC'24 Best Student Paper Finalist**](https://sc24.conference-program.com/presentation/?id=pap594&sess=sess392). I was selected as one of the [**2025 MLCommons ML and Systems Rising Stars**](https://mlcommons.org/2025/06/2025-mlc-rising-stars/).
 
