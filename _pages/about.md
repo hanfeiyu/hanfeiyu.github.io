@@ -31,7 +31,7 @@ I earned my Ph.D. in Computer Engineering from [Stevens Institute of Technology]
 Prior to that, I received my M.S. in Computer Science and Systems from the [University of Washington Tacoma](https://www.tacoma.uw.edu/), advised by Prof. [Wes J. Lloyd](http://faculty.washington.edu/wlloyd/index.html) and Dr. [Athirai A. Irissappane](https://sites.google.com/view/athirai/). 
 I received my B.S. in Electronic Engineering from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
-I was a Research Intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/), [Microsoft 365 Research](https://www.microsoft.com/en-us/research/group/efficient-ai/), and [ByteDance Seed](https://seed.bytedance.com/en/).
+I was a Research Intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/), [Microsoft 365 Research](https://www.microsoft.com/en-us/research/group/m365-research/), and [ByteDance Seed](https://seed.bytedance.com/en/).
 
 I am the recipient of various academic awards, including [**SoCC'24 Best Paper Award**](https://hanfeiyu.github.io/assets/pdf/socc24-best-paper.pdf) and [**SC'24 Best Student Paper Finalist**](https://sc24.conference-program.com/presentation/?id=pap594&sess=sess392). I was selected as one of the [**2025 MLCommons ML and Systems Rising Stars**](https://mlcommons.org/2025/06/2025-mlc-rising-stars/).
 
