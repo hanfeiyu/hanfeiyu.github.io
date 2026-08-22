@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Greetings! I am a Postdoctoral Scholar at the [Sky Computing Lab](https://sky.cs.berkeley.edu/) in the Department of Electrical Engineering and Computer Sciences at [UC Berkeley](https://www.berkeley.edu/), where I work with Prof. [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/).
+Greetings! I am a Postdoctoral Scholar at the [Sky Computing Lab](https://sky.cs.berkeley.edu/) in the Department of Electrical Engineering and Computer Sciences at the [University of California, Berkeley](https://www.berkeley.edu/), where I work with Prof. [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/).
 
 I earned my Ph.D. in Computer Engineering from [Stevens Institute of Technology](https://www.stevens.edu/), where I was advised by Prof. [Hao Wang](https://intellisys.haow.us/haowang/). 
 Prior to that, I received my M.S. in Computer Science and Systems from the [University of Washington Tacoma](https://www.tacoma.uw.edu/), advised by Prof. [Wes J. Lloyd](http://faculty.washington.edu/wlloyd/index.html) and Dr. [Athirai A. Irissappane](https://sites.google.com/view/athirai/). 
