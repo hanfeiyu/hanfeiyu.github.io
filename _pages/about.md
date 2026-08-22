@@ -27,9 +27,9 @@ latest_posts:
 
 Greetings! I am a Postdoctoral Scholar at the [Sky Computing Lab](https://sky.cs.berkeley.edu/) in the [Department of Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/), where I work with Prof. [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/).
 
-I received my Ph.D. degree in Computer Engineering at [Stevens Institute of Technology](https://www.stevens.edu/), advised by Prof. [Hao Wang](https://intellisys.haow.us/haowang/).
-I received my Master's Degree in Computer Science and Systems at [University of Washington Tacoma](https://www.tacoma.uw.edu/), advised by Prof. [Wes J. Lloyd](http://faculty.washington.edu/wlloyd/index.html) and Dr. [Athirai A. Irissappane](https://sites.google.com/view/athirai/). 
-I received my Bachelor’s Degree in Electronic Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
+I earned my Ph.D. in Computer Engineering from [Stevens Institute of Technology](https://www.stevens.edu/), where I was advised by Prof. [Hao Wang](https://intellisys.haow.us/haowang/). 
+Prior to that, I received my M.S. in Computer Science and Systems from the [University of Washington Tacoma](https://www.tacoma.uw.edu/), advised by Prof. [Wes J. Lloyd](http://faculty.washington.edu/wlloyd/index.html) and Dr. [Athirai A. Irissappane](https://sites.google.com/view/athirai/). 
+I received my B.S. in Electronic Engineering from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
 I was a Research Intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/), [Microsoft 365 Research](https://www.microsoft.com/en-us/research/group/systems-innovation/), and [ByteDance Seed](https://seed.bytedance.com/en/).
 
