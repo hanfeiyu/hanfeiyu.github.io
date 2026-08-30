@@ -11,6 +11,7 @@ nav_order: 3
 
 2027 41st AAAI Conference on Artificial Intelligence **(AAAI'27)**, Program Committee  
 2027 USENIX Conference on File and Storage Technologies **(FAST'27)**, Artifact Evaluation Program Committee  
+2026 ACM Special Interest Group on Data Communication **(SIGCOMM'26)**, Artifact Evaluation Program Committee  
 2026 IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC'26)**, Program Committee  
 2026 Ninth Annual Conference on Machine Learning and Systems **(MLSys'26)**, Artifact Evaluation Program Committee  
 2026 Ninth Annual Conference on Machine Learning and Systems **(MLSys'26)**, Program Committee  
