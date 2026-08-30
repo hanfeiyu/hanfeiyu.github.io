@@ -1,6 +1,5 @@
 cv:
   name: Hanfei Yu (余涵非)
-  # label:
   email: hanfeiyu [at] berkeley [dot] edu
   # location:
   # image:
@@ -32,9 +31,9 @@ cv:
         # location:
         # url: https://www.uzh.ch/
         # area: Physics
-        studyType: Doctor of Philosophy (Ph.D.) - Computer Engineering
-        start_date: 2024
-        end_date: 2026
+        studyType: Doctor of Philosophy in Computer Engineering
+        start_date: Sep 2024
+        end_date: Aug 2026
         # score:
         # courses: "Theory of Relativity"
         highlights:
@@ -44,9 +43,9 @@ cv:
       - institution: '<i class="fa-solid fa-building-columns"></i> Louisiana State University, Baton Rouge, LA, USA'
         # location:
         # area: Physics
-        studyType: Doctor of Philosophy (Ph.D.) - Computer Science
-        start_date: 2021
-        end_date: 2024
+        studyType: Doctor of Philosophy in Computer Science (transferred)
+        start_date: June 2021
+        end_date: Aug 2024
         highlights:
           - 'Advisor: Prof. <a href="https://intellisys.haow.us/haowang/" target="_blank">Hao Wang</a>'
           - Transferred to Stevens Institute of Technology in 2024
@@ -54,19 +53,19 @@ cv:
       - institution: '<i class="fa-solid fa-building-columns"></i> University of Washington Tacoma, Tacoma, WA, USA'
         # location:
         # area: Physics
-        studyType: Master of Science (M.S.) - Computer Science and Systems
-        start_date: 2019
-        end_date: 2021
+        studyType: Master in Computer Science and Systems
+        start_date: Sep 2019
+        end_date: Feb 2021
         highlights:
           - 'Advisor: Prof. <a href="https://faculty.washington.edu/wlloyd/" target="_blank">Wes J. Lloyd</a>'
-          - 'Thesis: "FaaSRank: Learning to Schedule Functions in Serverless Platforms"' 
+          - 'Thesis: "FaaSRank: Learning to Schedule Functions in Serverless Platforms"'
 
       - institution: '<i class="fa-solid fa-building-columns"></i> Shanghai Jiao Tong University, Shanghai, China'
         # location:
         # area: Physics
-        studyType: Bachelor of Engineering (B.Eng.) - Electronics Engineering
-        start_date: 2015
-        end_date: 2019
+        studyType: Bachelor in Electronic Engineering
+        start_date: Sep 2015
+        end_date: July 2019
         # highlights:
 
     Experience:
@@ -81,44 +80,39 @@ cv:
         #   - Transferred to Stevens Institute of Technology in 2024
         
       - company: '<a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a>, Bellevue, WA, USA'
-        position: Student Researcher
+        position: Student Researcher at Seed Training Infra Team
         # location:
         start_date: June 2026
         end_date: Aug 2026
-        summary: Sandbox snapshot optimization for agent serving and data feedback pipelines for LLM evaluation in agentic rollouts
-        # highlights:
-        #   - Relativity
-        #   - Description 2.
-        
+        highlights:
+          - Optimized sandbox snapshot techniques for efficient agent serving and replay
+          - Designed and built production data feedback pipelines for evaluating Seed models on agentic rollouts
+
       - company: '<a href="https://www.microsoft.com/en-us/research/group/m365-research/" target="_blank">Microsoft 365 Research</a>, Redmond, WA, USA'
-        position: Research Intern
+        position: Research Intern at Efficient AI Group
         # location:
         start_date: May 2025
         end_date: Aug 2025
-        summary: KV cache management for serving multimodal LLM workloads (Copilot) at scale
-        # highlights:
-        #   - Relativity
-        #   - Description 2.
+        highlights:
+          - Characterized production workloads of OpenAI Copilot services
+          - Designed and implemented efficient KV cache management solutions for multimodal LLM serving
 
       - company: '<a href="https://www.microsoft.com/en-us/research/group/azure-research-systems/" target="_blank">Microsoft Azure Research</a>, Redmond, WA, USA'
-        position: Research Intern
+        position: Research Intern at Azure Research Systems
         # location:
         start_date: May 2024
         end_date: Aug 2024
-        summary: Resource efficiency optimization in multi-layer cloud systems
-        # highlights:
-        #   - Relativity
-        #   - Description 2.
+        highlights:
+          - Characterized production workloads of Azure container platforms
+          - Designed new solutions to optimize the resource efficiency of container orchestration
 
       - company: '<a href="https://www.intel.com/" target="_blank">Intel</a>, Shanghai, China'
-        position: Software Development Engineer Intern
+        position: Software Developer Intern at UEFI-BIOS Development Group
         # location:
         start_date: Aug 2018
         end_date: Feb 2019
-        summary: UEFI-BIOS Development
-        # highlights:
-        #   - Relativity
-        #   - Description 2.
+        highlights:
+          - Developed a cross-platform UEFI driver that analyzes network traffic with PCAP
 
     # Volunteer:
     #   - company: People's Climate March
@@ -140,14 +134,14 @@ cv:
         # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - title: '<a href="/assets/pdf/socc24-best-paper.pdf" target="_blank">ACM SoCC Best Paper Award</a>'
+      - title: '<a href="/assets/pdf/socc24-best-paper.pdf" target="_blank">ACM SoCC’24 Best Paper Award</a>'
         # authors:
         #   - "German Physical Society"
         date: 2024
         # awarder: ACM Symposium on Cloud Computing (SoCC)
         # summary: Awarded for outstanding scientific achievement
 
-      - title: '<a href="https://sc24.conference-program.com/presentation/?id=pap594&sess=sess392" target="_blank">ACM/IEEE SC Best Student Paper Finalist</a>'
+      - title: '<a href="https://sc24.conference-program.com/presentation/?id=pap594&sess=sess392" target="_blank">ACM/IEEE SC’24 Best Student Paper Finalist</a>'
         # authors:
         #   - "German Physical Society"
         date: 2024
