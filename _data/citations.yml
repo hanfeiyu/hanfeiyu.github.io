@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-07'
 papers:
   _ECL3GIAAAAJ:0EnyYjriUFMC:
-    citations: 0
+    citations: 1
     title: Accelerating ML Inference via Opportunistic Pre-Loading on Serverless Clusters
     year: '2025'
   _ECL3GIAAAAJ:2osOgNQ5qMEC:
@@ -26,7 +26,7 @@ papers:
     title: Leveraging GPT-2 for classifying spam reviews with limited labeled data via adversarial training
     year: '2020'
   _ECL3GIAAAAJ:IjCSPb-OGe4C:
-    citations: 116
+    citations: 121
     title: 'Rainbowcake: Mitigating cold-starts in serverless with layer-wise container caching and sharing'
     year: '2024'
   _ECL3GIAAAAJ:MXK_kJrjxJIC:
@@ -50,11 +50,11 @@ papers:
     title: 'Freyr : Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning'
     year: '2024'
   _ECL3GIAAAAJ:WF5omc3nYNoC:
-    citations: 34
+    citations: 35
     title: 'Pre-warming is not enough: Accelerating serverless inference with opportunistic pre-loading'
     year: '2024'
   _ECL3GIAAAAJ:Y0pCki6q_DkC:
-    citations: 46
+    citations: 47
     title: 'The serverless application analytics framework: Enabling design trade-off evaluation for serverless software'
     year: '2020'
   _ECL3GIAAAAJ:_FxGoFyzp5QC:
@@ -66,7 +66,7 @@ papers:
     title: 'Libra: Harvesting idle resources safely and timely in serverless clusters'
     year: '2023'
   _ECL3GIAAAAJ:hqOjcs7Dif8C:
-    citations: 2
+    citations: 3
     title: Multi-Agent Reinforcement Learning with Serverless Computing
     year: '2025'
   _ECL3GIAAAAJ:kNdYIx-mwKoC:
@@ -86,6 +86,6 @@ papers:
     title: Enhancing observability of serverless computing with the serverless application analytics framework
     year: '2021'
   _ECL3GIAAAAJ:zYLM7Y9cAGgC:
-    citations: 97
+    citations: 98
     title: 'Faasrank: Learning to schedule functions in serverless platforms'
     year: '2021'
