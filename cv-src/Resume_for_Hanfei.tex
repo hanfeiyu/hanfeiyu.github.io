@@ -23,6 +23,7 @@
 \documentclass{resume} % Use the custom resume.cls style
 
 \usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\usepackage{needspace}
 \usepackage{xcolor}
 
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
@@ -89,10 +90,12 @@ I was selected as one of the \textbf{2025 MLCommons ML and Systems Rising Stars}
 \item Designed and implemented efficient KV cache management solutions for multimodal LLM serving
 \end{rSubsection}
 
+\Needspace{7\baselineskip}
 \begin{rSubsection}{Microsoft Azure Research, Redmond, WA, USA}{May 2024 - Aug 2024}
 {Research Intern at Azure Research Systems} \
 \item Characterized production workloads of Azure container platforms.
 \item Designed new solutions to optimize the resource efficiency of container orchestration
+\item Developed \textbf{Unipool}, a system for efficiently managing pre-provisioned resources on container platforms (\textbf{ACM ATC'26})
 \end{rSubsection}
 
 \begin{rSubsection}{Intel, Shanghai, China}{Aug 2018 - Feb 2019}
