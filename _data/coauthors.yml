@@ -2,9 +2,21 @@
   - firstname: ["Hao"]
     url: https://intellisys.haow.us/haowang/
 
-"wang@rutgers":
+"wang@uiuc":
   - firstname: ["Hao"]
-    url: http://www.wanghao.in/
+    url: https://www.wanghao.in/
+
+"saurez":
+  - firstname: ["Enrique"]
+    url: https://www.microsoft.com/en-us/research/people/esaurez/
+
+"goiri":
+  - firstname: ["Íñigo"]
+    url: https://www.microsoft.com/en-us/research/people/inigog/
+
+"fonseca":
+  - firstname: ["Rodrigo"]
+    url: https://www.microsoft.com/en-us/research/people/rofons/
 
 "zhang":
   - firstname: ["Hong"]
@@ -42,13 +54,29 @@
   - firstname: ["Xu"]
     url: https://scholar.google.com/citations?user=R3XkwA8AAAAJ&hl=en
 
-"roy":
+"basu roy":
   - firstname: ["Rohan", "Rohan Basu"]
     url: https://rohanbasuroy.github.io/
+
+"fontenot":
+  - firstname: ["Christian"]
+    url: https://chfont.github.io/
+
+"cordingly":
+  - firstname: ["Robert"]
+    url: https://robertcordingly.github.io/
+
+"sadeghi":
+  - firstname: ["Zohreh"]
+    url: https://www.linkedin.com/in/zohrehsadeghi/
 
 "irissappane":
   - firstname: ["Athirai", "Athirai A."]
     url: https://sites.google.com/view/athirai/
+
+"stanton":
+  - firstname: ["Gray"]
+    url: https://www.graystanton.com/
 
 "lloyd":
   - firstname: ["Wes", "Wes J."]
