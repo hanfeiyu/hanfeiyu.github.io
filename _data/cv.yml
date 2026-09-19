@@ -104,7 +104,6 @@ cv:
         end_date: Aug 2024
         highlights:
           - Characterized production workloads of Azure container platforms
-          - Designed new solutions to optimize the resource efficiency of container orchestration
           - "Developed **Unipool**, a system for efficiently managing pre-provisioned resources on container platforms ([ACM ATC'26](https://atc.sigops.org/2026/index.html))"
 
       - company: '<a href="https://www.intel.com/" target="_blank">Intel</a>, Shanghai, China'
