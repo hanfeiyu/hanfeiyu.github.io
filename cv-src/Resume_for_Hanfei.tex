@@ -25,6 +25,7 @@
 \usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
 \usepackage{needspace}
 \usepackage{xcolor}
+\input{reef-stats.tex}
 
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
@@ -45,7 +46,8 @@ I earned my Ph.D. in Computer Engineering from Stevens Institute of Technology, 
 
 I was a Research Intern at Microsoft Azure Research, Microsoft 365 Research, and ByteDance Seed.
 
-My research interests lie in \textbf{AI Systems}, \textbf{LLM Serving}, \textbf{RL Infrastructures}, and \textbf{Serverless Computing}.
+My research interests lie in \textbf{AI Systems}, \textbf{LLM Serving}, \textbf{RL, Agent, and RSI Infrastructure}, and \textbf{Serverless Computing}.
+I am co-leading the development of REEF~\mbox{($\star$~\ReefGitHubStarsCompact\ GitHub stars)}, infrastructure for continually self-improving agents.
 I develop full-stack AI systems that integrate cloud and HPC infrastructures through algorithm–system co-design.
 I received the \textbf{ACM SoCC’24 Best Paper Award} and the recognition of the \textbf{ACM/IEEE SC’24 Best Student Paper Finalist}.
 I was selected as one of the \textbf{2025 MLCommons ML and Systems Rising Stars}.
@@ -107,6 +109,15 @@ I was selected as one of the \textbf{2025 MLCommons ML and Systems Rising Stars}
 
 \end{rSection}
 
+\begin{rSection}{Projects}
+
+\textbf{REEF: Infrastructure for Continually Self-Improving Agents}\\*[4pt]
+\textit{Co-lead the training and serving infrastructure development}\\*[4pt]
+\texttt{https://github.com/Human-Agent-Society/reef} \hfill
+{\small $\star$\ \ReefGitHubStarsCompact\ GitHub stars (as of \ReefGitHubStarsAsOf)}
+
+\end{rSection}
+
 
 \begin{rSection}{Teaching Experience}
 
@@ -161,10 +172,11 @@ I was selected as one of the \textbf{2025 MLCommons ML and Systems Rising Stars}
 %\bibliography{publications.bib}
 
 \begin{rSection}{Publications}
+\setlength{\parskip}{0.75\baselineskip}
 
-\textbf{[ACM ATC'26]} \underline{Hanfei Yu}, Enrique Saurez, \'{I}\~{n}igo Goiri, Hao Wang, and Rodrigo Fonseca. ``Unipool: Efficient Management of Pre-Provisioned Resources for Container Platforms.'' \textit{ACM SIGOPS Annual Technical Conference, 2026.} \\
+\textbf{[ACM ATC'26]} \underline{Hanfei Yu}, Enrique Saurez, \'{I}\~{n}igo Goiri, Hao Wang, and Rodrigo Fonseca. ``Unipool: Efficient Management of Pre-Provisioned Resources for Container Platforms.'' \textit{ACM SIGOPS Annual Technical Conference, 2026.}
 
-\textbf{[ACM EuroSys'26]} \underline{Hanfei Yu}, Xingqi Cui, Hong Zhang, Hao Wang, and Hao Wang. ``Taming Latency-Memory Trade-Off in MoE-Based LLM Serving via Fine-Grained Expert Offloading.'' \textit{The European Conference on Computer Systems, 2026.} \\
+\textbf{[ACM EuroSys'26]} \underline{Hanfei Yu}, Xingqi Cui, Hong Zhang, Hao Wang, and Hao Wang. ``Taming Latency-Memory Trade-Off in MoE-Based LLM Serving via Fine-Grained Expert Offloading.'' \textit{The European Conference on Computer Systems, 2026.}
 
 % \textbf{[arXiv'26]} Rui Wei, Rui Du, \underline{Hanfei Yu}, Devesh Tiwari, Jian Li, Zhaozhuo Xu, Hao Wang. ``The Diminishing Returns of Early-Exit Decoding in Modern LLMs.'' \textit{In-submission.} \\
 
@@ -172,41 +184,42 @@ I was selected as one of the \textbf{2025 MLCommons ML and Systems Rising Stars}
 
 % \textbf{[arXiv'26]} Rui Wei, \underline{Hanfei Yu}, Shubham Jain, Yogarajan Sivakumar, Devesh Tiwari, Jian Li, Seung-Jong Park, Hao Wang. ``RLHFless: Serverless Computing for Efficient RLHF.'' \textit{In-submission.} \\
 
-\textbf{[IEEE TPDS'25]} Yifan Sui, \underline{Hanfei Yu}, Yitao Hu, Jianxun Li, and Hao Wang. ``Accelerating ML Inference via Opportunistic Pre-Loading on Serverless Clusters.'' \textit{IEEE Transactions on Parallel and Distributed Systems, 2025.} \\
+\textbf{[IEEE TPDS'25]} Yifan Sui, \underline{Hanfei Yu}, Yitao Hu, Jianxun Li, and Hao Wang. ``Accelerating ML Inference via Opportunistic Pre-Loading on Serverless Clusters.'' \textit{IEEE Transactions on Parallel and Distributed Systems, 2025.}
 
-\textbf{[ACM SoCC'25]} Rui Wei, \underline{Hanfei Yu}, Xikang Song, Jian Li, Devesh Tiwari, Ying Mao, and Hao Wang. ``Multi-Agent Reinforcement Learning with Serverless Computing.'' \textit{ACM Symposium on Cloud Computing, 2025.} \\
+\textbf{[ACM SoCC'25]} Rui Wei, \underline{Hanfei Yu}, Xikang Song, Jian Li, Devesh Tiwari, Ying Mao, and Hao Wang. ``Multi-Agent Reinforcement Learning with Serverless Computing.'' \textit{ACM Symposium on Cloud Computing, 2025.}
 
 % \textbf{[arXiv'25]} Yifan Sui, Hao Wang, \underline{Hanfei Yu}, Yitao Hu, Jianxun Li. ``ServerlessLoRA: Minimizing Latency and Cost in Serverless Inference for LoRA-Based LLMs.'' \textit{In-submission.} \\
 
-\textbf{[VLDB'25]} \underline{Hanfei Yu}, Jacob Carter, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park. ``Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing.'' \textit{The International Conference on Very Large Data Bases, 2025.} \\
+\textbf{[VLDB'25]} \underline{Hanfei Yu}, Jacob Carter, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park. ``Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing.'' \textit{The International Conference on Very Large Data Bases, 2025.}
 
-\textbf{[ACM SoCC'24, \textcolor{red}{Best Paper Award}]} Yifan Sui, \underline{Hanfei Yu}, Yitao Hu, Jianxun Li, Hao Wang. ``Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading.'' \textit{ACM Symposium on Cloud Computing, 2024.} \\
+\textbf{[ACM SoCC'24, \textcolor{red}{Best Paper Award}]} Yifan Sui, \underline{Hanfei Yu}, Yitao Hu, Jianxun Li, Hao Wang. ``Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading.'' \textit{ACM Symposium on Cloud Computing, 2024.}
 
-\textbf{[IEEE TPDS'24]} \underline{Hanfei Yu}, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park. ``Freyr+: Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning.'' \textit{IEEE Transactions on Parallel and Distributed Systems, 2024.} \\
+\textbf{[IEEE TPDS'24]} \underline{Hanfei Yu}, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park. ``Freyr+: Harvesting Idle Resources in Serverless Computing via Deep Reinforcement Learning.'' \textit{IEEE Transactions on Parallel and Distributed Systems, 2024.}
 
-\textbf{[ACM/IEEE SC'24, \textcolor{red}{Best Student Paper Finalist}]} \underline{Hanfei Yu}, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park. ``Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing.'' \textit{ACM/IEEE The International Conference for High Performance Computing, Networking, Storage, and Analysis, 2024.} \\
+\textbf{[ACM/IEEE SC'24, \textcolor{red}{Best Student Paper Finalist}]} \underline{Hanfei Yu}, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park. ``Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing.'' \textit{ACM/IEEE The International Conference for High Performance Computing, Networking, Storage, and Analysis, 2024.}
 
-\textbf{[AAAI'24]} \underline{Hanfei Yu}, Jian Li, Yang Hua, Xu Yuan, Hao Wang. ``Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing.'' \textit{Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024.} \\
+\textbf{[AAAI'24]} \underline{Hanfei Yu}, Jian Li, Yang Hua, Xu Yuan, Hao Wang. ``Cheaper and Faster: Distributed Deep Reinforcement Learning with Serverless Computing.'' \textit{Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024.}
 
-\textbf{[ACM ASPLOS'24]} \underline{Hanfei Yu}, Rohan Basu Roy, Christian Fontenot, Devesh Tiwari, Jian Li, Hong Zhang, Hao Wang, Seung-Jong Park. ``RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing.'' \textit{ACM International Conference on Architectural Support for Programming Languages and Operating Systems, 2024.} \\
+\textbf{[ACM ASPLOS'24]} \underline{Hanfei Yu}, Rohan Basu Roy, Christian Fontenot, Devesh Tiwari, Jian Li, Hong Zhang, Hao Wang, Seung-Jong Park. ``RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing.'' \textit{ACM International Conference on Architectural Support for Programming Languages and Operating Systems, 2024.}
 
-\textbf{[ACM HPDC'23]} \underline{Hanfei Yu}, Christian Fontenot, Hao Wang, Jian Li, Xu Yuan, and Seung-Jong Park. ``Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters.'' \textit{ACM International Symposium on High-Performance Parallel and Distributed Computing, 2023.} \\
+\textbf{[ACM HPDC'23]} \underline{Hanfei Yu}, Christian Fontenot, Hao Wang, Jian Li, Xu Yuan, and Seung-Jong Park. ``Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters.'' \textit{ACM International Symposium on High-Performance Parallel and Distributed Computing, 2023.}
 
-\textbf{[ACM WWW'22]} \underline{Hanfei Yu}, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park. ``Accelerating Serverless Computing by Harvesting Idle Resources.'' \textit{ACM Web Conference, 2022.} \\
+\textbf{[ACM WWW'22]} \underline{Hanfei Yu}, Hao Wang, Jian Li, Xu Yuan, Seung-Jong Park. ``Accelerating Serverless Computing by Harvesting Idle Resources.'' \textit{ACM Web Conference, 2022.}
 
-\textbf{[IEEE ACSOS'21]} \underline{Hanfei Yu}, Athirai A. Irissappane, Hao Wang, Wes J. Lloyd. ``FaaSRank: Learning to Schedule Functions in Serverless Platforms.'' \textit{IEEE International Conference on Autonomic Computing and Self-Organizing Systems, 2021.} \\
+\textbf{[IEEE ACSOS'21]} \underline{Hanfei Yu}, Athirai A. Irissappane, Hao Wang, Wes J. Lloyd. ``FaaSRank: Learning to Schedule Functions in Serverless Platforms.'' \textit{IEEE International Conference on Autonomic Computing and Self-Organizing Systems, 2021.}
 
-\textbf{[ACM/SPEC ICPE'21]} Robert Cordingly, Navid Heydari, \underline{Hanfei Yu}, Varik Hoang, Zohreh Sadeghi, Wes Lloyd. ``Enhancing Observability of Serverless Computing with the Serverless Application Analytics Framework.'' \textit{ACM/SPEC International Conference on Performance Engineering, 2021.} \\
+\textbf{[ACM/SPEC ICPE'21]} Robert Cordingly, Navid Heydari, \underline{Hanfei Yu}, Varik Hoang, Zohreh Sadeghi, Wes Lloyd. ``Enhancing Observability of Serverless Computing with the Serverless Application Analytics Framework.'' \textit{ACM/SPEC International Conference on Performance Engineering, 2021.}
 
-\textbf{[WoSC 2020]} Robert Cordingly, \underline{Hanfei Yu}, Varik Hoang, Zohreh Sadeghi, David Foster, David Perez, Rashad Hatchett, Wes Lloyd. ``The Serverless Application Analytics Framework: Enabling Design Trade-off Evaluation for Serverless Software.'' \textit{International Workshop on Serverless Computing, 2020.} \\
+\textbf{[WoSC 2020]} Robert Cordingly, \underline{Hanfei Yu}, Varik Hoang, Zohreh Sadeghi, David Foster, David Perez, Rashad Hatchett, Wes Lloyd. ``The Serverless Application Analytics Framework: Enabling Design Trade-off Evaluation for Serverless Software.'' \textit{International Workshop on Serverless Computing, 2020.}
 
-\textbf{[arXiv'20]} Athirai A. Irissappane, \underline{Hanfei Yu}, Yankun Shen, Anubha Agrawal, Gray Stanton. ``Leveraging GPT-2 for Classifying Spam Reviews with Limited Labeled Data via Adversarial Training.'' \\
+\textbf{[arXiv'20]} Athirai A. Irissappane, \underline{Hanfei Yu}, Yankun Shen, Anubha Agrawal, Gray Stanton. ``Leveraging GPT-2 for Classifying Spam Reviews with Limited Labeled Data via Adversarial Training.''
 
 \textbf{[IEEE CBDCom'20]} Robert Cordingly, \underline{Hanfei Yu}, Varik Hoang, David Perez, David Foster, Zohreh Sadeghi, Rashad Hatchett, Wes J Lloyd. ``Implications of Programming Language Selection for Serverless Data Processing Pipelines.'' \textit{IEEE International Conference on Cloud and Big Data Computing, 2020.}
 
 \end{rSection}
 
 
+\Needspace{7\baselineskip}
 \begin{rSection}{Invited Talks}
 
 {\bf Computer Systems Seminar, Rice University} \hfill {Mar 2026} \\
