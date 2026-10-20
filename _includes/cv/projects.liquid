@@ -8,6 +8,11 @@
       {% if entry.url %}
         <h6 class="title font-weight-bold">
           <a href="{{ entry.url }}" target="_blank">{{ entry.name }}</a>
+          {% if entry.github_stars %}
+            <a class="ml-2" href="https://github.com/{{ entry.github_stars }}/stargazers" aria-label="View {{ entry.name | escape }} GitHub stars">
+              {% include github-stars.liquid repository=entry.github_stars name=entry.name %}
+            </a>
+          {% endif %}
         </h6>
       {% else %}
         <h6 class="title font-weight-bold">{{ entry.name }}</h6>

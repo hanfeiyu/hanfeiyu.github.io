@@ -3,11 +3,10 @@ layout: page
 permalink: /services/
 title: Professional Services
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
-## Conferences  
-
+## Conferences
 
 2027 41st AAAI Conference on Artificial Intelligence **(AAAI'27)**, Program Committee  
 2027 USENIX Conference on File and Storage Technologies **(FAST'27)**, Artifact Evaluation Program Committee  
@@ -30,11 +29,9 @@ nav_order: 3
 2024 ACM The Web Conference **(WWW'24)**, Artifact Evaluation Program Committee  
 2023 IEEE Global Communications Conference **(GLOBECOM'23)**, Reviewer  
 2023 European Conference on Artificial Intelligence **(ECAI'23)**, Reviewer  
-2021 EAI International Conference on Ad Hoc Networks **(AdHocNets'21)**, Reviewer  
+2021 EAI International Conference on Ad Hoc Networks **(AdHocNets'21)**, Reviewer
 
-
-## Journals  
-
+## Journals
 
 IEEE/ACM Transactions on Networking **(ToN)**, Reviewer  
 Future Generation Computer Systems **(FGCS)**, Reviewer  
@@ -49,4 +46,4 @@ IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Reviewer
 IEEE Internet of Things Journal **(IoTJ)**, Reviewer  
 IEEE Transactions on Network Science and Engineering **(TNSE)**, Reviewer  
 Journal of Systems Architecture **(JSA)**, Reviewer  
-IEEE Transactions on Cloud Computing **(TCC)**, Reviewer  
+IEEE Transactions on Cloud Computing **(TCC)**, Reviewer

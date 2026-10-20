@@ -7,7 +7,7 @@ cv:
   research_interests:
     - AI Systems
     - LLM Serving
-    - RL Infrastructures
+    - RL, Agent, and RSI Infrastructure
     - Serverless Computing
 
   social_networks:
@@ -78,7 +78,7 @@ cv:
         # highlights:
         #   - 'Advisor: <a href="https://people.eecs.berkeley.edu/~istoica/" target="_blank">Dr. Ion Stoica</a>'
         #   - Transferred to Stevens Institute of Technology in 2024
-        
+
       - company: '<a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a>, Bellevue, WA, USA'
         position: Student Researcher at Seed Training Infra Team
         # location:
@@ -113,6 +113,12 @@ cv:
         end_date: Feb 2019
         highlights:
           - Developed a cross-platform UEFI driver that analyzes network traffic with PCAP
+
+    Projects:
+      - name: REEF
+        url: https://github.com/Human-Agent-Society/reef
+        github_stars: Human-Agent-Society/reef
+        summary: Infrastructure for continually self-improving agents
 
     # Volunteer:
     #   - company: People's Climate March
@@ -154,7 +160,6 @@ cv:
         date: "From 2021"
         awarder: "AAAI'24, WWW'22, ACSOS'21"
         # summary: Awarded for outstanding scientific achievement
-
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper

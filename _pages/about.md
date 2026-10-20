@@ -28,15 +28,20 @@ latest_posts:
 Greetings! I am a Postdoctoral Scholar at the [Sky Computing Lab](https://sky.cs.berkeley.edu/) in the Department of Electrical Engineering and Computer Sciences at the [University of California, Berkeley](https://www.berkeley.edu/), where I work with Prof. [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/).
 
 I received my Ph.D. in Computer Engineering from [Stevens Institute of Technology](https://www.stevens.edu/), where I was advised by Prof. [Hao Wang](https://intellisys.haow.us/haowang/).
-Prior to that, I received my M.S. in Computer Science and Systems from the [University of Washington Tacoma](https://www.tacoma.uw.edu/), advised by Prof. [Wes J. Lloyd](http://faculty.washington.edu/wlloyd/index.html) and Dr. [Athirai A. Irissappane](https://sites.google.com/view/athirai/). 
+Prior to that, I received my M.S. in Computer Science and Systems from the [University of Washington Tacoma](https://www.tacoma.uw.edu/), advised by Prof. [Wes J. Lloyd](http://faculty.washington.edu/wlloyd/index.html) and Dr. [Athirai A. Irissappane](https://sites.google.com/view/athirai/).
 I received my B.S. in Electronic Engineering from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
 I was a Research Intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/), [Microsoft 365 Research](https://www.microsoft.com/en-us/research/group/m365-research/), and [ByteDance Seed](https://seed.bytedance.com/en/).
 
 I am the recipient of various academic awards, including [**SoCC'24 Best Paper Award**](https://hanfeiyu.github.io/assets/pdf/socc24-best-paper.pdf) and [**SC'24 Best Student Paper Finalist**](https://sc24.conference-program.com/presentation/?id=pap594&sess=sess392). I was selected as one of the [**2025 MLCommons ML and Systems Rising Stars**](https://mlcommons.org/2025/06/2025-mlc-rising-stars/).
 
-My research interests lie in **AI Systems**, **LLM Serving**, **RL Infrastructures**, and **Serverless Computing**. I develop full-stack AI systems that integrate cloud and HPC infrastructures through algorithm–system co-design:
-  * **RL infrastructures**: [SoCC'25](https://doi.org/10.1145/3772052.3772227), [VLDB'25](https://dl.acm.org/doi/abs/10.14778/3696435.3696441), [SC'24 (*Best Student Paper Finalist*)](https://dl.acm.org/doi/10.1109/SC41406.2024.00045), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29592)   
-  * **Serverless inference for Deep Learning, LoRA, and MoE models**: [SoCC'24 (*Best Paper Award*)](https://dl.acm.org/doi/10.1145/3698038.3698509), [TPDS'25](https://ieeexplore.ieee.org/document/11271332)    
-  * **Efficient MoE and Multimodal LLM serving systems**: [EuroSys'26](https://hanfeiyu.github.io/)      
-  * **Container resource management for FaaS and CaaS platforms**: [ATC'26](https://atc.sigops.org/2026/index.html), [ASPLOS'24](https://doi.org/10.1145/3617232.3624871), [TPDS'24](https://ieeexplore.ieee.org/document/10682062), [HPDC'23](https://dl.acm.org/doi/10.1145/3588195.3592996), [WWW'22](https://doi.org/10.1145/3485447.3511979), [ACSOS'21](https://ieeexplore.ieee.org/document/9659513)
+{% capture reef_stars %}{% include github-stars.liquid repository='Human-Agent-Society/reef' name='REEF' %}{% endcapture %}
+
+My research interests lie in **AI Systems**, **LLM Serving**, **RL, Agent, and RSI Infrastructure**, and **Serverless Computing**. I am co-leading the development of <span class="project-inline"><a href="https://github.com/Human-Agent-Society/reef">REEF</a> <a href="https://github.com/Human-Agent-Society/reef/stargazers" aria-label="View REEF GitHub stars">{{ reef_stars | strip_newlines }}</a></span>, infrastructure for continually self-improving agents.
+
+I develop full-stack AI systems that integrate cloud and HPC infrastructures through algorithm–system co-design:
+
+- **RL infrastructures**: [SoCC'25](https://doi.org/10.1145/3772052.3772227), [VLDB'25](https://dl.acm.org/doi/abs/10.14778/3696435.3696441), [SC'24 (_Best Student Paper Finalist_)](https://dl.acm.org/doi/10.1109/SC41406.2024.00045), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29592)
+- **Serverless inference for Deep Learning, LoRA, and MoE models**: [SoCC'24 (_Best Paper Award_)](https://dl.acm.org/doi/10.1145/3698038.3698509), [TPDS'25](https://ieeexplore.ieee.org/document/11271332)
+- **Efficient MoE and Multimodal LLM serving systems**: [EuroSys'26](https://hanfeiyu.github.io/)
+- **Container resource management for FaaS and CaaS platforms**: [ATC'26](https://atc.sigops.org/2026/index.html), [ASPLOS'24](https://doi.org/10.1145/3617232.3624871), [TPDS'24](https://ieeexplore.ieee.org/document/10682062), [HPDC'23](https://dl.acm.org/doi/10.1145/3588195.3592996), [WWW'22](https://doi.org/10.1145/3485447.3511979), [ACSOS'21](https://ieeexplore.ieee.org/document/9659513)

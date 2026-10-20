@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 # description: Course materials, schedules, and resources for classes taught.
 nav: true
-nav_order: 4
+nav_order: 5
 # calendar: true
 ---
 
@@ -16,16 +16,16 @@ nav_order: 4
 
 ## Stevens Institute of Technology, Hoboken, NJ, USA
 
-Teaching Assistant, AAI 595 Applied Machine Learning   
+Teaching Assistant, AAI 595 Applied Machine Learning
 
 ## Louisiana State University, Baton Rouge, LA, USA
- 
-Teaching Assistant, CSC 3501 Computer Organization & Design   
-Teaching Assistant, CSC 4501 Computer Networks   
-Teaching Assistant, CSC 3102 Advanced Data Structures and Algorithms Analysis   
-Teaching Assistant, CSC 2259 Discrete Structures   
+
+Teaching Assistant, CSC 3501 Computer Organization & Design<br>
+Teaching Assistant, CSC 4501 Computer Networks<br>
+Teaching Assistant, CSC 3102 Advanced Data Structures and Algorithms Analysis<br>
+Teaching Assistant, CSC 2259 Discrete Structures
 
 ## University of Washington Tacoma, Tacoma, WA, USA
 
-Teaching Assistant, TCSS 422 Computer Operating Systems   
-Teaching Assistant, TCSS 305 Programming Practicum   
+Teaching Assistant, TCSS 422 Computer Operating Systems<br>
+Teaching Assistant, TCSS 305 Programming Practicum

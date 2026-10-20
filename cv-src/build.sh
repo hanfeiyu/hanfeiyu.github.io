@@ -9,6 +9,16 @@ cv_output_dir="${cv_repo_root}/assets/pdf"
 
 mkdir -p "${cv_build_dir}" "${cv_output_dir}"
 
+if command -v python3 >/dev/null 2>&1; then
+  if [[ "${CV_OFFLINE:-0}" == "1" ]]; then
+    python3 "${cv_source_dir}/update_reef_stats.py" --offline
+  else
+    python3 "${cv_source_dir}/update_reef_stats.py"
+  fi
+else
+  printf 'Warning: Python 3 unavailable; using the saved REEF count and date.\n' >&2
+fi
+
 cd "${cv_source_dir}"
 latexmk \
   -pdf \
