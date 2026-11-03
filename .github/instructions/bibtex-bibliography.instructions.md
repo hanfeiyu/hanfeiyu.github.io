@@ -52,7 +52,7 @@ Beyond standard BibTeX fields, al-folio supports custom keywords for rich public
 - **pdf:** URL or path to PDF file (`pdf: /assets/papers/2023-paper.pdf`)
 - **poster:** URL to conference poster (`poster: /assets/posters/poster.pdf`)
 - **preview:** URL to preview image (`preview: /assets/img/papers/paper-preview.jpg`)
-- **selected:** Boolean to feature on publications page (`selected: true`)
+- **selected:** Omit this field from new entries by default. Add `selected={true}` only when Hanfei explicitly asks to feature that paper in Selected Publications on the homepage.
 - **slides:** URL to presentation slides (`slides: /assets/slides/2023.pdf`)
 
 ### Example Entry with Custom Keywords
@@ -70,8 +70,7 @@ Beyond standard BibTeX fields, al-folio supports custom keywords for rich public
   pdf={smith2023.pdf},
   code={https://github.com/example/repo},
   preview={smith2023.jpg},
-  doi={10.1234/nature.12345},
-  selected={true}
+  doi={10.1234/nature.12345}
 }
 ```
 
