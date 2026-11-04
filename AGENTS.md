@@ -61,6 +61,8 @@ When modifying `_config.yml`, these **must be updated together**:
 
 ## Development Workflow
 
+- When Hanfei finalizes a new CV, sync its LaTeX sources to the existing Overleaf CV project and verify the remote files as described in [the CV release instructions](cv-src/README.md#finalizing-a-cv).
+
 - **Git & Commits:** For commit message format and Git practices, see [.github/GIT_WORKFLOW.md](.github/GIT_WORKFLOW.md).
 - **Code-Specific Instructions:** Consult the relevant instruction file for your code type.
 
