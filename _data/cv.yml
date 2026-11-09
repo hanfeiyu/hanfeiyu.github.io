@@ -55,7 +55,7 @@ cv:
         # area: Physics
         studyType: Master in Computer Science and Systems
         start_date: Sep 2019
-        end_date: Feb 2021
+        end_date: Mar 2021
         highlights:
           - 'Advisor: Prof. <a href="https://faculty.washington.edu/wlloyd/" target="_blank">Wes J. Lloyd</a>'
           - 'Thesis: "FaaSRank: Learning to Schedule Functions in Serverless Platforms"'
@@ -63,16 +63,16 @@ cv:
       - institution: '<i class="fa-solid fa-building-columns"></i> Shanghai Jiao Tong University, Shanghai, China'
         # location:
         # area: Physics
-        studyType: Bachelor in Electronic Engineering
+        studyType: Bachelor of Science in Engineering in Electronic Science and Technology
         start_date: Sep 2015
-        end_date: July 2019
+        end_date: June 2019
         # highlights:
 
     Experience:
       - company: '<a href="https://sky.cs.berkeley.edu/" target="_blank">Sky Computing Lab</a>, UC Berkeley, Berkeley, CA, USA'
         position: Postdoctoral Scholar
         # location:
-        start_date: Sep 2026
+        start_date: Oct 2026
         end_date: Present
         summary: 'Working with Prof. <a href="https://people.eecs.berkeley.edu/~istoica/" target="_blank">Ion Stoica</a> on efficient AI systems and LLM infrastructure'
         # highlights:

@@ -29,7 +29,7 @@ Greetings! I am a Postdoctoral Scholar at the [Sky Computing Lab](https://sky.cs
 
 I received my Ph.D. in Computer Engineering from [Stevens Institute of Technology](https://www.stevens.edu/), where I was advised by Prof. [Hao Wang](https://intellisys.haow.us/haowang/).
 Prior to that, I received my M.S. in Computer Science and Systems from the [University of Washington Tacoma](https://www.tacoma.uw.edu/), advised by Prof. [Wes J. Lloyd](http://faculty.washington.edu/wlloyd/index.html) and Dr. [Athirai A. Irissappane](https://sites.google.com/view/athirai/).
-I received my B.S. in Electronic Engineering from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
+I received my Bachelor of Science in Engineering in Electronic Science and Technology from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
 I was a Research Intern at [Microsoft Azure Research](https://www.microsoft.com/en-us/research/group/azure-research-systems/), [Microsoft 365 Research](https://www.microsoft.com/en-us/research/group/m365-research/), and [ByteDance Seed](https://seed.bytedance.com/en/).
 
@@ -44,4 +44,4 @@ I develop full-stack AI systems that integrate cloud and HPC infrastructures thr
 - **RL infrastructures**: [SoCC'26](https://intellisys.haow.us/assets/pdf/ruiwei-socc26.pdf), [SoCC'25](https://doi.org/10.1145/3772052.3772227), [VLDB'25](https://dl.acm.org/doi/abs/10.14778/3696435.3696441), [SC'24 (_Best Student Paper Finalist_)](https://dl.acm.org/doi/10.1109/SC41406.2024.00045), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29592)
 - **Serverless inference for Deep Learning, LoRA, and MoE models**: [SoCC'24 (_Best Paper Award_)](https://dl.acm.org/doi/10.1145/3698038.3698509), [TPDS'25](https://ieeexplore.ieee.org/document/11271332)
 - **Efficient MoE and Multimodal LLM serving systems**: [EuroSys'26](https://hanfeiyu.github.io/)
-- **Container resource management for FaaS and CaaS platforms**: [ATC'26](https://intellisys.haow.us/assets/pdf/atc26-final1903.pdf), [ASPLOS'24](https://doi.org/10.1145/3617232.3624871), [TPDS'24](https://ieeexplore.ieee.org/document/10682062), [HPDC'23](https://dl.acm.org/doi/10.1145/3588195.3592996), [WWW'22](https://doi.org/10.1145/3485447.3511979), [ACSOS'21](https://ieeexplore.ieee.org/document/9659513)
+- **Container management for FaaS and CaaS platforms**: [ATC'26](https://intellisys.haow.us/assets/pdf/atc26-final1903.pdf), [ASPLOS'24](https://doi.org/10.1145/3617232.3624871), [TPDS'24](https://ieeexplore.ieee.org/document/10682062), [HPDC'23](https://dl.acm.org/doi/10.1145/3588195.3592996), [WWW'22](https://doi.org/10.1145/3485447.3511979), [ACSOS'21](https://ieeexplore.ieee.org/document/9659513)
