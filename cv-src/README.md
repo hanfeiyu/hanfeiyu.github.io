@@ -34,3 +34,18 @@ The website's Projects card and CV entry instead use a live
 their `github_stars` fields. The badge updates independently of site deployments
 when pages load, subject to Shields.io and browser caching. Downloaded PDFs do not
 update themselves; rebuild the CV to refresh its snapshot.
+
+## Finalizing a CV
+
+When Hanfei approves a new CV for release, update the existing **Resume Hanfei Yu**
+Overleaf project from the same revision that produced the website PDF. Use the
+Overleaf Tools Git project alias `hanfei-cv`. Preview builds and website-only
+changes do not trigger a sync.
+
+Compare the project's root files with `Resume_for_Hanfei.tex`, `resume.cls`,
+`reef-stats.tex`, and `publications.bib` in this directory. Include any new
+LaTeX dependencies. Reconcile edits made independently on Overleaf before pushing.
+Import changed files at the project root, dependencies first, using the tool's
+revision and file-hash checks. After the push, fetch the remote files again and
+verify that their contents match the finalized sources. Record the website and
+Overleaf Git revisions when reporting the release.
