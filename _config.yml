@@ -335,6 +335,7 @@ filtered_bibtex_keywords:
     selected,
     slides,
     supp,
+    traces,
     video,
     website,
   ]

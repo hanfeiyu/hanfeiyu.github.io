@@ -196,14 +196,14 @@ ul.task-list input[type="checkbox"] {
     padding: 0;
   }
 
-  .col > a {
+  // Primary card link; inset focus ring because .card clips overflow.
+  .project-card-link {
     display: block;
-    height: 100%;
-    border-radius: 3px;
+    flex: 1 1 auto;
 
     &:focus-visible {
       outline: 2px solid var(--global-theme-color);
-      outline-offset: 3px;
+      outline-offset: -2px;
     }
   }
 
@@ -223,7 +223,9 @@ ul.task-list input[type="checkbox"] {
     margin: 0;
   }
 
-  .card-img-top {
+  .card-img-top,
+  .project-brand,
+  .project-card-icon {
     display: block;
     width: 100%;
     height: 120px;
@@ -231,6 +233,33 @@ ul.task-list input[type="checkbox"] {
     padding: 1rem;
     background: #fff;
     border-bottom: 1px solid var(--global-divider-color);
+  }
+
+  .project-brand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    color: #505050;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: clamp(1.25rem, 5vw, 1.75rem);
+    font-weight: 400;
+    white-space: nowrap;
+
+    img {
+      width: 64px;
+      height: 64px;
+      flex: 0 0 auto;
+      object-fit: contain;
+    }
+  }
+
+  .project-card-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--global-theme-color);
+    font-size: 3.5rem;
   }
 
   .card-body {
@@ -262,6 +291,30 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
     line-height: 1.5;
+  }
+
+  // Resource links sit outside the primary link to avoid nested anchors.
+  .project-card-links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.25rem 1rem;
+    padding: 0 0.75rem 0.75rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+
+    a {
+      border-radius: 3px;
+
+      &:hover {
+        text-decoration: underline;
+      }
+
+      &:focus-visible {
+        outline: 2px solid var(--global-theme-color);
+        outline-offset: 2px;
+      }
+    }
   }
 }
 

@@ -196,6 +196,9 @@
           <a href="{{ entry.link | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Link</a>
         {% endif %}
       {% endif %}
+      {% if entry.traces %}
+        <a href="{{ entry.traces | escape }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Traces</a>
+      {% endif %}
       {% if entry.award %}
         <a href="{{ entry.award }}" class="award btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
@@ -370,12 +373,12 @@
     {% endif %}
 
     {% comment %}
-    {% if entry.award %}
-      <!-- Hidden Award block -->
-      <div class="award hidden d-print-inline">
-        <p>{{ entry.award | markdownify }}</p>
-      </div>
-    {% endif %}
+      {% if entry.award %}
+        <!-- Hidden Award block -->
+        <div class="award hidden d-print-inline">
+          <p>{{ entry.award | markdownify }}</p>
+        </div>
+      {% endif %}
     {% endcomment %}
 
     {% if entry.abstract %}
