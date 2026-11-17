@@ -104,6 +104,9 @@ ninja.data = [{
           section: "News",},{id: "news-paper-xrlhf-efficient-rlhf-with-serverless-rollout-actors-accepted-by-socc-26",
           title: '[Paper] “xRLHF: Efficient RLHF with Serverless Rollout Actors” accepted by SoCC’26',
           description: "",
+          section: "News",},{id: "news-dataset-excited-to-share-that-the-azure-kubernetes-service-aks-traces-accompanying-our-unipool-paper-are-now-publicly-available",
+          title: '[Dataset] Excited to share that the Azure Kubernetes Service (AKS) traces accompanying our...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -154,6 +157,11 @@ ninja.data = [{
           description: "Infrastructure for continually self-improving agents",
           section: "Projects",handler: () => {
               window.location.href = "/projects/reef/";
+            },},{id: "projects-unipool",
+          title: 'Unipool',
+          description: "Efficient management of pre-provisioned resources for container platforms",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/unipool/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
